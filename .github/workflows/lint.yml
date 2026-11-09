@@ -1,0 +1,40 @@
+name: lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  docs-and-tools:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: House style across all prose
+        run: python3 tools/lint_docs.py .
+
+      - name: Linter catches a bad resume
+        run: |
+          if python3 tools/resume_lint.py tools/fixtures/bad-resume.md; then
+            echo "expected the bad fixture to fail"; exit 1
+          else
+            echo "bad fixture correctly failed"
+          fi
+
+      - name: Linter passes a good resume
+        run: python3 tools/resume_lint.py tools/fixtures/good-resume.md
+
+      - name: Build the LaTeX template
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq texlive-latex-base texlive-latex-recommended texlive-fonts-recommended poppler-utils
+          mkdir -p build
+          ./tools/build.sh templates/latex/ats-single-column/resume.tex build
+
+      - name: Parser check on the built PDF
+        run: python3 tools/parse_check.py build/resume.pdf

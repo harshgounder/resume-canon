@@ -87,7 +87,7 @@ list. That profile was not opened directly, so treat the details as V3.
 **What he publishes instead:** company material, conference talks, interviews. No
 personal about page, no CV, no portfolio.
 
-**Why it matters:** the only skills list attached to any person in this lane is a
+**Why it matters:** the only skills list attached to any of the named people is a
 platform field on LinkedIn, not a section someone wrote. Even that list looks
 auto-populated and stale (AJAX, Hadoop, Hive, Zombies).
 
@@ -509,14 +509,15 @@ The order varies, but the parts do not.
    suspended. jasonfried.com is a different Jason Fried. jaredspool.com does not
    respond. The stable documents are the institution's team page (GV, Center Centre,
    SVPG) and the newsletter about page, not the personal site. A corpus built from
-   guessed personal URLs would have recorded three false absences.
+   guessed personal URLs would have recorded two false absences and attributed one
+   document to the wrong person.
 
 6. **The about page has become a subscription page.** Lenny's /about is 169 words, no
    career facts, and a subscribe button. The person is the product, so the page sells
    the product. This is a new genre, not a bad CV.
 
 7. **The contact block has collapsed into links.** Two direct emails in thirteen
-   documents, both from founders old enough to have run companies before contact forms
+   documents, both from founders who still publish an address in plain text
    (Collison, Fried). Everyone else routes through X, LinkedIn, or a contact page.
 
 8. **The only conventional resume in the lane belongs to a new graduate.** Sarthak
@@ -547,7 +548,7 @@ The order varies, but the parts do not.
   author's description, not from the document.
 - **GoApply's resume.** The Google Doc export requires a sign-in. The rules were
   verified, the document was not.
-- **Facebook teardowns.** Jonathan Javier's colour-coded post is behind a login wall;
+- **Facebook teardowns.** Jonathan Javier's color-coded post is behind a login wall;
   only the search excerpt was readable.
 - **No "this resume got me into Y Combinator" teardown from a founder was found.**
   Searches returned new-grad and career-coach content instead. If that post exists, it

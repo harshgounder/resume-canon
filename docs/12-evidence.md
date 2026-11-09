@@ -50,6 +50,29 @@ model preference.
 | "There is no bias in this system" | Paradox (customer quote) | Not a measurement |
 | "75% of resumes are rejected by ATS" | Preptel, defunct 2013 | No study, sample or method ever published |
 
+## How humans actually read
+
+This is the most misquoted area in the field.
+
+| Claim | What the evidence shows | Grade |
+|---|---|---|
+| "Recruiters spend 7.4 seconds" | The 2018 Ladders report measures an initial fit/no-fit pass, not total reading time, and the report does not state its sample. The 2012 study behind it used 30 professional recruiters over 10 weeks. Every 2018 write-up that says "30 recruiters" is carrying the 2012 number forward. | V1 for the reports, V3 for the popular retelling |
+| "Recruiters spend 30 seconds to 3 minutes" | Survey data, not eye tracking. ResumeGo 2024 (n=418): 47 percent spend 30 seconds to a minute, 1 percent under 10 seconds. Korn Ferry 2017 (n=1,815 executives): 51 percent under 5 minutes, 13 percent under 2 minutes. Resume Genius (n=625 hiring managers): 57 percent at 1 to 3 minutes. | V2 |
+| "People read in an F pattern" | NN/g measured F patterns on web pages in 2006, with 232 users, and notes the pattern appears when there are no strong cues. The Ladders report lists F and E layouts as design advice, then describes its best resumes as scanning the left side evenly, which is not an F. | V1 for the web study, V3 for the resume claim |
+| "The top third decides everything" | No study. The 80 percent figure refers to six data points (name, current title and company, current dates, previous title and company, previous dates, education), and education usually sits at the bottom. Four 2026 vendor pages assert the top-third rule with no data. | V3 |
+| "Experience is what recruiters look at" | Pina et al. 2023, Machine Learning and Knowledge Extraction 5(3):713-724: 221 recruiters who hired CS majors, 30 resumes each, Tobii eye tracking, no time limit, AUC 0.767. Advancement was predicted by total viewing time, gaze off the document, and dwell on Experience, with Education weaker. | V1 |
+| "There is a reading order" | The same study's limitations section says it did not track sequence order. No peer-reviewed study establishes a reading order for resumes. | V1 for the absence |
+
+**The supported version of the speed claim:** a recruiter's first pass is
+seconds, and their deliberate review is one to three minutes. Both are true, they
+are different events, and averaging them into "about 30 seconds" is wrong.
+
+**The supported version of the attention claim:** recruiters spend more time on
+the experience section than on education, and total viewing time predicts
+advancement. That is not the same as "the top third decides", and the difference
+matters because it says the experience block should carry the evidence, not a
+decorative banner.
+
 ## What the authorities agree on
 
 Only one rule survives across every credible source in the sample:
