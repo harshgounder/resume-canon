@@ -15,9 +15,9 @@ Grades follow research/README.md. Two conventions, stated once:
 
 The short version: screening is cheap and interviewing is expensive, by more
 than an order of magnitude, so the document is built to pass a cheap gate
-rather than to persuade. The effects a document can produce are small, in the
-range of 2 to 3 percentage points, and the sample needed to see them runs into
-the thousands. A person testing their own search will almost always measure
+rather than to persuade. The effects a document can produce are small, a couple of
+percentage points at most, and the sample needed to see them runs into the
+thousands. A person testing their own search will almost always measure
 noise. That is the finding, and it is more useful than another checklist.
 
 ## Part 1: The economics of being screened
@@ -105,8 +105,9 @@ interviews to hires.
 
 Two readings matter here.
 
-The first is that the two things a resume mostly contains, years of experience
-and references, are among the weakest predictors in the table. The document is
+The first is that the two selection methods a resume most directly feeds, years
+of experience and reference checks, are among the weakest predictors in the
+table. The document is
 therefore not a measurement instrument. It is a queue-management device. It
 gets a candidate into the part of the process where a better instrument can be
 applied.
@@ -231,7 +232,7 @@ does one of them badly.
 
 An employer's return on a hire is output minus wage, minus hiring cost, minus
 the cost of the vacancy, minus the expected cost of a bad match. The resume
-touches only the second and fourth terms, and it touches them weakly.
+touches only the hiring cost and the bad match, and it touches them weakly.
 
 The cost side is documented. SHRM's median direct cost per hire is $1,200 for
 nonexecutive roles and $10,625 for executives, with averages of $5,475 and
@@ -257,10 +258,10 @@ traces both). Treat the 30 percent figure as folklore with a federal-sounding
 label.
 
 So the employer's screening ROI is: spend $19 to read, $275 to interview, and
-$1,200 to hire, in order to avoid a vacancy that costs $16,000 a month in
+$1,200 to hire, in order to avoid a vacancy that costs about $8,200 a month in
 forgone output and a bad match that costs somewhere between one and two times
-salary. The document is the cheapest term in that equation by three orders of
-magnitude, which is exactly why it is read for seven seconds.
+salary. The document is the cheapest term in that equation, which is exactly
+why it is read for seven seconds.
 
 ### 1.8 Funnel data, by segment
 
@@ -275,7 +276,7 @@ customers.
 | Enterprise ATS, 3.1M users | 30 per opening | not published | not published | [iCIMS, Sept 2026](https://www.icims.com/company/newsroom/septemberinsights2026/) | V1 for the platform |
 | Big tech, Google, 2014 | about 429 per hire | not published | not published | [Business Insider, 2014](https://www.businessinsider.com/google-hiring-process-committee-2014-10) | V2 |
 | Audit study, mature workers, US | not applicable | 10.4 percent callback | not applicable | [RSF Journal, 2017](https://www.rsfjournal.org/content/3/3/168) | V1 |
-| Field experiment, UK, 9,022 applications | not applicable | 4.15 percent control callback | not applicable | [Nature Human Behaviour, 2022](https://ore.exeter.ac.uk/articles/journal_contribution/Reducing_discrimination_against_job_seekers_with_and_without_employment_gaps/29791193/1/files/56828807.pdf) | V1 |
+| Field experiment, UK, 9,022 applications | not applicable | 8 percent relative lift in callbacks | not applicable | [Nature Human Behaviour, 2022](https://ore.exeter.ac.uk/articles/journal_contribution/Reducing_discrimination_against_job_seekers_with_and_without_employment_gaps/29791193/1/files/56828807.pdf) | V1 |
 
 The Google number is 3 million applications and 7,000 hires, or about 0.23
 percent, which is 429 applications per hire (arithmetic). It is a 2014 quote
@@ -289,7 +290,7 @@ the first human contact, is usually the one that is not published.
 
 The range is the finding. A small business hires one in 180 applicants. Google
 in 2014 hired one in 429. An audit study sees a 10.4 percent callback rate. A
-UK field experiment sees 4.15 percent. The base rate is not a property of
+reference-letter audit sees a 4.15 percent control callback rate. The base rate is not a property of
 resumes. It is a property of the market, the role, and the month. Any test that
 assumes a fixed base rate is measuring the market, not the document.
 
@@ -421,8 +422,8 @@ numbers the effects actually require.
 
 ### 2.4 What the large-N experiments found
 
-Four designs are worth knowing, because each one isolates something a document
-can control.
+Three designs are worth knowing, because each one isolates something a document
+can control. Then a warning about the base rate.
 
 **Date format, UK, N = 9,022.** A preregistered field experiment rewrote resumes
 so that previous jobs listed years worked instead of employment dates. Callbacks
@@ -448,7 +449,7 @@ older applicants was about 5 percentage points
 This is the design that a candidate cannot run, and the reason the audit
 literature exists.
 
-**Base rates move with the market.** The same audit literature reports callback
+The base rate moves with the market. The audit literature reports callback
 rates of 4.7 percent in one US study, 8.3 percent in a 2012 US study, 10.4
 percent in the RSF study, and 25 percent in a 2007 Swedish study
 ([RSF Journal, 2017](https://www.rsfjournal.org/content/3/3/168)). A document
@@ -730,7 +731,7 @@ believing yourself. That is the value.
   sample (CareerPlug 2025).
 - Degree requirements are a weak and partly arbitrary filter, and removing them
   changes hiring by about 3.5 percent (BGI 2024).
-- Document-level interventions produce small effects, around 2 to 3 percentage
+- Document-level interventions produce small effects, at most a few percentage
   points, measured on thousands of applications (Nature Human Behaviour 2022,
   reference-letter audit).
 - Blinding is not a universal improvement. It reduced female shortlisting in an
@@ -742,8 +743,8 @@ believing yourself. That is the value.
   application volume has doubled since 2022, which should push the skim down,
   not up.
 - Whether referrals select better candidates or better-connected ones. The NY
-  Fed study finds referred workers are more productive and stay longer, but the
-  mechanism is not separated from the referrer's own selection.
+  Fed study finds referred workers perform better, but the mechanism is not
+  separated from the referrer's own selection.
 - Whether the degree reset changed hiring. The postings changed; the 2024
   follow-up says the hires mostly did not.
 - Whether AI screening helps or hurts. Wave 06 covers the vendor documents;
@@ -806,7 +807,7 @@ believing yourself. That is the value.
 
     query: audit study sample sizes and callback rates
     tool: web_search
-    result: Neumark et al. 40,208 resumes; RSF 10.4 percent; UK 9,022 and 4.15 percent
+    result: Neumark et al. 40,208 resumes; RSF 10.4 percent; UK 9,022; reference-letter 4.15 percent control
 
     query: ethics and legality of variant applications
     tool: web_search
@@ -865,4 +866,3 @@ Secondary and unverified
 - Enhancv on JOLTS seasonality, 2026. https://enhancv.com/blog/best-time-to-job-search-data/
 - Monster Seasonal Hiring Index 2026. https://www.monster.com/career-advice/research/seasonal-hiring-index-2026
 - Jobscan, State of the Job Search 2025. https://www.jobscan.co/state-of-the-job-search
-- Novoresume resume statistics, 2026. https://novoresume.com/career-blog/resume-statistics

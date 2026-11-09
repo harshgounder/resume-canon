@@ -25,6 +25,7 @@ specific problem.
 | 18 | [Narrative](18-narrative.md) | Gaps, positioning, credibility, interview linkage | v1 |
 | 19 | [The ecosystem](19-repos.md) | Every repo that matters, plus the HN threads | v1 |
 | 20 | [Law and bias](20-law.md) | What employers may ask, what you can demand, who gets filtered | v1 |
+| 21 | [Economics](21-economics.md) | What an application costs, and why you cannot test your resume | v1 |
 
 ## Conventions
 
