@@ -13,15 +13,15 @@ Two things shape the catalogue. First, most failures are silent. The file upload
 | F01 | Contact details in header or footer | Recruiter, days later | Yes | V1 |
 | F02 | Contact details in a text box or sidebar | Recruiter | Yes | V1 |
 | F03 | Tables and columns scrambled | Recruiter | Yes | V1 |
-| F04 | Icon fonts and decorative bullets | Nobody until a human reads the text | Yes | V3 |
-| F05 | Mixed date formats corrupt tenure | Recruiter filter, not the reader | Yes | V1 schema plus V3 tests |
-| F06 | Missing "Present" turns a current job into a gap | Recruiter | Yes | V3 |
-| F07 | Month omitted, so a role looks short | Recruiter | Yes | V3 |
-| F08 | Job title does not match the requisition | Recruiter search and knockouts | Yes | V1 |
-| F09 | Abbreviated title not normalised | Recruiter | Yes | V1 |
-| F10 | Degree not recognised or mapped | Knockout or reviewer | Sometimes | V1 eligibility list |
-| F11 | CGPA or percentage below a hard cutoff | Candidate, after rejection | No, stated in the notice | V1 |
-| F12 | Skills in images or icon ratings | Nobody | Yes | V1 plus V3 |
+| F04 | Mixed date formats corrupt tenure | Recruiter filter, not the reader | Yes | V1 schema plus V3 tests |
+| F05 | Missing "Present" turns a current job into a gap | Recruiter | Yes | V3 |
+| F06 | Month omitted, so a role looks short | Recruiter | Yes | V3 |
+| F07 | Job title does not match the requisition | Recruiter search and knockouts | Yes | V1 |
+| F08 | Abbreviated title not normalised | Recruiter | Yes | V1 |
+| F09 | Degree not recognised or mapped | Knockout or reviewer | Sometimes | V1 eligibility list |
+| F10 | CGPA or percentage below a hard cutoff | Candidate, after rejection | No, stated in the notice | V1 |
+| F11 | Skills in images or icon ratings | Nobody | Yes | V1 plus V3 |
+| F12 | Decorative bullets and special characters | Reader sees boxes or merged lists | No, but damaged | V3 |
 | F13 | Two page resume from a student | Recruiter, page two unread | No, but ignored | V2 |
 | F14 | Photo and personal data, wrong country norm | Recruiter, bias risk | No | V2 |
 | F15 | "References available on request" | Nobody, it just wastes a line | No | V2 |
@@ -36,6 +36,7 @@ Two things shape the catalogue. First, most failures are silent. The file upload
 | F24 | Wrong file extension or name | Upload form, sometimes | No | V1 plus V3 |
 | F25 | Font and encoding damage | Reader sees mojibake | No | V2 plus V3 |
 | F26 | Test or placeholder data skipped by the parser | Recruiter | Yes | V1 |
+| F27 | Location field overridden by an application question | Recruiter | Yes | V1 |
 
 ## 1. Contact and identity
 
@@ -119,7 +120,7 @@ Two things shape the catalogue. First, most failures are silent. The file upload
 
 **Symptom.** The education field is blank, or the degree is recorded at the wrong level, or a knockout question about holding a bachelor's degree is answered no.
 
-**Cause.** There are two separate mechanisms and they are usually conflated. The parser writes the degree as a free string (V1, SmartRecruiters `Education.degree`). The knockout is an employer configured list. Indian candidates hit the second one: TCS's official NQT page limits eligibility to named degrees, "B.Tech / B.E / M.Tech / M.E / MCA / M.Sc / M.S" from AICTE or UGC recognised institutions (V1, [TCS](https://www.tcs.com/careers/india/tcs-all-india-nqt-hiring)). A three year bachelor's, a BCA, or a diploma in the same family can fail a list written for a four year US bachelor's. UC Davis advises spelling out the full name of the university, degree and major, which is also the practical fix for a parser (V2, [UC Davis](https://careercenter.ucdavis.edu/resumes-and-materials/resumes)).
+**Cause.** There are two separate mechanisms and they are usually conflated. The parser writes the degree as a free string (V1, SmartRecruiters `Education.degree`). The knockout is an employer configured list. Indian candidates hit the second one: TCS's official NQT page limits eligibility to named degrees, "B.Tech / B.E / M.Tech / M.E / MCA / M.Sc / M.S" from AICTE or UGC recognised institutions (V1, [TCS](https://www.tcs.com/careers/india/tcs-all-india-nqt-hiring)). A BCA or a three year bachelor's outside that list fails at the form, not at the parser, and no resume wording changes the outcome. UC Davis advises spelling out the full name of the university, degree and major, which is also the practical fix for a parser (V2, [UC Davis](https://careercenter.ucdavis.edu/resumes-and-materials/resumes)).
 
 **Fix.** Write the degree twice in one line: the local name and the international equivalent. "Bachelor of Technology (B.Tech) in Computer Science, 4 year program". Fill the education fields in the portal by hand even when the resume parsed, because the knockout reads the field, not the attachment.
 

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Resume</title>
+<style>
+  /* Print-first. One column. No flex or grid around content, so the DOM order
+     and the printed order are identical and parsers read it top to bottom. */
+  @page { size: A4; margin: 14mm 15mm; }
+  * { box-sizing: border-box; }
+  html { font-size: 10.5pt; }
+  body {
+    margin: 0;
+    color: #111;
+    font-family: "Source Serif 4", "Charter", "Georgia", serif;
+    line-height: 1.32;
+  }
+  header { text-align: center; margin-bottom: 14px; }
+  h1 { font-size: 22pt; margin: 0 0 2px; letter-spacing: 0.01em; }
+  .role { font-size: 10.5pt; color: #333; margin: 0 0 6px; }
+  .contact { font-size: 9.5pt; color: #333; }
+  .contact span { white-space: nowrap; }
+  .contact span + span::before { content: " | "; color: #999; }
+  h2 {
+    font-size: 10pt;
+    text-transform: uppercase;
+    letter-spacing: 0.09em;
+    margin: 14px 0 5px;
+    padding-bottom: 2px;
+    border-bottom: 0.6pt solid #333;
+  }
+  .entry { margin: 0 0 8px; }
+  .entry-head { display: flex; justify-content: space-between; gap: 10px; }
+  .entry-head strong { font-size: 10.5pt; }
+  .entry-head .when { font-size: 9.5pt; color: #444; white-space: nowrap; }
+  .entry-sub { font-style: italic; font-size: 9.8pt; color: #333; }
+  ul { margin: 3px 0 0; padding-left: 15px; }
+  li { margin: 0 0 2.5px; }
+  .skills p { margin: 0 0 2px; }
+  .skills b { font-weight: 600; }
+  a { color: inherit; text-decoration: none; }
+  @media print { a { color: #111; } }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Your Name</h1>
+  <p class="role">Role you are applying for, or your one-line positioning</p>
+  <p class="contact">
+    <span>City, Country</span>
+    <span>you@example.com</span>
+    <span>+91 00000 00000</span>
+    <span>github.com/you</span>
+    <span>linkedin.com/in/you</span>
+  </p>
+</header>
+
+<h2>Experience</h2>
+<div class="entry">
+  <div class="entry-head"><strong>Company</strong><span class="when">City, Country</span></div>
+  <div class="entry-head"><span class="entry-sub">Job Title</span><span class="when">Mon YYYY to Mon YYYY</span></div>
+  <ul>
+    <li>Verb first. What you did, on what, with what result.</li>
+    <li>One number if a real one exists.</li>
+  </ul>
+</div>
+
+<h2>Projects</h2>
+<div class="entry">
+  <div class="entry-head"><strong>Project name</strong><span class="when">link or year</span></div>
+  <div class="entry-sub">One line on what it is</div>
+  <ul>
+    <li>What you built, what happened.</li>
+  </ul>
+</div>
+
+<h2>Education</h2>
+<div class="entry">
+  <div class="entry-head"><strong>University</strong><span class="when">City, Country</span></div>
+  <div class="entry-head"><span class="entry-sub">Degree, Branch</span><span class="when">YYYY to YYYY</span></div>
+  <div>GPA: X.XX / 10. Relevant coursework: A, B, C.</div>
+</div>
+
+<h2>Skills</h2>
+<div class="skills">
+  <p><b>Languages:</b> C++, Python, JavaScript</p>
+  <p><b>Tools:</b> Git, Linux, Docker, Postgres</p>
+  <p><b>Domains:</b> what you can defend in an interview</p>
+</div>
+
+</body>
+</html>
