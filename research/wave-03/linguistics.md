@@ -24,7 +24,7 @@ The mechanical reason is stronger than the stylistic one. "Responsible for the d
 
 A verb in a bullet has to survive one test: can a reader picture the action without asking a follow-up question? "Built" passes. "Supported" fails, because support can mean anything from writing the code to bringing coffee. "Managed" fails on its own and passes the moment an object arrives ("managed a $2M budget", "managed four engineers").
 
-This is why the verb banks that careers offices publish are less useful than they look. Harvard's list runs to roughly 200 verbs across leadership, research, technical and teaching (V2, [Harvard FAS](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume)). Yale publishes a similar list under categories including helping, improved, organizational and technical (V2, [Yale](https://ocs.yale.edu/resources/resume-action-verbs)). Both lists contain verbs that fail the test above. Yale's helping category includes "Assisted", "Aided", "Attended", "Contributed", "Supported" and "Volunteered". A student who picks a verb off that page can pick a weak one and feel licensed.
+This is why the verb banks that careers offices publish are less useful than they look. Harvard's table runs to well over 100 verbs across leadership, research, technical and teaching (V2, [Harvard FAS](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume)). Yale publishes a similar list under categories including helping, improved, organizational and technical (V2, [Yale](https://ocs.yale.edu/resources/resume-action-verbs)). Both lists contain verbs that fail the test above. Yale's helping category includes "Assisted", "Aided", "Attended", "Contributed", "Supported" and "Volunteered". A student who picks a verb off that page can pick a weak one and feel licensed.
 
 The rule I would print instead: the verb is only as strong as the noun after it. "Built a reconciliation script" beats "spearheaded initiatives". "Cut build time from 14 to 4 minutes" beats "optimized processes". Verb strength is mostly specificity, not intensity.
 
@@ -206,9 +206,9 @@ There is one legitimate passive in resume writing, and it is rare: when the obje
 
 | Property | Working number | Source | Grade |
 |---|---|---|---|
-| Length in lines | 1 to 2 lines, 1 preferred | Yale (3-4 bullets, 1-2 lines each); Google recruiters want one line | V2 |
+| Length in lines | 1 to 2 lines, 1 preferred | Yale, 3-4 bullets at 1-2 lines each (via wave 01); Google recruiters want one line | V2 |
 | Length in words | 15 to 30 | Two resume vendors, no study | V3 |
-| Bullets per role, general | 2 to 5 | UC Davis ("2-5 accomplishment statements"); AWS ("2-5 bullets") | V2 |
+| Bullets per role, general | 2 to 5 | UC Davis ("2-5 accomplishment statements"); AWS ("2-5 bullets", via wave 01) | V2 |
 | Bullets per role, current and relevant | 3 to 6 | UCSD ("3-5"); practitioner guides push 4 to 6 for the current role | V3 |
 | Bullets per old role | 1 to 2 | jobs.ac.uk (early positions compressed to one or two lines) | V2 |
 

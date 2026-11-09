@@ -6,9 +6,9 @@ V3 material was needed for the structural claims. Where a claim is about a
 person's choice, the link in that subsection is the evidence.
 
 Rule I applied: if the URL did not return a PDF, or an HTML page with real CV
-content, the person does not get a row. Ten names from the brief failed that
-test. They are listed under "What I could not verify" rather than padded with a
-profile page or a lab bio.
+content, the person does not get a row. Twelve of the sixteen names in the brief
+failed that test. They are listed under "What I could not verify" rather than
+padded with a profile page or a lab bio.
 
 ## Table
 
@@ -33,7 +33,7 @@ the file timestamp; where the only date was the PDF creation stamp I say so.
 
 ## What I could not verify
 
-Ten brief candidates have no openable CV at the obvious places. This is a
+Twelve brief candidates have no openable CV at the obvious places. This is a
 negative search result, not a claim about the person.
 
 | Person | What I tried | Result |
@@ -48,6 +48,8 @@ negative search result, not a claim about the person.
 | Dawn Song | dawnsong.io, cv.pdf | site has a contact form, no CV |
 | Michael Nielsen | michaelnielsen.org | domain parked |
 | Andrej Karpathy | karpathy.ai/cv.pdf | 404, no CV link |
+| Richard Sutton | incompleteideas.net/sutton/cv.pdf, site index | 404, site is a directory listing with no CV file |
+| Matt Might | matt.might.net, /cv/ and /articles/cv/ | CV is rendered from a JS data file, no PDF and no plain HTML CV page |
 
 The pattern is worth stating plainly: the most famous names in this list are the
 least likely to publish a CV. They have lab pages, Google Scholar profiles, and
@@ -153,16 +155,16 @@ Conference Presentations, Professional Activities, Lab Alumni.
 nationality ("Citizen of Australia, the United Kingdom, & the United States of
 America"). No phone. Page number sits top right, section headings are all caps.
 
-**How 44 pages stays usable:** all-caps section headers, lettered subsections
+**How 44 pages stays usable:** all-caps section headers, plain subheads under them
 ("External", "Internal" under grants; "Books", "Journal articles",
 "Peer-reviewed conference papers", "Book chapters" under publications), and one
 continuous publication number across every category, running to 519. A reader
 can cite "publication 214" and it means one thing.
 
-**Grants** carry dates, role, funder, and amount: "2025-2027 "Predicting
-algorithmic trust at scale," (with 6 other faculty members, Thomas Griffiths as
-PI), DARPA ($4,997,132)." **Publications** open with a metric: "84,000+
-citations, h index of 126 via Google Scholar".
+**Grants** carry dates, role, funder, and amount. One 2025-2027 DARPA line reads:
+"(with 6 other faculty members, Thomas Griffiths as PI), DARPA ($4,997,132)."
+**Publications** open with a metric: "84,000+ citations, h index of 126 via
+Google Scholar".
 
 **Education** is third, after positions. **Skills:** none. **Bullets:** noun
 phrases, no verbs. The CV ends with Lab Alumni and each student's placement
@@ -211,8 +213,9 @@ Teaching Experiences, Funding, Publications, Other Experiences.
 the update date, postal address, phone, fax, email, URL. Phone and fax are
 unusual in this sample; only she and Krause print a voice number.
 
-**Bullet grammar:** noun phrases with dates, funding lines carry role and money:
-"IARPA (sub to kitware), "ALADDIN...", (PI), $1,125,000, 2010.10-2015.09".
+**Bullet grammar:** noun phrases with dates. Funding lines carry role and money
+in the same line: "(PI), $1,125,000, 2010.10-2015.09" and "(co-PI),
+$2,000,000".
 
 **Education** is first. **Skills:** none. **Publications** start with the thesis,
 then numbered journal and conference papers, then conference abstracts. No page
@@ -415,11 +418,11 @@ structure.
 | A talks section | 8 of 13 | absent in Aaronson, Liang, Jurafsky, Dao, Jiang |
 | Page numbers on every page | 9 of 13 | absent in Li, Gonzalez, Jiang; Tao is HTML |
 | A summary or bio paragraph at the top | 3 of 13 | Tao, Gonzalez, Lambert |
-| A funding or grants section | 5 of 13 | dollar amounts in only 2 (Griffiths, Li) |
-| Visible URLs in the text layer | 0 to 3 per document | links are hyperlinks, not printed URLs |
+| A funding or grants section | 4 of 13 | dollar amounts in 3 (Griffiths, Li, Gonzalez) |
+| Visible URLs in the text layer | 0 to 3 in 11 of 13 | Gonzalez prints arXiv links throughout; elsewhere links are embedded, not printed |
 
 Two schemes for numbering show up about equally. Griffiths and Jurafsky run one
-counter across books, journals, and conferences, so item 517 exists and can be
+counter across books, journals, and conferences, so item 519 exists and can be
 cited. Liang restarts at 1 inside each group. Lambert numbers continuously but
 separates by year. The continuous scheme is better for citation; the per-group
 scheme is better for reading.
@@ -436,13 +439,13 @@ These are LaTeX documents built for print, not web pages.
 
 ## What surprised me
 
-**The most famous people do not publish CVs.** Ten of the fifteen names in the
+**The most famous people do not publish CVs.** Twelve of the sixteen names in the
 brief had nothing openable. The ones who do publish are mid-career, or junior and
 on the market. Fame substitutes for the document.
 
 **A two-page CV with no education section exists at OpenAI.** Jason Wei's file is
-the shortest by a factor of three and it omits the section every guide says must
-be first. It works because the publications are the credential.
+the shortest in the sample and it omits the section every guide says must be
+first. It works because the publications are the credential.
 
 **Public CVs rot quietly.** Fei-Fei Li's is dated 2011 and still sits on a
 Stanford URL. Krause's is dated 2017. Both are the top result for "CV" on the
@@ -464,8 +467,8 @@ titles into a claim about selectivity.
 frameworks and companies using his code, before the paper list. That is a
 different theory of what a CV is for.
 
-**A 33-page CV with no page numbers.** Gonzalez's document is the longest PDF and
-the only long one with no pagination. Length and care do not scale together.
+**A 33-page CV with no page numbers.** Gonzalez paginates nothing, and Griffiths
+paginates 44 pages. Length and care do not scale together.
 
 **Skills sections belong to juniors.** One of thirteen, and it is the PhD
 candidate. The senior documents replace skills with evidence: courses taught,
