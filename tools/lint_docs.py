@@ -85,6 +85,10 @@ def main():
                 continue
             low = stripped.lower()
 
+            # Code has to contain dash characters in order to match them.
+            if path.endswith((".py", ".sh")):
+                continue
+
             if "\u2014" in line:
                 findings.append((path, number, "em dash", stripped[:90]))
             # en dash used as punctuation, not in a numeric range
@@ -95,7 +99,12 @@ def main():
                     break
 
             for word in BANNED:
-                if re.search(r"\b" + re.escape(word) + r"\b", low):
+                # "Indeed" the job board is a proper noun; "indeed" is the filler.
+                if word == "indeed":
+                    hit = re.search(r"\bindeed\b", stripped)  # case sensitive
+                else:
+                    hit = re.search(r"\b" + re.escape(word) + r"\b", low)
+                if hit:
                     findings.append((path, number, f"banned: {word}", stripped[:90]))
                     break
 

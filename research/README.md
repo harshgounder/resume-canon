@@ -50,6 +50,18 @@ tool: web_search | x_search | gh api | web_fetch
 result: <one line> -> <source url>
 ```
 
+## Link rot
+
+External sources rot. On 2026-11-09, `tools/link_check.py` found 19 of roughly
+200 unique external links dead or unreachable, and a further 40 blocked by bot
+protection (W3C, ACM, TCS, Ladders, Adobe, Indeed and ScienceDirect all answer
+403 to automated clients). A 403 is not proof the page is gone; open it in a
+browser before removing a citation.
+
+Run `python3 tools/link_check.py research docs` before publishing a wave. The
+weekly CI job does the same and does not fail the build, because link rot is a
+maintenance signal, not a correctness one.
+
 ## Freshness
 
 Date of record: 2026-11-09. Prefer 2024-2026 sources. Older sources are fine
