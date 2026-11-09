@@ -24,7 +24,7 @@ one; contradictions are recorded, not smoothed.
 |---|---|---|---|
 | A | Researchers and professors | `wave-02/a-researchers.md` | done, 14 documents |
 | B | Engineers | `wave-02/b-engineers.md` | done, 13 documents |
-| C | Founders and operators | `wave-02/c-founders.md` | running |
+| C | Founders and operators | `wave-02/c-founders.md` | done |
 | D | Competitive programmers and quant | `wave-02/d-competitors.md` | done, 14 documents |
 | O | Orchestrator cross-check | `wave-02/orchestrator-check.md` | done |
 
@@ -60,16 +60,16 @@ rubrics. Output: `wave-06/state-2026.md`.
 
 | Lane | Question | Output | Status |
 |---|---|---|---|
-| K | Why does screening exist, and how do you test a resume? | `wave-07/economics-experiments.md` | running |
-| L | What happens when everyone automates? | `wave-07/agentic-applications.md` | running |
+| K | Why does screening exist, and how do you test a resume? | `wave-07/economics-experiments.md` | done |
+| L | What happens when everyone automates? | `wave-07/agentic-applications.md` | done |
 
 ## Wave 08: law, narrative, accessibility
 
 | Lane | Question | Output | Status |
 |---|---|---|---|
-| M | What is legal and fair? | `wave-08/law-privacy-bias.md` | running |
-| N | How is a career story read, and what gets probed? | `wave-08/narrative-credibility-interview.md` | running |
-| O | Who is excluded by the document? | `wave-08/accessibility-history.md` | running |
+| M | What is legal and fair? | `wave-08/law-privacy-bias.md` | done |
+| N | How is a career story read, and what gets probed? | `wave-08/narrative-credibility-interview.md` | done |
+| O | Who is excluded by the document? | `wave-08/accessibility-history.md` | done |
 
 ## Planned
 

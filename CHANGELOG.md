@@ -1,5 +1,28 @@
 # Changelog
 
+## v1.1.0, 2026-11-09
+
+Waves 07 and 08 complete. All 19 research lanes landed.
+
+**New chapters:** narrative and credibility (18), the ecosystem (19), law and
+bias (20), economics and experiments (21). 21 chapters total.
+
+**New research:** agentic applications, economics and experiments, law and
+privacy and bias, narrative and credibility and interview linkage, accessibility
+and history. About 102,000 words total.
+
+**Corrections to the canon:**
+
+- Explaining a gap on a resume does not help. A 9,022 application audit found
+  explained and unexplained gaps scored the same. The lever is the date format.
+- Founder experience carries a 35 percent lower interview likelihood for men.
+- Senior engineers do not write verb-first bullets; 4 of 12 in the corpus did.
+- School prestige was null in a 2,400 application test.
+- NYC Local Law 144 is barely enforced, and India's DPDP Act grants no automated
+  decision right.
+
+**Rules matrix:** 100 graded claims.
+
 ## v1.0.0, 2026-11-09
 
 First complete canon.

@@ -145,6 +145,21 @@ Statuses:
 | 89 | Refusing salary history is protected where banned | State and city bans | V1 | Established |
 | 90 | Photo, DOB and address are removable where optional | Market convention plus bias evidence | V2 | Convention |
 
+## Economics and measurement
+
+| # | Rule | Evidence | Grade | Status |
+|---|---|---|---|---|
+| 91 | Referrals convert far better than portals | NY Fed: 6 percent of applicants, 29 percent of hires. CareerPlug: under 2 percent, 10 percent | V1 | Established |
+| 92 | Years of experience predicts performance | Validity 0.18, against 0.54 for work samples | V1 | Unsupported |
+| 93 | A resume can be A/B tested by one person | Detecting +10 percent at a 3 percent base needs 53,208 per arm | V1 | Unsupported |
+| 94 | Wording changes move callbacks | No large experiment shows it. Structural changes do | V1 | Unsupported |
+| 95 | Timing matters | Hires -26.5 percent in December, +16.3 percent in June | V2 | Established |
+| 96 | Degree requirements are hard gates | 67 percent of postings required a degree, 16 percent of incumbents held one | V2 | Contested |
+| 97 | "Bad hire costs 30 percent of salary" | No primary source, only citation loops | V3 | Unsupported |
+| 98 | "1 in 3 jobs is a ghost job" | BLS-derived estimate, no official statistic | V3 | Unsupported |
+| 99 | Years-worked format beats exact dates for a gap | UK RCT, 9,022 applications, about +8 percent | V1 | Established |
+| 100 | Reference letters help | +2.54 percentage points on a 4.15 percent control | V1 | Established |
+
 ## How to read this table
 
 If you are writing advice, cite a row. If you are disputing a row, bring a
