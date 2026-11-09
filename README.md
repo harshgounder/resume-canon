@@ -4,7 +4,8 @@ An evidence-graded encyclopedia of CV and resume craft. Not a template dump, not
 another listicle. Every rule here is either a primary source, or two independent
 credible sources that agree, or it is labelled as folklore.
 
-**Status:** wave 01 in progress. Chapters land as their waves close.
+**Status:** waves 01 to 07 in progress, 10 chapters drafted, research at 30k+ words.
+Architecture: [research/ARCHITECTURE.md](research/ARCHITECTURE.md) (26 phases).
 
 ## What this is
 
