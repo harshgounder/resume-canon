@@ -1,0 +1,78 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Your Name",
+    "label": "Role you are applying for",
+    "email": "you@example.com",
+    "phone": "+91 00000 00000",
+    "url": "https://your.site",
+    "summary": "One or two lines. What you are, what you are good at, what you want next.",
+    "location": {
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
+    },
+    "profiles": [
+      { "network": "GitHub", "username": "you", "url": "https://github.com/you" },
+      { "network": "LinkedIn", "username": "you", "url": "https://linkedin.com/in/you" }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "Job Title",
+      "location": "City, Country",
+      "startDate": "2025-05",
+      "endDate": "2025-07",
+      "summary": "One line on the role, optional.",
+      "highlights": [
+        "Verb first. What you did, on what, with what result.",
+        "One number if a real one exists."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project name",
+      "description": "One line on what it is.",
+      "highlights": [
+        "What you built, what happened."
+      ],
+      "keywords": ["React", "PostgreSQL"],
+      "startDate": "2024-01",
+      "url": "https://github.com/you/project",
+      "roles": ["Creator"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://university.example",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology (B.Tech)",
+      "startDate": "2022-08",
+      "endDate": "2026-05",
+      "score": "8.7",
+      "courses": ["Data Structures", "Algorithms", "DBMS", "Operating Systems"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": ["C++", "Python", "Go", "JavaScript", "SQL"]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": ["Git", "Docker", "Linux", "PostgreSQL", "Redis"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Rank 412 of 100,000, TCS CodeVita Season 12",
+      "date": "2025-03",
+      "awarder": "TCS"
+    }
+  ]
+}
