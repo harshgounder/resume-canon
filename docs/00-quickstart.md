@@ -51,6 +51,15 @@ python3 tools/resume_lint.py my-resume.md
 
 Fix every ERROR. Read every WARN. Ignore INFO that does not apply.
 
+Then check what fields a parser would extract:
+
+```bash
+python3 tools/ats_sim.py my-resume.pdf
+```
+
+If the summed tenure does not match reality, or a role is missing, the date lines
+are the problem. Fix them before anything else.
+
 Then compile to PDF and check what the parser sees:
 
 ```bash
