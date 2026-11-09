@@ -56,8 +56,15 @@ def main():
     checked = 0
 
     for path in walk(root):
-        # the banned-word lists themselves and fixtures are exempt
-        if "lint_docs.py" in path or "resume_lint.py" in path or "fixtures" in path:
+        # Files whose job is to list bad phrases are exempt, and so are fixtures.
+        exempt = (
+            "lint_docs.py" in path
+            or "resume_lint.py" in path
+            or "fixtures" in path
+            or "action-verbs.md" in path   # its "never use" table quotes the phrases
+            or path.endswith(".json")      # raw captured data, not our prose
+        )
+        if exempt:
             continue
         try:
             with open(path, encoding="utf-8", errors="replace") as fh:
@@ -92,7 +99,8 @@ def main():
                     findings.append((path, number, f"banned: {word}", stripped[:90]))
                     break
 
-            if "  " in stripped and not stripped.startswith(("|", "-", "*", "  ")):
+            prose = path.startswith("docs/") or path.endswith("README.md")
+            if prose and "  " in stripped and not stripped.startswith(("|", "-", "*", "  ")):
                 findings.append((path, number, "double space", stripped[:90]))
 
     by_rule = {}

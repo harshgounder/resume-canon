@@ -5,10 +5,11 @@ public resume teardowns. Method: open the page, extract the text, record structu
 HTML was pulled with curl and parsed with BeautifulSoup; the one PDF was read with
 pdftotext -layout. Nothing here is quoted from memory.
 
-Headline: the founder CV is not a genre. Thirteen documents were opened for fourteen
-people, and only one of them is a resume in the ordinary sense, a new graduate's
-one-pager discussed under teardowns. What founders and operators publish is a
-one-screen about page: an identity line, a narrative of how they got here, and links.
+Headline: the founder CV is not a genre. Thirteen documents were opened across the
+fourteen people; one person, Dylan Field, has no document at all. None of the thirteen
+is a resume in the ordinary sense. The only conventional resume in this lane is a new
+graduate's one-pager discussed under teardowns. What founders and operators publish is
+a one-screen about page: an identity line, a narrative of how they got here, and links.
 No skills section. No education section. Almost no dates.
 
 The absence is the finding. A founder is not being compared to a stack of other
@@ -38,12 +39,13 @@ mean the claims on the page are true.
 | [Kate Aronowitz](https://www.gv.com/team/kate-aronowitz) | Design leadership (GV) | https://www.gv.com/team/kate-aronowitz | VC firm team bio, third person | Undated; site copyright 2025 | Yes |
 | [Gergely Orosz](https://blog.pragmaticengineer.com/about/) | Engineering writing | https://blog.pragmaticengineer.com/about/ | Newsletter about page, first person | Undated; cites 2019 metric | Yes |
 
-Two rows are absences rather than documents. Dylan Field's domain, dylanfield.com,
-resolves but serves a Namecheap WHOIS verification suspension page, so the personal
-site on his LinkedIn is dead. Jason Fried has no personal CV; his company's about page
-carries a first-person letter that functions as one, and jasonfried.com belongs to a
-different Jason Fried who runs a fractional CTO practice called EatWorkSleep. That
-name collision is a verification trap, not a document.
+One row is an absence. Dylan Field's domain, dylanfield.com, resolves but serves a
+Namecheap WHOIS verification suspension page, so the personal site on his LinkedIn is
+dead. Jason Fried's row is a company letter rather than a personal CV: 37signals.com/about
+carries a first-person origin story signed by him, which functions as the document he
+publishes instead. jasonfried.com belongs to a different Jason Fried who runs a
+fractional CTO practice called EatWorkSleep. That name collision is a verification
+trap, not a document.
 
 ## Per person
 
@@ -52,7 +54,7 @@ name collision is a verification trap, not a document.
 **Document:** [patrickcollison.com/about](https://patrickcollison.com/about). Self-published, V1.
 
 **Sections, in order:** one intro paragraph (location, Stripe, Arc Institute, Ireland,
-MIT, email); "Things I'm interested in" (ten topic entries, each a label plus an
+MIT, email); "Things I'm interested in" (eleven topic entries, each a label plus an
 explanation, several with links); "Elsewhere" (GitHub, Twitter); "Interviews" (dated
 list from 2015 to 2025, plus interviews he conducted).
 
@@ -71,7 +73,7 @@ clause in the first paragraph, with no degree and no year.
 
 **Titles, roles, gaps:** "mainly work on Stripe", not CEO. "I cofounded the Arc
 Institute". Investor in California Forever and Esmeralda. Grant programs with Tyler
-Cowen. Four concurrent roles, no hierarchy, no dates on any of them.
+Cowen. Several concurrent roles, no hierarchy, no dates on any of them.
 
 **Quote:** "I live in California and mainly work on Stripe."
 
@@ -93,7 +95,7 @@ auto-populated and stale (AJAX, Hadoop, Hive, Zombies).
 
 **Document:** [amasad.me/about](https://amasad.me/about). Self-published, V1.
 
-**Sections, in order:** no headings. Five paragraphs of mission (Replit, literacy
+**Sections, in order:** no headings. Four paragraphs of mission (Replit, literacy
 before the printing press, the next billion creators); a career chain in reverse
 chronology ("Before founding Replit", "Before that", "Before that", "And before
 that"); personal interests; "Here are some interviews/articles written about me"; a
@@ -198,7 +200,7 @@ dates, no sequence. The founder role is one of three identities of equal weight.
 
 **Document:** [nat.org](https://nat.org/). Self-published, V1.
 
-**Sections, in order:** "Some things about me" (seven bullets); "Some things I
+**Sections, in order:** "Some things about me" (eight bullets); "Some things I
 believe" (about forty bullets).
 
 **Contact block:** none. No email, no social links in the main text.
@@ -314,8 +316,8 @@ speaking; books; education last.
 **Skills section:** none. A sentence replaces it: he has "personally performed and
 managed most of the roles of a modern software product organization".
 
-**Education:** last sentence. Two degrees with years: UC Santa Cruz, BA Computer
-Science and Applied Economics (1981); Stanford Executive Institute (1994).
+**Education:** last sentence. UC Santa Cruz, B.A. degrees in Computer Science and
+Applied Economics (1981); Stanford Executive Institute (1994).
 
 **Titles, roles, gaps:** "Founder, Partner - Product"; "Before founding SVPG" is the
 only founder framing. HP, Netscape, and eBay are named without dates. The bio is
@@ -418,12 +420,13 @@ new graduates, not by the founder population in the rest of this file.
 | [Jerry Lee](https://www.businessinsider.com/resume-template-got-me-google-internship-jerry-lee-2022-3) | "After applying to 200 jobs, I finally got hired at Google" | 2022-03-02 | No, Google intern | Resume image | V2 |
 | [Sarthak Dalal](https://sarthakdalal28.github.io/posts/2025-11-01-resume-tips) | "Resume tips that got me my job at Google" | 2025-11-01 | No, new-grad engineer | PDF opened | V2 |
 
-**Jonathan Javier.** He was laid off from Snapchat, rebuilt the resume, and says the
-fix was writing for a person rather than a parser: "optimized not for an applicant
-tracking system (ATS), but for a human being". Every experience bullet starts with an
-action verb. Hard skills were pulled from five job descriptions for the target role,
-then placed both at the bottom and inside the relevant bullets. His later Facebook
-breakdown is colour-coded: red action words, orange hard skills, yellow soft skills,
+**Jonathan Javier.** He built the resume as a student, without a target school or a
+referral, and says the fix was writing for a person rather than a parser: "optimized
+not for an applicant tracking system (ATS), but for a human being". Every experience
+bullet starts with an action verb. Hard skills were taken from the job descriptions
+he was targeting, then placed both at the bottom and inside the relevant bullets. In a
+later Facebook breakdown he says he pulled the hard skills from five job descriptions
+and color-coded the result: red action words, orange hard skills, yellow soft skills,
 green metrics, blue achievement. The Business Insider article is behind a subscriber
 wall after the preview, and the resume itself is an image, so the exact line breaks
 could not be checked.
@@ -472,8 +475,8 @@ excluded from the counts.
 | First person | 8/13 | Third person: Cagan, Spool, Aronowitz. Label only: Lavingia, Zhuo. |
 | Founder or co-founder as self-description | 7/13 | Collison, Masad, Lavingia, Zhuo, Cagan, Spool, Fried. Rauch says CEO; Friedman says "started two companies". |
 | Direct email | 2/13 | Collison and Fried. Cagan has an obfuscated address. The rest route to a contact page, X, or LinkedIn. |
-| Any bulleted list | 6/13 | Career achievement bullets: 2/13 (Rauch, partly Friedman). The rest are links or beliefs. |
-| Concurrent roles shown without hierarchy | 8/13 | Collison, Rauch, Masad, Friedman, Cagan, Spool, Aronowitz, Orosz. |
+| Any bulleted list | 6/13 | Career achievement bullets: 1/13 (Rauch). The rest are links or personal facts. |
+| Concurrent roles shown without hierarchy | 7/13 | Collison, Rauch, Friedman, Cagan, Spool, Aronowitz, Orosz. |
 | Named failure or short stint | 3/13 | Levels (20 failed projects), Masad ("briefly at Yahoo"), Orosz ("honorable mentions"). |
 | Page metaphor, page count, or PDF | 0/13 | All HTML. No "page 1 of 2", no print layout. |
 

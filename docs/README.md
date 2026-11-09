@@ -11,7 +11,7 @@ specific problem.
 | 03 | [ATS mechanics](03-ats.md) | How the machine reads you | pending |
 | 04 | [AI screening](04-ai-screening.md) | How model-based filters score you | pending |
 | 05 | [Language](05-language.md) | Verbs, formulas, tense, what to delete | draft |
-| 06 | [Layout](06-layout.md) | Type, grid, hierarchy, one page or two | pending |
+| 06 | [Layout](06-layout.md) | Type, grid, hierarchy, one page or two | draft |
 | 07 | [Tooling](07-tooling.md) | Every builder, checker, template, and repo | pending |
 | 08 | [Templates](08-templates.md) | The templates in this repo and when to use each | pending |
 | 09 | [Elite corpus](09-elite-corpus.md) | What the documents of exceptional people look like | draft |
