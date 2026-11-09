@@ -84,6 +84,19 @@ decorative banner.
 | Credentials differentiate | Brookings, 37.7 million resumes: 3.8 percent first-call gain for a relevant credential, about 1 percent per additional, 1.8 percent for an irrelevant one. Badges are 0.41 percent of 1.5 million credentials | V2 |
 | GitHub stars are credibility | A live check found a 54,732 star project with 7 of its last 8 commits from a dependency bot. Commit counts deflate on inspection; accepted contributions to others' projects hold up | V1 |
 
+## Law and bias
+
+| Claim | Finding | Grade |
+|---|---|---|
+| NYC Local Law 144 is enforced | Two complaints in two years, 32 companies reviewed, one issue found, 75 percent of 311 test calls misrouted, no pass threshold (Comptroller 2024-N-6) | V1 |
+| The EU AI Act already binds hiring | Employment obligations apply 2 December 2027. The emotion recognition ban has applied since 2 February 2025 | V1 |
+| US federal guidance constrains AI hiring | EEOC removed its AI guidance on 27 January 2025, and the 2026 enforcement plan never mentions AI | V1 |
+| Colorado's AI law is in force | SB 24-205 never took effect; SB 26-189 replaced it, effective 1 January 2027, with no audit requirement | V1 |
+| Indian candidates can demand an AI explanation | The DPDP Act 2023 grants access, correction, erasure, grievance and nomination only | V1 |
+| Name bias is industry-wide | 83,000 applications, 108 employers: 2.1 percentage point penalty, significant at 23 firms, top quintile responsible for about half of lost contacts | V1 |
+| Prestigious schools pass the screen | Null in a 2,400 application test across the US, UK and Australia | V1 |
+| Polish removes the name penalty | No: 13,162 responses across five countries | V1 |
+
 ## What the authorities agree on
 
 Only one rule survives across every credible source in the sample:

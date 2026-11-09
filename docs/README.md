@@ -24,6 +24,7 @@ specific problem.
 | 16 | [History](16-history.md) | Which conventions are fossils and which carry weight | v1 |
 | 18 | [Narrative](18-narrative.md) | Gaps, positioning, credibility, interview linkage | v1 |
 | 19 | [The ecosystem](19-repos.md) | Every repo that matters, plus the HN threads | v1 |
+| 20 | [Law and bias](20-law.md) | What employers may ask, what you can demand, who gets filtered | v1 |
 
 ## Conventions
 

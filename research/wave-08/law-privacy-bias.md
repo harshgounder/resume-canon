@@ -7,7 +7,7 @@ Grades: V1 primary (statute, regulator page, court judgment, peer reviewed paper
 ## The short version
 
 1. There is no jurisdiction in this sample where a resume is a regulated document. The rules attach to the employer's decision, not to the file. A resume cannot be illegal; a question can be.
-2. Data protection law gives a candidate less than guides claim. GDPR Article 22 only bites on decisions made solely by automated means. India's DPDP Act has no automated decision right at all. The UK replaced its Article 22 style rule with a lawful basis plus safeguards model.
+2. Data protection law gives a candidate less than guides claim. GDPR Article 22 only bites on decisions made solely by automated means. India's DPDP Act has no automated decision right at all. The UK is replacing its Article 22 style rule with a lawful basis plus safeguards model.
 3. New York City Local Law 144 is still the only US law that mandates a bias audit by name, and its enforcement is weak: the city received two complaints in two years (V1, Comptroller).
 4. The EU AI Act treats recruitment AI as high risk, but the obligations now start on 2 December 2027, not 2 August 2026 (V1, European Commission).
 5. US federal enforcement retreated in 2025 and 2026. The EEOC pulled both AI guidance documents on 27 January 2025 and rescinded its criminal history guidance on 29 October 2026. State law is where the action is.
@@ -60,7 +60,7 @@ No statute requires the photo. It is a form convention maintained by employers a
 
 ## What an employer may ask
 
-The question rules are older and firmer than the AI rules, and they are where a candidate has real leverage.
+The question rules are older and firmer than the AI rules, and they are where a candidate has real power.
 
 ### United States
 
@@ -97,7 +97,7 @@ Four provisions matter to a candidate.
 - **Retention.** Article 5(1)(e) requires storage limitation. A common pattern is to keep an unsuccessful application for six months and then delete it, unless the employer asks to keep it on file. The six month figure is market practice, not a statutory number.
 - **Erasure.** Article 17 gives a right to erasure, subject to exceptions. In practice an employer can erase an application on request, and many will.
 - **Access.** Article 15 gives a right of access, including the information in Article 15(1)(h) about the existence of automated decision making and meaningful information about the logic involved.
-- **Automated decisions.** Article 22(1) gives a right not to be subject to a decision based solely on automated processing which produces legal effects or similarly significantly affects the person. Paragraph 3 requires human intervention, the chance to express a view, and the chance to contest. Paragraph 4 bars special category data unless a narrow exception applies (V1, [GDPR Article 22](https://gdpr-info.eu/art-22-gdpr/)).
+- **Automated decisions.** Article 22(1) gives a right not to be subject to a decision based solely on automated processing, which produces legal effects or affects the person in a similarly significant way. Paragraph 3 requires human intervention, the chance to express a view, and the chance to contest. Paragraph 4 bars special category data unless a narrow exception applies (V1, [GDPR Article 22](https://gdpr-info.eu/art-22-gdpr/)).
 
 The scope of "decision" was widened by the CJEU in the SCHUFA case. A credit agency that produces a probability score which third parties use as the decisive input is itself making an automated decision within Article 22, even though the formal decision is taken by the lender (V1, [C-634/21](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62021CJ0634), 7 December 2023). Applied to hiring, a vendor score that a recruiter follows without independent judgment is the kind of thing the Court's reasoning reaches. A tool that ranks and a human who chooses is not.
 
@@ -187,7 +187,7 @@ The practical read for a candidate: the federal agency is not a channel in 2026.
 |---|---|---|---|
 | New York City | Local Law 144 | Enforced since 5 July 2023 | Yes, annual, independent |
 | Illinois | HB 3773, amending the Human Rights Act | In effect since 1 January 2026 | No |
-| California | FEHA automated decision system regulations | Phased 2025 to 2027 | No, but liability exposure |
+| California | FEHA automated decision system regulations | Phased from 2025 | No, but liability exposure |
 | Colorado | SB 26-189, replacing SB 24-205 | Effective 1 January 2027 | No |
 | Connecticut | CART Act | Signed 2 June 2026 | No |
 | EU | AI Act Annex III | 2 December 2027 | No, conformity assessment |
@@ -300,12 +300,12 @@ That last result is the most useful sentence in this file for anyone writing adv
 
 | Lever | Where it works | Action | Evidence |
 |---|---|---|---|
-| Remove photo | US, UK, anywhere optional | Delete it | Women lost 20 to 30 percent of callbacks with a photo in Israel |
-| Remove date of birth | Everywhere optional | Delete it, keep years of experience | Age discrimination against older women is measured |
-| Trim address to city | US, UK, Germany | Delete street and postcode | Neighbourhood effect is real for foreign background applicants |
+| Remove photo | US, UK, anywhere optional | Delete it | Women lost 20 to 30 percent of callbacks with a photo in Israel ([Ruffle and Shtudiner](https://www.uibk.ac.at/econometrics/lit/cv_goodlooking.pdf)) |
+| Remove date of birth | Everywhere optional | Delete it, keep years of experience | Age discrimination against older women is measured ([Neumark et al.](https://www.nber.org/papers/w21669)) |
+| Trim address to city | US, UK, Germany | Delete street and postcode | Neighbourhood effect is real for foreign background applicants ([Carlsson et al.](https://www.iza.org/publications/dp/11284/neighborhood-signaling-effects-commuting-time-and-employment-evidence-from-a-field-experiment)) |
 | Remove marital status, children, father's name | India especially | Delete | No legal requirement, and the field invites bias |
 | Use the posting's words | All ATS markets | Mirror the requisition vocabulary | Parsers and matching models read the requisition |
-| Ask for the range | US transparency states, EU | Ask in writing before interview | EU directive requires it from June 2026 |
+| Ask for the range | US transparency states, EU | Ask in writing before interview | [EU directive](https://commission.europa.eu/news-and-media/news/new-eu-rules-pay-transparency-explained-2026-06-05_en) requires it from June 2026 |
 | Refuse the salary history question | 20 US states, DC, EU | Cite the statute, politely | The question is unlawful there |
 | Wait for the conditional offer | Ban the box jurisdictions | Do not volunteer criminal history early | 17 states plus DC restrict timing |
 | Disclose only unspent convictions | UK | Check the Exceptions Order for the role | ROA 1974 |
@@ -320,10 +320,10 @@ Three of these are worth doing every time because they cost nothing: remove the 
 ## What is outside a candidate's control
 
 - **The name.** A 2.1 percentage point average penalty, concentrated in a minority of firms. You cannot rename your way out of a labour market, and in most countries a legal name change is not a realistic advice item. A preferred name field helps at the interview stage, not at the parser.
-- **Firm level variance.** Which employer you apply to dominates every document level variable in the Kline data. The same resume is 2 points worse at one firm and neutral at another. That argues for volume and for targeting firms with published audits, not for more editing.
+- **Firm level variance.** Which employer you apply to dominates every document level variable in the Kline data. The same resume is about 2 points worse at one firm and neutral at another. That argues for volume and for targeting firms with published audits, not for more editing.
 - **The vendor model.** A candidate cannot audit a vendor's model, cannot see the training data, and in the US has no federal agency to ask. The NYC audit summary is the only public artifact, and it reports group level ratios, not your score.
-- **Enforcement capacity.** DCWP received two complaints in two years. The EEOC withdrew its guidance. Rights that exist on paper and are not investigated are not leverage in a job search.
-- **The interview.** Post-callback discrimination is roughly as large as pre-callback discrimination, according to the field experimental literature, so clearing the resume screen does not clear the process.
+- **Enforcement capacity.** DCWP received two complaints in two years. The EEOC withdrew its guidance. Rights that exist on paper and are not investigated are not bargaining power in a job search.
+- **The interview.** Post-callback discrimination is roughly as large as pre-callback discrimination, according to a review of 12 field experiments that followed applicants to the offer ([Annual Review of Sociology](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-090420-035144), 2021), so clearing the resume screen does not clear the process.
 - **The referral network.** Employee referrals bypass the screen. That is a structural advantage, not a document feature.
 - **The macroeconomic queue.** Application volume per vacancy changes callback rates for everyone. No resume fixes a 500 to 1 ratio.
 
