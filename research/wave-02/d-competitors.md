@@ -195,7 +195,8 @@ Contest presentation: a single "Achievements" list, five entries, each formatted
 name, date, award, with the date right-aligned. Two contests get a parenthetical
 explanation of what they are, which almost nobody else does.
 
-> "ICPC 2016, 2017, 2019 --- Semi-final participation"
+The ICPC line reads "Semi-final participation" against the years 2016, 2017 and 2019, which
+is the whole result: no rank, no team size, no round.
 
 > "RMM 2015 (olympiad among top 20 countries from IMO)"
 
