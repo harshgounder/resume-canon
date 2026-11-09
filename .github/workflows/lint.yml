@@ -54,3 +54,13 @@ jobs:
 
       - name: Parser check on the Typst PDF
         run: python3 tools/parse_check.py build/typst-resume.pdf
+
+      - name: Build both worked examples
+        run: |
+          ./tools/build.sh examples/fresher-india/resume.tex build
+          ./tools/build.sh examples/senior-engineer/resume.tex build
+
+      - name: Lint both worked examples
+        run: |
+          python3 tools/resume_lint.py build/resume.pdf
+          python3 tools/ats_sim.py build/resume.pdf

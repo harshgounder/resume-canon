@@ -7,7 +7,7 @@ structure.
 | Example | Persona | What it demonstrates |
 |---|---|---|
 | `fresher-india/` | B.Tech CSE, 2026 graduate, one internship | Education first, projects doing the work experience would do, no summary, contest ranks with context |
-| `senior-engineer/` | 12 years, platform team | Summary that earns its space, scope before outcome, two pages |
+| `senior-engineer/` | 12 years, platform team | Summary that earns its space, scope before outcome, education last. It fits one dense page, which is the point: length is earned by density, not years |
 
 ## How each example is built
 

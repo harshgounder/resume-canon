@@ -1,5 +1,23 @@
 # Changelog
 
+## v1.2.0, 2026-11-09
+
+**Working templates, all five verified.**
+
+- The Typst template now compiles (0.15.1) and extracts in reading order. The
+  blocker was an unescaped `@` in an email address, which Typst read as a
+  reference label.
+- CI builds the LaTeX template, the Typst template and both worked examples, and
+  runs the parser check on each.
+
+**New example:** `examples/senior-engineer/`, 12 years, scope-first bullets,
+education last. It fits one dense page, which demonstrates that length is earned
+by density rather than by years of experience.
+
+**Corrections:** reconciled two conflicting NYC Local Law 144 figures into one
+sourced sentence, and aligned the length convention across the glossary, anatomy
+and variants chapters.
+
 ## v1.1.0, 2026-11-09
 
 Waves 07 and 08 complete. All 19 research lanes landed.

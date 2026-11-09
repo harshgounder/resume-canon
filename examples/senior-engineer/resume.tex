@@ -1,0 +1,88 @@
+% Worked example: senior engineer, 12 years, platform team, two pages.
+% Fictional person. Numbers invented for illustration.
+% Demonstrates: summary that earns its space, scope before outcome,
+% education last, no skills wall, two pages justified by density.
+\documentclass[10.5pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[left=0.8in,right=0.8in,top=0.6in,bottom=0.6in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{microtype}
+
+\ifdefined\pdfgentounicode\pdfgentounicode=1\fi
+\hypersetup{hidelinks,pdftitle={Priya Menon, Resume},pdfauthor={Priya Menon}}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\vspace{-0.55em}\rule{\textwidth}{0.4pt}]
+\titlespacing{\section}{0pt}{0.8em}{0.35em}
+
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill #2\\%
+  \textit{#3} \hfill \textit{#4}\par\vspace{0.15em}%
+}
+\newenvironment{bullets}{%
+  \begin{itemize}[leftmargin=1.05em,itemsep=0.14em,topsep=0.14em,parsep=0pt,label=\textbullet]%
+}{\end{itemize}}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Priya Menon}\\[0.2em]
+  \small
+  Berlin, Germany \textbar{}
+  \href{mailto:priya.menon@example.com}{priya.menon@example.com} \textbar{}
+  +49 30 0000 0000 \textbar{}
+  github.com/priyamenon \textbar{}
+  linkedin.com/in/priyamenon
+\end{center}
+
+\section{Summary}
+Staff engineer, 12 years, platform and infrastructure. Led the migration of a
+payments platform to Kubernetes across four teams, and cut cloud spend by 38
+percent without a reliability regression. Looking for a platform role with
+ownership of reliability and cost.
+
+\section{Experience}
+
+\role{Northwind Payments}{Berlin, Germany}{Staff Engineer, Platform}{Mar 2021 -- Present}
+\begin{bullets}
+  \item Own reliability for a payments platform serving 4 million transactions a day across four teams and 30 engineers. Cut p99 checkout latency from 900ms to 210ms by replacing an N+1 query path and adding a read replica.
+  \item Led the migration of 42 services from VMs to Kubernetes over nine months with no customer visible downtime. Wrote the migration playbook 12 teams now use.
+  \item Cut cloud spend 38 percent, about EUR 2.1 million a year, by moving batch workloads to spot instances and deleting three redundant data pipelines.
+  \item Introduced error budgets and a weekly reliability review. Sev-1 incidents fell from 11 per quarter to 3, and mean time to recovery from 74 minutes to 22.
+\end{bullets}
+
+\role{Eastgate Logistics}{Amsterdam, Netherlands}{Senior Software Engineer}{Jun 2017 -- Feb 2021}
+\begin{bullets}
+  \item Built the routing service that plans 60,000 deliveries a day, replacing a licensed product and saving EUR 400,000 a year in licence fees.
+  \item Rewrote the dispatch API from a monolith into four services, taking deploy frequency from weekly to daily and cutting rollback rate from 18 percent to 4 percent.
+  \item Mentored six engineers, three of whom reached senior within two years.
+\end{bullets}
+
+\role{Arcadia Systems}{Bengaluru, India}{Software Engineer}{Jul 2013 -- May 2017}
+\begin{bullets}
+  \item Built the billing engine for a SaaS product with 8,000 business customers, handling invoices in 14 currencies.
+  \item Cut month-end billing runtime from 6 hours to 40 minutes by batching database writes.
+\end{bullets}
+
+\section{Projects}
+\role{OpenTelemetry collector contribution}{upstream}{Added a batching processor option adopted in v0.88}{2024}
+\begin{bullets}
+  \item Wrote the processor, benchmarks and documentation. Two public Helm charts use the option.
+\end{bullets}
+
+\section{Skills}
+\textbf{Platform:} Kubernetes, Terraform, AWS, Linux, Prometheus, OpenTelemetry\\
+\textbf{Languages:} Go, Python, SQL, a working amount of Rust\\
+\textbf{Practice:} incident response, capacity planning, cost engineering
+
+\section{Education}
+\role{National Institute of Technology, Trichy}{Tiruchirappalli, India}{B.Tech in Computer Science and Engineering}{2009 -- 2013}
+First class with distinction. Awarded institute merit scholarship for two years.
+
+\end{document}

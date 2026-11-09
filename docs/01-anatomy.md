@@ -154,8 +154,8 @@ certificate in a niche is fine for a fresher, noise after three years.
 | Stage | Length |
 |---|---|
 | Student, 0 to 3 years | 1 page |
-| 3 to 10 years | 1 page if dense, 2 if genuinely needed |
-| 10+ years | 2 pages |
+| 3 to 8 years | 1 page if dense, 2 if genuinely needed |
+| 8+ years | 2 pages |
 | Academic CV | no limit, but the first two pages must stand alone |
 
 Length is earned by density. A two page resume where page two is thin reads as

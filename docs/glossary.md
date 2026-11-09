@@ -59,7 +59,7 @@ capability.
 Not lying, not rewriting everything.
 
 **One page rule.** A convention, not a law. Students and early career: one page.
-Beyond roughly 8 to 10 years, two pages is normal. Academic CVs have no limit.
+Beyond roughly 8 years, two pages is normal. Academic CVs have no limit.
 
 **Text layer.** The selectable text inside a PDF. A PDF made from a screenshot or
 a Canva export without embedded text has no text layer, and parsers see nothing.
