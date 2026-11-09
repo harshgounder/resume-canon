@@ -37,7 +37,7 @@
   Role you are applying for, or your one-line positioning \
   #text(size: 9pt)[
     City, Country |
-    you@example.com |
+    you\@example.com |
     +91 00000 00000 |
     github.com/you |
     linkedin.com/in/you

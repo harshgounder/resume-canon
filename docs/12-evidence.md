@@ -37,7 +37,7 @@ model preference.
 | Anonymisation leaks | 4,100 variants of 100 neutral resumes, 18 LLMs: models recovered ethnicity from language markers and gender from hobbies, favouring some markers | V1 | arXiv 2603.05189 |
 | Hidden instructions exist | About 1 percent of roughly 200,000 real resumes contained concealed instructions, over 90 percent without explicit wording | V1 | arXiv 2605.28999 |
 | Errors correlate | 350+ LLMs, 60 percent agreement when both err, so switching vendor does not buy independence | V1 | arXiv 2506.07962 |
-| Regulation is weaker than guides imply | NYC Local Law 144 called "ineffective" by the NY State Comptroller (Dec 2025); EEOC removed AI hiring guidance 27 Jan 2025; EU AI Act employment obligations apply 2 Dec 2027 after deferral | V1 | Comptroller audit, EEOC, EU |
+| Regulation is weaker than guides imply | NYC Local Law 144 called "ineffective" by the NY State Comptroller (Dec 2025): 2 complaints in 2 years, 1 issue across 32 reviews, 75 percent of 311 test calls misrouted. EEOC removed AI hiring guidance 27 Jan 2025. EU AI Act employment obligations apply 2 Dec 2027 after deferral | V1 | Comptroller audit 2024-N-6, EEOC, EU |
 | No Indian CV has been tested | Zero studies test Indian resumes with an LLM. Human audits disagree: no caste gap in Delhi software jobs (Banerjee 2009, 3,160 resumes) versus low-caste applicants needing about 20 percent more applications in Chennai (Siddique 2011, 1,046 resumes) | V1/V2 | both papers |
 
 ## What is marketing

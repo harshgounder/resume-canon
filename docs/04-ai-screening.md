@@ -86,7 +86,7 @@ the arms race is not winnable from the candidate side.
 
 | Jurisdiction | Instrument | Status |
 |---|---|---|
-| New York City | Local Law 144, bias audits for automated employment decisions | Enforcement called "ineffective" by the NY State Comptroller, Dec 2025: 2 complaints in 2 years, 5 of 22 employers with no audit posted |
+| New York City | Local Law 144, bias audits for automated employment decisions | Enforcement called "ineffective" by the NY State Comptroller, Dec 2025: 2 complaints in 2 years, 1 issue found across 32 reviews, at least 17 potential violations flagged by auditors, 5 of 22 sampled employers with no audit posted, 75 percent of 311 test calls misrouted. No pass threshold |
 | US federal | EEOC AI hiring guidance | Removed 27 Jan 2025 |
 | EU | AI Act, Annex III point 4, employment as high risk | Obligations apply 2 Dec 2027 after the 2026 deferral |
 

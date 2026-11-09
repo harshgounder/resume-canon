@@ -60,6 +60,12 @@ Full bank with example bullets in `data/verbs/action-verbs.md`. The categories:
 Pick the verb that describes the act, not the one that sounds impressive. A
 "spearheaded" that hides a two-hour task is worse than "wrote".
 
+**A caveat from the corpus.** Verb-first is the rule for achievement bullets,
+not for every line. In the sample of 12 engineer documents, only 4 used strict
+verb-first bullets; senior documents used noun labels or short paragraphs. The
+distinction is in chapter 09: verb-first for students and for outcome bullets,
+noun phrases for labels, prose only when the track record makes it readable.
+
 ## The XYZ formula
 
 Google's own "How we hire" page says: "When in doubt, lean on the formula,
