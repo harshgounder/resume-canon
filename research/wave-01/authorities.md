@@ -1,6 +1,6 @@
 # Wave 01, lane D: what authorities actually publish
 
-Date of record: 2026-11-09. Scope: university career centres (US, UK, Canada), big-tech recruiting pages, Indian campus placement policy, community wikis, and a few practitioners who hire. Grades follow `research/README.md`: V1 is the institution's own page, policy PDF or API output, V2 is a named-author secondary source, V3 is forum or anecdote.
+Date of record: 2026-11-09. Scope: university career centres (US, UK, Canada), big-tech recruiting pages, Indian campus placement policy, community wikis, and a few practitioners who hire. Grades follow `research/README.md`, with one split I had to make explicit: an advice page from a career centre is V2 (the README's own example), while a policy that binds the student, such as the IIT placement rules, is V1. Employer pages about their own process (Google, Amazon, AWS) are V1. Forum material is V3.
 
 Coverage note: Reddit blocked this network. reddit.com served a Cloudflare interstitial, r.jina.ai returned 401, the Redlib mirror I tried shut down on 2026-08-31. I read the r/EngineeringResumes checklist through a search-index excerpt of that page, not a live fetch, so treat it as V3. Microsoft and TCS NextStep published nothing I could retrieve. The "could not verify" list at the end is part of the finding, not an apology.
 
@@ -27,7 +27,9 @@ Coverage note: Reddit blocked this network. reddit.com served a Cloudflare inter
 
 ## Strongest consensus
 
-Six rules survive every source I read, across four countries and three kinds of publisher: quantify outcomes, open bullets with a verb, reverse chronological order, no photograph (US and UK), no references section, 10 to 12 point type with half-inch margins or more. The quantification rule is the only one that is stated by every employer page as well as every university page. Google, Amazon and AWS phrase it differently and mean the same thing: a bullet is a result plus a method, not a duty. V1 for the employer pages, V2 for the university pages.
+Quantification is the closest thing to a universal rule. Harvard, Yale, MIT, Berkeley and Stanford state it, Google, Amazon and AWS state it, and Alison Green states it. No source in this set argues against it. The only qualifier is AWS: "not every single bullet needs a number". Google, Amazon and AWS phrase the same idea three ways, and all three mean that a bullet is a result plus a method, not a duty (V1).
+
+Four more rules are stated by at least four of the seven US university guides I read, and contradicted by no US, UK or Canadian source: open bullets with a verb, reverse chronological order, 10 to 12 point type with margins of at least half an inch, and no photograph on the document. Silence is not agreement. Imperial and Toronto never mention photographs or references, so the photo and references rules are US-wide, not Anglophone-wide (V2).
 
 The second consensus is procedural and comes only from India: IIT Madras verifies resumes before a student may apply to any company, and rejects claims without proof (V1). No US, UK or Canadian guide in this set has a verification step. That is a different document with a different failure mode, and the repo should not merge the two.
 
@@ -53,7 +55,7 @@ The honest rule for the encyclopedia: mirror the vocabulary of the job descripti
 
 ## Smaller contradictions worth recording
 
-Harvard lists "use a narrative style" as a don't and publishes a paragraph-format resume template next to its bullet template (V2). Imperial recommends a personal profile for AI-screened applications while AWS tells students to delete the summary (V1 both). IIT Delhi requires a photo on the portal while five US and UK guides ban photos on the document (V1 both). Yale calls GPA optional, Berkeley sets a 3.0 floor (V2 both).
+Harvard lists "use a narrative style" as a don't and publishes a paragraph-format resume template next to its bullet template (V2). Imperial recommends a personal profile for AI-screened applications while AWS tells students to delete the summary (V1 both). IIT Delhi requires a photo on the portal while Harvard, Yale, MIT, Stanford and the r/EngineeringResumes checklist ban photos on the document (V1 for IIT Delhi, V2 and V3 for the rest). Yale calls GPA optional, Berkeley sets a 3.0 floor (V2 both).
 
 ## What I could not verify
 
