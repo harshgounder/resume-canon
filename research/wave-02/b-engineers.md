@@ -6,7 +6,7 @@ page counts with `pdfinfo`, and every quote below is copied from the file, not
 from memory.
 
 Selection rule: the document has to be the person's own CV, not a template they
-maintain. That rule killed two famous candidates, listed at the end. The sample
+maintain. That rule removed two repos that circulate as CVs, listed at the end. The sample
 is small and skewed: all twelve are men, most are in the US or Western Europe,
 and most write LaTeX. It answers "what does a strong public CV look like", not
 "what gets people hired".
@@ -55,7 +55,7 @@ the file is "Jake Ryan", the phone is `123-456-7890`, and the links end in
 four-row keyword block: Languages, Frameworks, Developer Tools, Libraries.
 **Education** first, with a community college transfer.
 
-This is the most copied engineer resume on GitHub and it ships anonymized. The
+This is one of the most copied engineer resumes on GitHub and it ships anonymized. The
 work history is real (Southwestern University, Texas A&M research assistant,
 Gitlytics, a Minecraft plugin) but the identity block is a mask.
 
@@ -246,19 +246,20 @@ six or more.
 | Summary or profile paragraph at the top | 5 | Scott, Changkun, Igal, Raphink (tagline), Willison | no |
 | References section | 0 | none | no |
 
-Three things the counts say that the advice literature does not.
+Three things the counts say that the usual advice does not.
 
 **Education moves down as experience goes up.** All three documents from people
-with under five years of work put education first. Of the seven with ten or more
-years, five put experience first and two (Sam, Beazley) kept education at the
+with under five years of work put education first. Of the eight with ten or more
+years, six put experience first and two (Sam, Beazley) kept education at the
 top. Nobody hid the degree, but the senior documents treat it as one section
 among many.
 
 **The skills section is optional and usually late.** Six of twelve have no
 skills section. Of the five that have a keyword list, four put it after the
 experience block. The senior versions replace the list with categories (Igal's
-six-row table, Scott's four prose categories) or with per-job tag rows (Igal)
-or certifications (Raphink).
+six-row table, Scott's four prose categories), per-job tag rows (Igal), or
+certifications (Raphink). The one document that does list a wall of technology
+(Sam, about 30 items) puts it last, after publications.
 
 **Verb-first bullets are a minority style.** Four of twelve use them strictly.
 Three lead with a noun label (Bajaj, Changkun) and four write paragraphs (Sam,
@@ -288,11 +289,11 @@ document. It is a 2026 artifact.
 don't offer me a job." It works because the rest of the page is a factual record,
 not a pitch.
 
-**A four-page narrative CV belongs to a principal engineer.** Raphink's document
-has a photo, a Bible verse, no bullets, no skills section, and almost no numbers.
-It is the opposite of every template in the repo's `templates/` directory and it
-is the document of someone at the top of the cloud native field. Length is not
-the variable that makes a CV weak.
+**A four-page narrative CV belongs to a senior cloud native engineer.** Raphink's
+document has a photo, a Bible verse, no bullets, no skills section, and almost no
+numbers. It is the opposite of every template in the repo's `templates/`
+directory and it belongs to someone with almost 20 years in the field. Length is
+not the variable that makes a CV weak.
 
 **One person, two orders.** Changkun Ou's resume puts experience first and
 education fifth. His CV puts education first. The only difference is the reader.
@@ -335,17 +336,17 @@ their sections.
 
 ## Sources
 
-- Sourabh Bajaj, resume PDF: https://raw.githubusercontent.com/sb2nov/resume/master/sourabh_bajaj_resume.pdf and repo https://github.com/sb2nov/resume
-- Jake Gutierrez, resume source: https://github.com/jakegut/resume/blob/master/resume.tex
-- Harsh Kapadia, resume PDF: https://harshkapadia2.github.io/resume/harsh-kapadia-resume.pdf and repo https://github.com/HarshKapadia2/resume
-- Scott Clark, resume PDF: https://github.com/sc932/resume/blob/master/ScottClarkResume.pdf
-- Changkun Ou, resume PDF: https://github.com/changkun/resume/blob/master/resume/resume.pdf and CV https://github.com/changkun/resume/blob/master/resume/cv.pdf
-- Sam Brotherton, resume PDF: https://github.com/sbrother/resume/blob/master/resume.pdf
-- Igal Tabachnik, CV source: https://github.com/hmemcpy/cv/blob/master/cv.tex
-- Daniel Cousineau, resume source: https://github.com/dcousineau/resume/blob/master/resume.tex
-- Raphaël Pinson, CV PDF: https://github.com/raphink/CV/blob/master/RaphaelPinson_en.pdf
-- David Beazley, CV page: https://www.dabeaz.com/cv.html
-- Peter Norvig, resume page: https://norvig.com/resume.html
-- Simon Willison, about page: https://simonwillison.net/about/
-- Bill Ryan, template repo: https://github.com/billryan/resume
-- Muhammadjon Hakimov, template repo: https://github.com/mrhakimov/resume
+- [Sourabh Bajaj, resume PDF](https://raw.githubusercontent.com/sb2nov/resume/master/sourabh_bajaj_resume.pdf), [repo](https://github.com/sb2nov/resume)
+- [Jake Gutierrez, resume source](https://github.com/jakegut/resume/blob/master/resume.tex)
+- [Harsh Kapadia, resume PDF](https://harshkapadia2.github.io/resume/harsh-kapadia-resume.pdf), [repo](https://github.com/HarshKapadia2/resume)
+- [Scott Clark, resume PDF](https://github.com/sc932/resume/blob/master/ScottClarkResume.pdf)
+- [Changkun Ou, resume PDF](https://github.com/changkun/resume/blob/master/resume/resume.pdf), [8-page CV](https://github.com/changkun/resume/blob/master/resume/cv.pdf)
+- [Sam Brotherton, resume PDF](https://github.com/sbrother/resume/blob/master/resume.pdf)
+- [Igal Tabachnik, CV source](https://github.com/hmemcpy/cv/blob/master/cv.tex)
+- [Daniel Cousineau, resume source](https://github.com/dcousineau/resume/blob/master/resume.tex)
+- [Raphaël Pinson, CV PDF](https://github.com/raphink/CV/blob/master/RaphaelPinson_en.pdf)
+- [David Beazley, CV page](https://www.dabeaz.com/cv.html)
+- [Peter Norvig, resume page](https://norvig.com/resume.html)
+- [Simon Willison, about page](https://simonwillison.net/about/)
+- [Bill Ryan, template repo](https://github.com/billryan/resume)
+- [Muhammadjon Hakimov, template repo](https://github.com/mrhakimov/resume)

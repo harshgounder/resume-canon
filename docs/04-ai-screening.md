@@ -68,7 +68,7 @@ variants of 100 neutral resumes across 18 LLMs, with models recovering ethnicity
 from language markers and gender from hobbies and co-curriculars (V1,
 [arXiv 2603.05189](https://arxiv.org/abs/2603.05189)).
 
-The only actionable part: hobbies and personal details are not neutral text.
+The only part you can act on: hobbies and personal details are not neutral text.
 They carry signals you did not intend. Cut them unless they are evidence.
 
 ## Prompt injection is real and it is not a strategy

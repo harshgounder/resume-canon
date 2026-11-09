@@ -2,8 +2,9 @@
 
 What the actual documents of exceptional people look like, and what transfers.
 
-> Evidence: wave 02 lanes A (13 researchers, 14 documents), D (14 competitors
-> and quant hires), plus the orchestrator cross-check. Every document was opened
+> Evidence: wave 02 lanes A (13 researchers, 14 documents), B (12 engineers,
+> 13 documents), D (14 competitors and quant hires), plus the orchestrator
+> cross-check. Every document was opened
 > and text extracted. Files: [a-researchers](../research/wave-02/a-researchers.md),
 > [d-competitors](../research/wave-02/d-competitors.md),
 > [orchestrator check](../research/wave-02/orchestrator-check.md).
@@ -103,6 +104,43 @@ six ways, ranked by how often they appear:
    reader with zero context, and appears once in the sample.
 
 If you have a contest result, device 1 plus device 6 is the strongest pair.
+
+## What repeats in engineers' resumes
+
+From 12 documents, 13 with one variant (V1):
+
+| Pattern | Count |
+|---|---|
+| 1 to 2 pages | 7 of 12 |
+| Education first (all under five years of experience) | 3 of 3 |
+| Experience first (10+ years) | 6 of 8 |
+| No skills section | 6 of 12 |
+| Keyword list placed after experience | 4 of 5 that have one |
+| Numbers present | 8 of 12 |
+| Strict verb-first bullets | 4 of 12 |
+| Noun-label bullets or paragraphs | 7 of 12 |
+
+**The contradiction worth knowing.** Verb-first bullets are a minority in the
+real sample. Only 4 of 12 use them strictly. Three use noun labels and four
+write short paragraphs. The people writing paragraphs are the most senior
+(Norvig, Beazley, Pinson), and the people writing tight verb-first bullets are
+the students and new grads.
+
+So the rule is not "always verb first". It is: verb-first for achievement
+bullets, noun phrases for labels, and paragraphs only when you have the track
+record to make prose readable. A student writing paragraphs reads as padding. A
+20-year engineer writing bullet fragments reads as junior.
+
+**Two documents that are not what they claim.** The 11,500 star `billryan/resume`
+is not Bill Ryan's CV, it is a placeholder for "Bin Yuan" with "xxx" bullets.
+Jake Gutierrez's published resume still says "Jake Ryan" and 123-456-7890.
+Template fame is not document quality.
+
+**One document written for the machine.** Scott Clark's PDF carries white-on-white
+text addressed to AI agents, pointing at source files and stating that it is not
+a prompt injection. It is the only document in the sample written for a parser
+first. It is also a reminder that hidden text is now a known technique and
+therefore a known signal.
 
 ## The surprising absences
 
