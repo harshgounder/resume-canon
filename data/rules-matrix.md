@@ -117,6 +117,19 @@ Statuses:
 | 71 | Quant screens in seconds, checks GitHub | Paid practitioner analysis | V3 | Hypothesis |
 | 72 | Consulting is human-first on campus | Former Bain manager | V3 | Hypothesis |
 
+## Narrative, gaps and credibility
+
+| # | Rule | Evidence | Grade | Status |
+|---|---|---|---|---|
+| 73 | Explaining a gap on the resume helps | 9,022 application audit: no effect | V2 | Unsupported |
+| 74 | Years-worked format instead of exact dates helps a gap | Same audit: +8 percent, +15 percent against gap | V2 | Established |
+| 75 | Founder experience is penalised | 35 percent lower interview likelihood, 13 against 7 percent | V2 | Established |
+| 76 | Verification finds title and date mismatches | HireRight 2025: over 75 percent found discrepancies | V2 | Established |
+| 77 | Certificates are a nudge, not a differentiator | Brookings: 3.8 percent first relevant, 1.8 percent irrelevant | V2 | Established |
+| 78 | GitHub stars are a cheap signal | 54,732 star project, 7 of 8 commits from a bot | V1 | Established |
+| 79 | Structured interviews probe consistently | Validity 0.42 against 0.19 | V1/V2 | Established |
+| 80 | Functional resumes hide gaps successfully | They remove the dated records filters read | V2 | Unsupported |
+
 ## How to read this table
 
 If you are writing advice, cite a row. If you are disputing a row, bring a

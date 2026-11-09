@@ -73,6 +73,17 @@ advancement. That is not the same as "the top third decides", and the difference
 matters because it says the experience block should carry the evidence, not a
 decorative banner.
 
+## Narrative, gaps and credibility
+
+| Claim | Finding | Grade |
+|---|---|---|
+| Explaining a gap helps | A UK audit of 9,022 applications found explained and unexplained gaps scored the same (b = -0.050 against -0.049, d = -0.10). Format moved callbacks instead: years worked gained 8 percent against no-gap and 15 percent against gap resumes | V2 |
+| Founder experience is neutral | Male ex-founders had a 35 percent lower interview likelihood, 13 percent callback against 7 percent (Kacperczyk and Younkin, Organization Science, 2022). A second audit put founder resumes 23 to 29 percent less likely to be a top choice | V2 |
+| Screening rarely finds discrepancies | More than three quarters of HireRight 2025 respondents found discrepancies in 12 months, with employment verification the top area (64 percent EMEA, 72 percent APAC) | V2 |
+| Interview validity | Structured 0.42, unstructured 0.19 (Sackett, 2022). Untrained interviewers accept abstract "pseudostories" | V1/V2 |
+| Credentials differentiate | Brookings, 37.7 million resumes: 3.8 percent first-call gain for a relevant credential, about 1 percent per additional, 1.8 percent for an irrelevant one. Badges are 0.41 percent of 1.5 million credentials | V2 |
+| GitHub stars are credibility | A live check found a 54,732 star project with 7 of its last 8 commits from a dependency bot. Commit counts deflate on inspection; accepted contributions to others' projects hold up | V1 |
+
 ## What the authorities agree on
 
 Only one rule survives across every credible source in the sample:
