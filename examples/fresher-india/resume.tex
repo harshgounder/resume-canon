@@ -1,0 +1,81 @@
+% Worked example: Indian fresher, B.Tech CSE, 2026 graduate.
+% Fictional person. Every number is invented for illustration.
+% Shows: education first, projects carrying the weight, one page, no summary.
+\documentclass[10pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[left=0.85in,right=0.85in,top=0.55in,bottom=0.55in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{microtype}
+
+\ifdefined\pdfgentounicode\pdfgentounicode=1\fi
+\hypersetup{hidelinks,pdftitle={Rahul Sharma, Resume},pdfauthor={Rahul Sharma}}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\vspace{-0.55em}\rule{\textwidth}{0.4pt}]
+\titlespacing{\section}{0pt}{0.75em}{0.35em}
+
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill #2\\%
+  \textit{#3} \hfill \textit{#4}\par\vspace{0.1em}%
+}
+\newenvironment{bullets}{%
+  \begin{itemize}[leftmargin=1.05em,itemsep=0.12em,topsep=0.12em,parsep=0pt,label=\textbullet]%
+}{\end{itemize}}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Rahul Sharma}\\[0.2em]
+  \small
+  Bengaluru, India \textbar{}
+  \href{mailto:rahul.sharma@example.com}{rahul.sharma@example.com} \textbar{}
+  +91 98765 43210 \textbar{}
+  github.com/rahulsharma \textbar{}
+  linkedin.com/in/rahulsharma
+\end{center}
+
+\section{Education}
+\role{Vellore Institute of Technology}{Vellore, India}{B.Tech in Computer Science and Engineering, CGPA 8.7/10}{Aug 2022 -- May 2026}
+Class XII, 92.4 percent, Delhi Public School, 2022
+
+\section{Experience}
+\role{Zoho Corporation}{Chennai, India}{Software Engineering Intern}{May 2025 -- Jul 2025}
+\begin{bullets}
+  \item Built a log ingestion service in Go that handled 40k events per minute, cutting indexing lag from 90 seconds to 8 seconds.
+  \item Wrote 63 unit tests for the billing module, raising coverage from 41 percent to 78 percent and catching two rounding bugs before release.
+  \item Replaced a nightly batch job with an incremental worker, reducing database load by 35 percent.
+\end{bullets}
+
+\section{Projects}
+\role{CampusRide}{React, Node.js, PostgreSQL}{Ride sharing for a 12,000 student campus, 1,200 active users}{github.com/rahulsharma/campusride}
+\begin{bullets}
+  \item Built a matching algorithm that reduced average wait time from 11 minutes to 4 minutes at peak hours.
+  \item Deployed on a single 2GB VM with Redis caching, holding 300 concurrent users at 120ms median response.
+  \item Interviewed 14 students before the first release, then cut the signup flow from 6 steps to 3 after 9 of them abandoned it.
+\end{bullets}
+
+\role{AlgoViz}{TypeScript, WebAssembly}{Interactive visualiser for 11 graph and sorting algorithms}{algoviz.example.dev}
+\begin{bullets}
+  \item Ported the layout engine to WebAssembly, rendering 10,000 node graphs at 60fps in the browser.
+  \item Used by 300 students across two college batches, with 40 percent returning within a week.
+\end{bullets}
+
+\section{Skills}
+\textbf{Languages:} C++, Python, Go, JavaScript, SQL\\
+\textbf{Tools:} Git, Docker, Linux, PostgreSQL, Redis\\
+\textbf{Fundamentals:} Data structures, algorithms, operating systems, DBMS, computer networks
+
+\section{Achievements}
+\begin{bullets}
+  \item Rank 412 of 100,000+ participants, TCS CodeVita Season 12, 2025 (top 0.4 percent).
+  \item Finalist, Smart India Hackathon 2025, among 15 teams selected from 900 submissions.
+  \item Codeforces rating 1650, Specialist, 340 problems solved across Codeforces and LeetCode.
+\end{bullets}
+
+\end{document}

@@ -89,8 +89,11 @@ def analyze(text):
     # sections
     present = set()
     for i, line in enumerate(lines, 1):
+        # strip markdown heading marks so "## Education" matches
+        clean = re.sub(r"^\s*#{1,6}\s*", "", line)
+        clean = re.sub(r"\*\*", "", clean)
         for name, rx in SECTIONS.items():
-            if rx.match(line):
+            if rx.match(clean):
                 present.add(name)
     stats["sections"] = sorted(present)
     for required in ("education", "experience", "skills"):
@@ -105,9 +108,13 @@ def analyze(text):
         if not line.strip():
             continue
 
+        # Only judge the opening of a line. "a service that handled X" is fine,
+        # "Handled X" is not.
+        head = " ".join(low.replace("-", " ").split()[:6])
         for phrase in WEAK_VERBS:
-            if phrase in low:
-                add("ERROR", "weak-verb", i, line, "Lead with a verb that describes the action you took.")
+            if phrase in head:
+                add("ERROR", "weak-verb", i, line,
+                    f"Opens with '{phrase}'. Lead with the action you took.")
                 break
 
         for word in BUZZWORDS:
