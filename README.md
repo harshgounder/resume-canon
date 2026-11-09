@@ -4,8 +4,8 @@ An evidence-graded encyclopedia of CV and resume craft. Every rule is either a
 primary source, or two independent credible sources that agree, or it is labelled
 as folklore and left out of the canon.
 
-**Status:** 17 chapters, 70,000+ words of graded research, 72 rules with grades,
-41 real documents dissected, 5 tools, 6 templates.
+**Status:** 22 numbered chapters, 100,000+ words of graded research, 100 rules
+with grades, 54 real documents dissected, 7 tools, 6 templates.
 
 ## The short version
 

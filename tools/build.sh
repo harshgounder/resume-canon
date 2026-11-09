@@ -15,7 +15,13 @@ case "$src" in
     work=$(mktemp -d)
     cp "$src" "$work/"
     base=$(basename "$src" .tex)
-    ( cd "$work" && pdflatex -interaction=nonstopmode -halt-on-error "$base.tex" >/dev/null       && pdflatex -interaction=nonstopmode -halt-on-error "$base.tex" >/dev/null )
+    if ! ( cd "$work" \
+        && pdflatex -interaction=nonstopmode -halt-on-error "$base.tex" > build.log 2>&1 \
+        && pdflatex -interaction=nonstopmode -halt-on-error "$base.tex" >> build.log 2>&1 ); then
+      echo "pdflatex failed. last 30 lines:"
+      tail -30 "$work/build.log"
+      exit 1
+    fi
     cp "$work/$base.pdf" "$outdir/$base.pdf"
     rm -rf "$work"
     echo "built $outdir/$base.pdf"

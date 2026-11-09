@@ -52,9 +52,9 @@ failures, FAQ, agentic applications, history, self-audit.
 **Research:** 8 waves, 19 lanes, about 79,000 words. Every claim graded V1, V2 or
 V3. The 26-phase architecture is in `research/ARCHITECTURE.md`.
 
-**Corpus:** 41 real documents dissected. 13 researchers, 12 engineers, 13
-founders and operators, 14 competitive programmers and quant hires, plus an
-orchestrator cross-check.
+**Corpus:** 54 real documents from 52 people. 13 researchers (14 documents), 12
+engineers (13 documents), 13 founders and operators, 14 competitive programmers
+and quant hires, plus an orchestrator cross-check.
 
 **Data:** a 72-claim rules matrix with grades and status, an action verb bank, a
 pre-submit checklist.

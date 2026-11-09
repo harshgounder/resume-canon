@@ -35,7 +35,7 @@ jobs:
       - name: Build the LaTeX template
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq texlive-latex-base texlive-latex-recommended texlive-fonts-recommended poppler-utils
+          sudo apt-get install -y -qq texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended poppler-utils
           mkdir -p build
           ./tools/build.sh templates/latex/ats-single-column/resume.tex build
 
