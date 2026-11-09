@@ -133,9 +133,20 @@ from the candidate (V1, public pages; the logged-in area could not be checked).
 ## Special cases
 
 **Employment gap.** No ATS detects gaps. Knockout questions and recruiter filters
-do the work. Date the gap honestly, and if it was caregiving, study, health, or a
-layoff, one line in the summary handles it. Never switch to a functional resume:
-it removes the dated records the filters read.
+do the work.
+
+The common advice, "explain the gap in one line", is not supported. In a UK field
+audit of 9,022 applications, resumes with an explained gap and resumes with an
+unexplained gap scored the same (b = -0.050 against -0.049, d = -0.10). The
+explanation did not move callbacks.
+
+What did move callbacks was a format change: listing years worked instead of
+exact dates, which gained 8 percent against no-gap resumes and 15 percent against
+gap resumes (V2, wave 08 lane N).
+
+So: date the work honestly, and if the gap needs handling, the lever is the
+format of the dates, not an explanatory sentence. Never switch to a functional
+resume, which removes the dated records the filters read.
 
 **Career switch.** Summary first, then projects that prove the new capability,
 then experience reframed toward transferable outcomes. The reader needs a reason
