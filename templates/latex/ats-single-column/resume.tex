@@ -1,0 +1,92 @@
+% ATS-safe single column resume.
+% Compile: pdflatex resume.tex
+% Design rules this file follows, see docs/03-ats.md:
+%   - no tables, no text boxes, no columns, no header or footer content
+%   - T1 font encoding so "fi" and "fl" extract as letters, not glyphs
+%   - hyperref with hidelinks, all links also written as plain text
+%   - section headings are plain uppercase words, no icons
+%   - one column, reading order equals source order
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[left=0.9in,right=0.9in,top=0.6in,bottom=0.6in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{xcolor}
+
+\ifdefined\pdfgentounicode\pdfgentounicode=1\fi
+
+\hypersetup{hidelinks,pdftitle={Resume},pdfauthor={Your Name}}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\titleformat{\section}{\large\bfseries\uppercase}{}{0em}{}[\vspace{-0.6em}\rule{\textwidth}{0.4pt}]
+\titlespacing{\section}{0pt}{0.9em}{0.4em}
+
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill #2\\%
+  \textit{#3} \hfill \textit{#4}\par\vspace{0.15em}%
+}
+
+\newcommand{\itemline}[1]{\item #1}
+\newenvironment{bullets}{%
+  \begin{itemize}[leftmargin=1.1em,itemsep=0.15em,topsep=0.15em,parsep=0pt,label=\textbullet]%
+}{\end{itemize}}
+
+\begin{document}
+
+% ---------- HEADER ----------
+\begin{center}
+  {\LARGE\bfseries Your Name}\\[0.25em]
+  Role you are applying for (or your one-line positioning)\\[0.3em]
+  \small
+  City, Country \textbar{}
+  \href{mailto:you@example.com}{you@example.com} \textbar{}
+  +91 00000 00000 \textbar{}
+  github.com/you \textbar{}
+  linkedin.com/in/you
+\end{center}
+
+% ---------- SUMMARY (optional, delete for students) ----------
+\section{Summary}
+One to two lines. What you are, what you are good at, what you want next.
+No adjectives that any applicant could write.
+
+% ---------- EXPERIENCE ----------
+\section{Experience}
+\role{Company}{City, Country}{Job Title}{Mon YYYY -- Mon YYYY}
+\begin{bullets}
+  \itemline{Verb first. What you did, on what, with what result. 12 to 22 words.}
+  \itemline{Second bullet. Include one number if a real one exists.}
+\end{bullets}
+
+\role{Company}{City, Country}{Job Title}{Mon YYYY -- Mon YYYY}
+\begin{bullets}
+  \itemline{Bullet.}
+\end{bullets}
+
+% ---------- PROJECTS ----------
+\section{Projects}
+\role{Project Name}{Tech stack}{One-line description}{Link or year}
+\begin{bullets}
+  \itemline{What it does, what you built, what happened. Link it.}
+\end{bullets}
+
+% ---------- EDUCATION ----------
+\section{Education}
+\role{University}{City, Country}{Degree, Branch}{YYYY -- YYYY}
+GPA: X.XX / 10 \quad Relevant coursework: A, B, C
+
+% ---------- SKILLS ----------
+\section{Skills}
+\textbf{Languages:} C++, Python, JavaScript\\
+\textbf{Tools:} Git, Linux, Docker, Postgres\\
+\textbf{Domains:} whatever you can defend in an interview
+
+\end{document}

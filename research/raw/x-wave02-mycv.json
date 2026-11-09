@@ -1,0 +1,217 @@
+{
+ "ok": true,
+ "account": "main",
+ "query": "(\"my resume\" OR \"my CV\") (got me OR landed OR \"got an offer\") (pdf OR attached) lang:en min_faves:300 -filter:replies",
+ "product": "Top",
+ "count": 5,
+ "tweets": [
+  {
+   "id": "1558200357855137801",
+   "text": "To help with the college application process, I've attached my resume and personal statement that I used last year for the Common Application. \n\nThe stats/extracurriculars that got me into a pretty cool college, a thread:",
+   "author": {
+    "id": "1457674428737859586",
+    "name": "willius",
+    "screenName": "will1us",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2028157334997094400/kz7EXWUP_normal.jpg",
+    "verified": true
+   },
+   "metrics": {
+    "likes": 1929,
+    "retweets": 64,
+    "replies": 20,
+    "quotes": 6,
+    "views": 0,
+    "bookmarks": 281
+   },
+   "createdAt": "Fri Aug 12 21:14:49 +0000 2022",
+   "createdAtLocal": "2022-08-13 02:44",
+   "createdAtISO": "2022-08-12T21:14:49+00:00",
+   "media": [],
+   "urls": [],
+   "isRetweet": false,
+   "retweetedBy": null,
+   "lang": "en",
+   "score": null,
+   "url": "https://x.com/will1us/status/1558200357855137801"
+  },
+  {
+   "id": "1968739388520550445",
+   "text": "The first job I got immediately after graduation didn’t come from a vacancy posting. I wrote an email highlighting my qualifications, skills, and why I would be a great addition to the organization’s team. I attached my CV and a link to my ePortfolio, then sent it to about five organizations.\n\nSome days later, one of the organizations invited me for an interview and I got hired.\n\nThe other organizations replied to let me know they didn’t have a vacancy at the time but would keep me in mind for future opportunities. Two reached out eventually as promised, but the other two never did.\n\nWhen I encourage people to cold-email, it’s not just for the sake of saying it. I share this advice because I’ve experienced firsthand how cold-emailing can be a game changer in both academia and industry.\n\nRecently, I even applied for a position I clearly wasn’t qualified for, and I still got it. Don’t wait for opportunities; Create them.",
+   "author": {
+    "id": "717199400",
+    "name": "Ugochukwu Madu",
+    "screenName": "UgochukwuCFR",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1974883380056477696/qU6bVmjT_normal.jpg",
+    "verified": true
+   },
+   "metrics": {
+    "likes": 1110,
+    "retweets": 120,
+    "replies": 14,
+    "quotes": 5,
+    "views": 77288,
+    "bookmarks": 595
+   },
+   "createdAt": "Thu Sep 18 18:10:22 +0000 2025",
+   "createdAtLocal": "2025-09-18 23:40",
+   "createdAtISO": "2025-09-18T18:10:22+00:00",
+   "media": [],
+   "urls": [],
+   "isRetweet": false,
+   "retweetedBy": null,
+   "lang": "en",
+   "score": null,
+   "url": "https://x.com/UgochukwuCFR/status/1968739388520550445"
+  },
+  {
+   "id": "1775210331716854145",
+   "text": "Since Big Brother, @SirJarus, posted about Ms. K who shot and her shot, and got an offer. I'm tempted to do the same here for two reasons:\n\n1. Someone might pick one or two.\n2. Someone might reach out for further conversation.\n\nOK, let's begin.\n\nOoops, before we begin, I am only an ND holder, so please don't mock me. 😂 \n\n---\nWould you like to have someone on your team who is capable of translating business ideas and decisions into numbers?\n\nI am Iwelabi, a seasoned chartered accountant and finance leader who has earned certification from the Institute of Chartered Accountants of Nigeria (ICAN) as well as acquired leadership training and certification from the prestigious Harvard Business School Online. \n\nMy over-eight-year career path has been shaped by hands-on experience across various industries, including Software as a Service (SaaS—B2B & B2C), Education Technology, FMCG, AgricTech, Real Estate, and Financial Services.\n\nMy expertise encompasses a wide range of skills, from Financial Management and Corporate Reporting (US GAAP, IAS, and IFRS) to Risk Management and Operational Excellence. I have honed my abilities through continuous learning and certifications, including training in Organizational Leadership, Budgeting and Forecasting, Advanced Excel and Modelling, and Emotional Intelligence. Currently, I am further enhancing my negotiation skills as a finance leader through enrollment in Harvard Business School Online’s Negotiation Mastery programme.\n\nBelow are some of my major accomplishments in recent time:\n\n● Successfully contributed and played a strong role in the xyz's $15m Series B Financing Activities. Prepared five-year financial projections; managed and contributed significantly to the Due Diligence exercise (including, FDD, TDD and LDD) with KPMG China, KPMG Nigeria and Aluko & Oyebode, and efficiently coordinated the uploading and referencing of files within the Data Room.\n\n● Prepared Financial Statements and managed audits with PwC Nigeria for about three consecutive years while working with xyz limited.\n\n● Saved abc limited a $100k in costs by applying and getting the company Google Cloud Credit for its GCP within the first month of resumption as Head of Finance of the company.\n\nAttached is my resume for your reference, providing further insight into my experience and capabilities.\n\nI look forward to hearing back from you.\n\nBest Regards,\n#Iwelabi.\n---\n\nBelow is also a link to a pager and two-page resume templates.\n\nhttps://t.co/1hRmtmFxak\n\nPick whatever you need and tweak it to suit your profile.\n\nAll the best!\n\nPlease RT for those who might find this useful.",
+   "author": {
+    "id": "282616571",
+    "name": "Iwelabi",
+    "screenName": "Iwelabi1",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2013255674319314944/0IXnFgHM_normal.jpg",
+    "verified": true
+   },
+   "metrics": {
+    "likes": 334,
+    "retweets": 144,
+    "replies": 13,
+    "quotes": 5,
+    "views": 48673,
+    "bookmarks": 425
+   },
+   "createdAt": "Tue Apr 02 17:14:59 +0000 2024",
+   "createdAtLocal": "2024-04-02 22:44",
+   "createdAtISO": "2024-04-02T17:14:59+00:00",
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GKLLJvvWUAAxfBn.jpg",
+     "width": 1020,
+     "height": 1442
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GKLLJvsWMAAbrYv.jpg",
+     "width": 1022,
+     "height": 1406
+    }
+   ],
+   "urls": [],
+   "isRetweet": false,
+   "retweetedBy": null,
+   "lang": "en",
+   "score": null,
+   "url": "https://x.com/Iwelabi1/status/1775210331716854145"
+  },
+  {
+   "id": "1730233005648580686",
+   "text": "Nice question.\n\nI sent emails, attaching my CV, to virtually everybody I knew (including classmates who had started working) in all organizations I knew someone in Lagos.\n\nThe particular email (frame 2) to someone in Oando, got me invite for job test. I aced allnthe 3 stages (test, panel interview and chat with COO) and the rest is history.\n\nThe CV attached to that email also in frames 3 & 4. \n\nThat was how I got my first post NYSC job.",
+   "author": {
+    "id": "2326821061",
+    "name": "Sir J (J9)",
+    "screenName": "SirJarus",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2087456286690398208/UuvvYFeT_normal.jpg",
+    "verified": true
+   },
+   "metrics": {
+    "likes": 355,
+    "retweets": 102,
+    "replies": 29,
+    "quotes": 5,
+    "views": 56029,
+    "bookmarks": 216
+   },
+   "createdAt": "Thu Nov 30 14:31:09 +0000 2023",
+   "createdAtLocal": "2023-11-30 20:01",
+   "createdAtISO": "2023-11-30T14:31:09+00:00",
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GAMFvPgWcAAwejw.jpg",
+     "width": 1284,
+     "height": 1408
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GAMFvPjXwAEReiO.jpg",
+     "width": 1172,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GAMFvPjWoAAZu1o.jpg",
+     "width": 1098,
+     "height": 2048
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GAMFvPZWUAAiflF.jpg",
+     "width": 1174,
+     "height": 2048
+    }
+   ],
+   "urls": [],
+   "isRetweet": false,
+   "retweetedBy": null,
+   "lang": "en",
+   "score": null,
+   "url": "https://x.com/SirJarus/status/1730233005648580686"
+  },
+  {
+   "id": "1914503326642921579",
+   "text": "Last week, I mentioned I wanted to get to 1,000,000 subscribers on my @YouTube  channel before I post the first episode of my new show. I figured it would take a couple weeks to get there, but it took about ten minutes, so I’ve been scrambling ever since to get the first episode ready, which is now scheduled to drop on May 2nd. You can expect me to remind you several times between now and then to watch it. You can also expect me to try and persuade you to subscribe to and follow my channel. I realize how tiresome that is to hear, but this is the world I’ve entered, and now it’s my job to ask. So, if you haven’t done so already, please subscribe to my YouTube channel. And for the love of God, please watch my new show and share this post. There's no network behind this one—just me and you and whatever fortunate wind might blow through the world wide web.\n\nhttps://t.co/FpEikOCHc8\n\nThanks,\nMike\n\nPS. For those of you unfamiliar with every detail of my resume, I used to host a show on Facebook Watch called “Returning the Favor.” Modesty aside, it was pretty good. In each episode, we profiled an individual who was improving their communities with a bottom-up solution to any number of problems plaguing neighborhoods all over America. We produced 100 episodes, which got over 450 million views. We also won an Emmy, for what it's worth. Facebook, however, for reasons that had nothing to do with the show’s popularity, discontinued the Watch Platform, and Returning the Favor was no more. Ever since, I’ve been hearing from fans who want to know when the show was coming back.\n\nWell, this is it, sort of. Returning the Favor is still owned by Facebook, so I don’t have the right to use that title. I do, however, have the right to introduce you to another batch of people I think you should know, and then, surprise those people with a gift that allows them to do more of the good work they’re being acknowledged for doing. And so, in clear defiance of the Producer’s Golden Rule (never spend your own money!!!) I’ve decided to find out if there’s still an audience out there for this kind of unapologetically feel-good content. Seems to me the country could use it. With the help of Mary Sullivan, Sarah Yourgrau, and my friends at Impact Productions, we’ve produced six new episodes of a show I’m calling, \"People You Should Know,\" which I’m delighted to say lives up to its title. The first episode, as I may have mentioned, will premiere on my YouTube channel, May 2nd. After that, we’ll post a new one every other week and see how it goes.\n\nAlso, in the interest of managing expectations, I should tell you that we don’t have the financial resources we once did, so the reveals might be a tad less elaborate than they once were. Fewer stadiums bursting with local townspeople, fewer parades, fewer bells and whistles, that sort of thing. But I promise you, if you liked Returning the Favor, you’re gonna love People You Should Know. It’s not just a feel-good show, it’s “the making of a feel-good show,” and like its predecessor, you’re liable to laugh and cry—quite possibly at the same time.\n\nTo review, “People You Should Know” is coming to my YouTube Channel on May 2nd. Which reminds me, if you haven’t already done it, subscribe to my channel.\n\nhttps://t.co/FpEikOCHc8\n\nPPS. Attached are few random shots from recent shoots. That's Sarah, of course, producing and co-hosting at the same time, even as she doesn't fall off a bike while look fabulous. Below is Rusty The Bike Guy in Florida, chauffeuring my loyal soundman to nowhere in particular, and Lenzy, whose story you'll have to hear to believe, and Judaline, a tiny plumber in Staten Island that's making a BIG difference. More later...",
+   "author": {
+    "id": "18253799",
+    "name": "The Real Mike Rowe",
+    "screenName": "mikeroweworks",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2009046185831694336/NsptyhFt_normal.jpg",
+    "verified": true
+   },
+   "metrics": {
+    "likes": 3189,
+    "retweets": 461,
+    "replies": 74,
+    "quotes": 13,
+    "views": 58010,
+    "bookmarks": 63
+   },
+   "createdAt": "Tue Apr 22 02:15:37 +0000 2025",
+   "createdAtLocal": "2025-04-22 07:45",
+   "createdAtISO": "2025-04-22T02:15:37+00:00",
+   "media": [
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GpGttt-a4AYEmGd.jpg",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GpGtweQbAAAbpoP.jpg",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GpGtyi4aAAApkbd.jpg",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "url": "https://pbs.twimg.com/media/GpGt1Dha4AEgeu-.jpg",
+     "width": 2048,
+     "height": 1536
+    }
+   ],
+   "urls": [],
+   "isRetweet": false,
+   "retweetedBy": null,
+   "lang": "en",
+   "score": null,
+   "url": "https://x.com/mikeroweworks/status/1914503326642921579"
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "ok": true,
+ "account": "main",
+ "query": "\"resume teardown\" (recruiter OR engineer OR designer) lang:en min_faves:50",
+ "product": "Top",
+ "count": 0,
+ "tweets": []
+}

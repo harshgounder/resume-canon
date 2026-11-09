@@ -1,0 +1,17 @@
+# build output
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+build/
+
+# local scratch
+research/raw/*.pdf
+*.pdf.tmp
+.DS_Store
+node_modules/
+__pycache__/
+.venv/

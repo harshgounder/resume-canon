@@ -1,0 +1,1434 @@
+{
+ "fetchedAt": "2026-11-09T06:41:08.941Z",
+ "queries": [
+  "ats-recruiter",
+  "skim-rejected"
+ ],
+ "d1": {
+  "ok": true,
+  "account": "main",
+  "query": "(resume OR CV) (ATS OR \"applicant tracking\") (recruiter OR hiring) lang:en min_faves:100 -filter:replies",
+  "product": "Top",
+  "count": 20,
+  "tweets": [
+   {
+    "id": "2030643475717173310",
+    "text": "𝗧𝗵𝗶𝘀 𝗿𝗲𝘀𝘂𝗺𝗲 𝗵𝗮𝘀 𝗮𝗻 𝗔𝗧𝗦 𝘀𝗰𝗼𝗿𝗲 𝗼𝗳 𝟗𝟎!\n\nHiring managers spend only 15-30 seconds reviewing a resume. Make those seconds count!\n\nResume vs. CV: Which Should You Use? 🎯\n\nConfused about resume or CV? You're not alone.\nHere's a quick breakdown to help you choose.\n\n📏 Length\n• Resume: 1–2 pages max.\n• Concise, clean, and targeted.\n• CV: 2+ pages, often longer.\n• Comprehensive academic and professional record.\n\n📄 Content\n• Resume: Highlights relevant skills only.\n• Tailored to the specific job.\n• Focuses on recent roles, results.\n• CV: Includes everything: education, publications.\n• Research, presentations, awards, certifications too.\n\n🎯 Purpose\n• Resume: Best for corporate, industry roles.\n• Shows why you fit this role.\n• CV: For academia, research, medicine.\n• Also for grants, fellowships, international jobs.\n\n✅ Key Takeaway\n→ Corporate job? Use a resume.\n→ PhD, research, abroad? Choose CV.\n\n💡 Pro Tip\n→ Always check job description guidelines.\n→ When unsure, just ask directly.\n\n🔗 Need a clean, ATS-friendly template?\n→ Free resource: https://t.co/xEh57YR1lp\n\nIf this helped you today:\n✅ Like this post\n🔁 Repost to help others\n💬 Comment: Resume or CV?\n\n#CareerTips #JobSearch #ResumeTips\n#CV #CareerAdvice #JobApplication\n#ProfessionalDevelopment #LinkedInCommunity\n\nP.S. Tag someone updating their resume! 👇",
+    "author": {
+     "id": "1886748851572498434",
+     "name": "Swati Gupta",
+     "screenName": "hrswatigupta",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1887492440531345412/nDxrI7j2_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 446,
+     "retweets": 102,
+     "replies": 56,
+     "quotes": 0,
+     "views": 20383,
+     "bookmarks": 198
+    },
+    "createdAt": "Sun Mar 08 13:55:06 +0000 2026",
+    "createdAtLocal": "2026-03-08 19:25",
+    "createdAtISO": "2026-03-08T13:55:06+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HC5LegRWgAE4n0p.jpg",
+      "width": 800,
+      "height": 1116
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/hrswatigupta/status/2030643475717173310"
+   },
+   {
+    "id": "2014294979879805272",
+    "text": "Here is the AI prompt you could use for this to make yu bypass any ATS system:\n\nGive the AI THIS: \n\nYou are an expert resume writer and ATS optimization specialist with deep knowledge of Greenhouse ATS algorithms and modern hiring practices.\n\nUsing the CV and Job Description (JD) I will provide below, create a professionally tailored CV that:\n\n1. KEYWORD OPTIMIZATION\n\nExtract all relevant keywords, phrases, and skills from the JD\nNaturally incorporate these terms throughout the CV (summary, skills, experience sections)\nMatch industry-specific terminology and jargon used in the JD\n\n2. CONTENT RESTRUCTURING\n\nReorder bullet points to prioritize the most relevant experiences first\nReframe existing accomplishments to directly align with the JD requirements\nEmphasize transferable skills that match the role's core competencies\n\n. FORMATTING & STRUCTURE\n\nUse ATS-friendly formatting (clean headers, standard fonts, no tables/graphics)\nInclude a targeted professional summary that mirrors the JD's key requirements\nOrganize sections in reverse chronological order\n\n4. QUANTIFIABLE ACHIEVEMENTS\n\nHighlight metrics, percentages, and measurable outcomes\nUse strong action verbs that align with the JD's language\nOutput: A complete, ready-to-submit CV optimized for Greenhouse ATS.",
+    "author": {
+     "id": "774197279402123264",
+     "name": "Splendor of SQL 🇬🇧🇩🇪💖",
+     "screenName": "iam_Uchenna",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1603116239769026561/amTFlEWb_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 987,
+     "retweets": 163,
+     "replies": 14,
+     "quotes": 6,
+     "views": 137946,
+     "bookmarks": 4139
+    },
+    "createdAt": "Thu Jan 22 11:12:01 +0000 2026",
+    "createdAtLocal": "2026-01-22 16:42",
+    "createdAtISO": "2026-01-22T11:12:01+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "2014293480072167708",
+     "text": "https://t.co/nAsrzSbl8R",
+     "author": {
+      "screenName": "iam_Uchenna",
+      "name": "Splendor of SQL 🇬🇧🇩🇪💖"
+     }
+    },
+    "url": "https://x.com/iam_Uchenna/status/2014294979879805272"
+   },
+   {
+    "id": "2015366687915491798",
+    "text": "🚨Jan-Feb are the PEAK HIRING SEASON \nPump up your resume well\n\nHere's a clean, ATS-friendly resume PDF template which I personally like\n\nhttps://t.co/VBJmYgvL6D\n\nTag a friend who's job hunting!",
+    "author": {
+     "id": "2002684830165901312",
+     "name": "Ayushi",
+     "screenName": "Ayushi_sharma02",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2023464431179755521/rt1br-2f_normal.jpg",
+     "verified": false
+    },
+    "metrics": {
+     "likes": 278,
+     "retweets": 36,
+     "replies": 7,
+     "quotes": 1,
+     "views": 21894,
+     "bookmarks": 427
+    },
+    "createdAt": "Sun Jan 25 10:10:36 +0000 2026",
+    "createdAtLocal": "2026-01-25 15:40",
+    "createdAtISO": "2026-01-25T10:10:36+00:00",
+    "media": [],
+    "urls": [
+     "https://drive.google.com/file/d/1AC-5bPjrm2zTfgwwywzq_pkYeYTkB69r/view?usp=drivesdk"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/Ayushi_sharma02/status/2015366687915491798"
+   },
+   {
+    "id": "2089729622674153558",
+    "text": "Applying for jobs? Don’t let an ATS reject your resume before a recruiter even sees it. \n\nGet a free ATS-friendly resume scan this month—complete with a rubric-based review and actionable fixes.\n\nGet your code 👉 https://t.co/3QoxDI4mqR\nvia @PButterJelly\n\n#resume #Solana #Crypto #ad",
+    "author": {
+     "id": "2291910612",
+     "name": "X’er",
+     "screenName": "DaCryptoXer",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1734609042323197952/C4DRAKcz_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 127,
+     "retweets": 20,
+     "replies": 48,
+     "quotes": 0,
+     "views": 153692,
+     "bookmarks": 3
+    },
+    "createdAt": "Tue Aug 18 15:02:22 +0000 2026",
+    "createdAtLocal": "2026-08-18 20:32",
+    "createdAtISO": "2026-08-18T15:02:22+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HQA2Az6a4AAKehT.jpg",
+      "width": 1280,
+      "height": 1079
+     }
+    ],
+    "urls": [
+     "https://peanutbutterjelly.io/connect-with-us"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/DaCryptoXer/status/2089729622674153558"
+   },
+   {
+    "id": "2053526453191414212",
+    "text": "If you’re currently hunting for a remote job, here’s a solid resume template you can use.\n\nIt is fully ATS-optimized and includes the exact sections recruiters and hiring managers pay attention to.\n\nI’ve linked an editable template in the comments. https://t.co/KivT7i0gVS",
+    "author": {
+     "id": "1516121804200464389",
+     "name": "Chioma Amadi",
+     "screenName": "Chioma__Amadi",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2006542403931451392/A6mzGfjp_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 1133,
+     "retweets": 163,
+     "replies": 17,
+     "quotes": 3,
+     "views": 159312,
+     "bookmarks": 1539
+    },
+    "createdAt": "Sun May 10 17:23:53 +0000 2026",
+    "createdAtLocal": "2026-05-10 22:53",
+    "createdAtISO": "2026-05-10T17:23:53+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HH-XazOX0AExCSh.jpg",
+      "width": 1101,
+      "height": 1533
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "2048714561436475465",
+     "text": "Remote workers on X, let’s make a thread for newbies. What’s a remote work advice you swear by?",
+     "author": {
+      "screenName": "Chioma__Amadi",
+      "name": "Chioma Amadi"
+     }
+    },
+    "url": "https://x.com/Chioma__Amadi/status/2053526453191414212"
+   },
+   {
+    "id": "2074048997266702345",
+    "text": "Remote Work Resources 📚\n\n→ CV & Resume Templates\nhttps://t.co/iVPImpT7jc\n\n→ How to Create a Portfolio\nhttps://t.co/fRdFtO1By3\n\n→ Cold Pitch Template\nhttps://t.co/Oaz9RP8cia\n\n→ Targeted Job Outreach Email Templates\nhttps://t.co/rMPLlcgIPF\n\n→ Companies Currently Hiring\nhttps://t.co/lvkkFYKslv\n\n→ How to Find Remote Jobs on X\nhttps://t.co/GVe8b9jzYQ\n\n→ ATS-Optimized Resume Guide\nhttps://t.co/NeD83fjPwq\n\n→ 100 Free Websites to Learn New Skills\nhttps://t.co/6G5azrcpNe\n\n→ How to Get a Remote Job with No Experience\nhttps://t.co/4roU186rj8",
+    "author": {
+     "id": "1734986618543509505",
+     "name": "Victoria Enebeli 🙂‍↔️",
+     "screenName": "iamveektoria_",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2090147022355456000/Ncdk7d4P_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 317,
+     "retweets": 76,
+     "replies": 14,
+     "quotes": 3,
+     "views": 28245,
+     "bookmarks": 748
+    },
+    "createdAt": "Mon Jul 06 08:33:09 +0000 2026",
+    "createdAtLocal": "2026-07-06 14:03",
+    "createdAtISO": "2026-07-06T08:33:09+00:00",
+    "media": [],
+    "urls": [
+     "https://drive.google.com/drive/mobile/folders/1UVI5yT-5JfMwyHHloxPwkuuPm08L_zBn",
+     "https://x.com/iamveektoria_/status/2039285299293847790",
+     "https://docs.google.com/spreadsheets/u/0/d/1x36c7vf5RTCKXhTL0h-PI7uGfLEmn3Gewejb0YPy-YI/htmlview",
+     "https://x.com/iamveektoria_/status/2038293891884196136"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "2073331520245277075",
+     "text": "@iamveektoria_ Please assist with all remote work resources.\n\nThis will be very helpful for many.",
+     "author": {
+      "screenName": "laststickmans",
+      "name": "STU (survival stories)"
+     }
+    },
+    "url": "https://x.com/iamveektoria_/status/2074048997266702345"
+   },
+   {
+    "id": "2079204558346113346",
+    "text": "🚨 I'M HIRING. The role is \"person who rewrites my resume 40 times.\"\n\nThis Resume Tailor Agent already took it.\n\nGive it a job posting and your resume. It rewrites the whole thing for that specific role in 60 seconds, keyword-matched, ATS-ready, and it only uses what you've actually done.\n\nIt connects straight to Gmail and Google Docs so the tailored version lands right where you work.\n\n1.9k people have used it.\n\nMost job seekers are still sending the same resume 40 times and wondering why nobody calls back.\n\nTry the Resume Tailor Agent on @CreaoAI . Paste the job posting + your resume and it rewrites it for the role with matched keywords, keeps it ATS-ready, and saves it to Google Docs.\n\nIf you need this agent make your request trough comment I will give you for free, This is AI Agent Era.",
+    "author": {
+     "id": "1825912538686427138",
+     "name": "SOP | AI Agent Builder",
+     "screenName": "Sonofpeace0001",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2111634561906139136/cv-KqHH7_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 229,
+     "retweets": 67,
+     "replies": 61,
+     "quotes": 2,
+     "views": 35522,
+     "bookmarks": 16
+    },
+    "createdAt": "Mon Jul 20 13:59:31 +0000 2026",
+    "createdAtLocal": "2026-07-20 19:29",
+    "createdAtISO": "2026-07-20T13:59:31+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HNrRhQMXAAApoSN.jpg",
+      "width": 1891,
+      "height": 831
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "2078848911511322658",
+     "text": "🚨 I built one agent on @CreaoAI .\n\nMy YouTube Shorts channel just dropped its 7th video this week.\n\nI haven’t opened the app once.\n\nEvery morning it wakes up and does the full job:\n\n→ Researches the hooks that are actually winning in my niche right now  \n→ Writes a complete script in my exact voice  \n→ Generates natural voiceover + captions  \n→ Renders the full video  \n→ Uploads it straight to my channel on schedule\n\nI set it up once in an afternoon.  \nIt hasn’t asked me for anything since.\n\nZero daily prompting. Zero editing. Zero manual uploads.  \nJust consistent Shorts while I do other things.\n\n1/3 🧵",
+     "author": {
+      "screenName": "Sonofpeace0001",
+      "name": "SOP | AI Agent Builder"
+     }
+    },
+    "url": "https://x.com/Sonofpeace0001/status/2079204558346113346"
+   },
+   {
+    "id": "2041782328822001761",
+    "text": "I just found out why most PhD resumes get rejected before a human ever reads them.\n\nA MIT robotics researcher who went through KAIST, did a postdoc at MIT, and just landed at a big tech company figured it out the hard way. Then he put the whole thing on GitHub.\n\nIt's called Awesome-PhD-CV.\n\nHere's the problem nobody tells you:\n\nThe LaTeX tricks that make academic CVs look beautiful custom fonts, multi-column layouts, fancy glyphs silently break ATS parsers at companies like Google, Meta, Amazon, and Apple. Your resume never reaches a recruiter. It gets killed by a machine before anyone sees your name.\n\nHe built three templates to fix this:\n\n→ Jake's Format: Single-page, plain pdfLaTeX, no custom fonts, no multi-column layout. The only format that actually survives big tech ATS systems. The most popular LaTeX resume template on the internet.\n→ Deedy Format: Two-column, high information density for experienced engineers who know the company accepts it\n→ Awesome-CV: Full multi-page academic CV for faculty applications and postdoc positions. Publication lists, research statements, citation counts, GitHub stars, all included.\n\nThe guideline file alone is worth bookmarking. It explains exactly what breaks ATS parsers and why, which most PhD students only find out after they don't hear back.\n\n100% Opensource. Free forever.\n\nLink in comments.",
+    "author": {
+     "id": "1824076867998994432",
+     "name": "Rimsha Bhardwaj",
+     "screenName": "heyrimsha",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2090372940781228032/IEKqCyX3_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 460,
+     "retweets": 63,
+     "replies": 8,
+     "quotes": 1,
+     "views": 50982,
+     "bookmarks": 731
+    },
+    "createdAt": "Wed Apr 08 07:36:56 +0000 2026",
+    "createdAtLocal": "2026-04-08 13:06",
+    "createdAtISO": "2026-04-08T07:36:56+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HFXeNSJbQAAO69a.jpg",
+      "width": 1200,
+      "height": 1402
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/heyrimsha/status/2041782328822001761"
+   },
+   {
+    "id": "2100541558596796771",
+    "text": "I might have lost job opportunities because of one PDF. 😳\n2 months ago, I was applying for jobs with what I thought was a solid resume.\n\nBut after a few rejections, I started asking myself:\n\nWas my resume actually the problem?\n\nThat’s when I learned how much ATS can matter.\nYour resume can look great to a human but still get filtered before a recruiter sees it.\n\nSo I checked out Kickresume’s ATS Resume Checker.\nIt checks 20+ things across:\n\n→ Design & formatting\n→ Structure\n→ Keywords & skills\n→ ATS readability\n\nAnd gives you a score + clear suggestions on what to fix.\nCheck your resume before the ATS does. 👇\n\nhttps://t.co/tFNfhvjygk\n\n#ad #Kickresume #ResumeTips #JobSearch",
+    "author": {
+     "id": "2910033014",
+     "name": "Katherine",
+     "screenName": "supressedvoic",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2082712625163669505/yFMXT8ei_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 76,
+     "retweets": 21,
+     "replies": 22,
+     "quotes": 1,
+     "views": 44940,
+     "bookmarks": 18
+    },
+    "createdAt": "Thu Sep 17 11:05:08 +0000 2026",
+    "createdAtLocal": "2026-09-17 16:35",
+    "createdAtISO": "2026-09-17T11:05:08+00:00",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2100540801214459904/vid/avc1/1440x1080/zUup7XjN9i6sK9ho.mp4?tag=29",
+      "width": 1440,
+      "height": 1080
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/supressedvoic/status/2100541558596796771"
+   },
+   {
+    "id": "1978024572793262507",
+    "text": "These Resume Making Sites Can Help You Land $10K+ Salary Jobs \n\n(ATS-Friendly, Recruiter Approved ✅) https://t.co/J0dKur41J0",
+    "author": {
+     "id": "1904452906767806464",
+     "name": "Roshan Kumar",
+     "screenName": "RoshanK80555951",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1909548591347023872/Uf3WjECE_normal.jpg",
+     "verified": false
+    },
+    "metrics": {
+     "likes": 113,
+     "retweets": 18,
+     "replies": 37,
+     "quotes": 0,
+     "views": 12600,
+     "bookmarks": 112
+    },
+    "createdAt": "Tue Oct 14 09:06:22 +0000 2025",
+    "createdAtLocal": "2025-10-14 14:36",
+    "createdAtISO": "2025-10-14T09:06:22+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G3Na3FwWoAA7GaR.jpg",
+      "width": 905,
+      "height": 1280
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/RoshanK80555951/status/1978024572793262507"
+   },
+   {
+    "id": "2055210777720848838",
+    "text": "Every \"free\" resume builder on the internet runs the same scam.\n\nThey let you build. They let you write. They let you spend two hours picking fonts, adjusting margins, perfecting bullet points.\n\nThen you click \"Download PDF.\"\n\n$15.\n\nYour words. Your experience. Your career history. Locked behind a button that says \"Upgrade to download.\"\n\nYou wrote the document. They own the export.\n\nhttps://t.co/5unSB7LA9q does this. Zety does this. Novoresume does this. Enhancv does this. Every single one.\n\nZety is the worst. Sign up for a $2.99 \"trial.\" Get charged $23.70 the next month. Automatically. No warning. Their Trustpilot page reads like a crime scene. Thousands of job seekers. Already stressed. Already broke. Fighting to cancel a subscription they never meant to start.\n\nOne developer decided this was wrong.\n\nHis name is Amruth Pillai. Indian. Self-taught. He watched millions of people get trapped by the same paywall on every resume site on the internet.\n\nSo he built one without a paywall. No trick. No trap. No \"free tier\" that expires. No premium templates locked behind a credit card. No auto-renewing trial buried in fine print.\n\nHe called it Reactive Resume. Then he gave it to the world.\n\n36,000+ stars on GitHub. Almost 1 million resumes built. MIT licensed. Free since day one.\n\n→ Professional templates. Every one ATS-friendly by default.\n→ Real-time preview. See your resume change as you type.\n→ Export to PDF. One click. No paywall. No watermark.\n→ No account required to start.\n→ Drag-and-drop sections. Rearrange everything.\n→ Custom colors, fonts, spacing, layouts.\n→ Multiple resumes. Tailor each for each job.\n→ Share a live link with any recruiter.\n→ AI writing assistant for summaries and descriptions.\n→ 30+ languages.\n→ Self-host with Docker.\n→ Try it now. https://t.co/qih5d8FzaU. No signup.\n\nHere's the part the paid builders do not want you to know:\n\n75% of resumes are thrown away by ATS software before a human ever sees them. Not because the person was unqualified. Because the format was unreadable by the machine.\n\nThe paid builders know this. They put ATS-optimized templates behind the premium paywall. They know your free template will fail the scan. They wait for you to get rejected. Then they sell you the fix.\n\nEvery Reactive Resume template passes ATS by default. No upgrade needed. No premium tier. The fix is free.\n\nhttps://t.co/5unSB7LA9q: $25/month.\nZety: $2.99 trial. $23.70/month after.\nNovoresume: $19.99/month.\n\nReactive Resume: $0. No paywall. No auto-renewal. No trap. Every feature. Forever.\n\nOne Indian developer built what a billion-dollar industry charges monthly for. Then he open sourced it.\n\nYour resume. Your words. Your future. No scam in between.\n\n100% Open Source.",
+    "author": {
+     "id": "1916904726295453696",
+     "name": "Nav Toor",
+     "screenName": "heynavtoor",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2017556052938788865/3E6CcSFP_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 104,
+     "retweets": 28,
+     "replies": 11,
+     "quotes": 2,
+     "views": 12264,
+     "bookmarks": 151
+    },
+    "createdAt": "Fri May 15 08:56:48 +0000 2026",
+    "createdAtLocal": "2026-05-15 14:26",
+    "createdAtISO": "2026-05-15T08:56:48+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HIWTT49akAAua_n.jpg",
+      "width": 1217,
+      "height": 1320
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/heynavtoor/status/2055210777720848838"
+   },
+   {
+    "id": "2106667544685752809",
+    "text": "Never upload your resume as a PDF.\n\nThere is a reason.\n\n• DOCX is easier for ATS systems to parse\n• Recruiters can quickly edit or add notes\n• Text extraction is generally easier\n• Some hiring portals process DOCX more reliably\n• Recruiters can copy your information directly into their systems\n\nSo if the application says \"Upload Resume\", don’t upload a PDF just because it looks better. Always try to upload DOCX format.",
+    "author": {
+     "id": "1995004047896772608",
+     "name": "Ritesh",
+     "screenName": "riteshpatel1884",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2057529024415748096/B8CUXKyd_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 1257,
+     "retweets": 55,
+     "replies": 90,
+     "quotes": 14,
+     "views": 143529,
+     "bookmarks": 1108
+    },
+    "createdAt": "Sun Oct 04 08:47:37 +0000 2026",
+    "createdAtLocal": "2026-10-04 14:17",
+    "createdAtISO": "2026-10-04T08:47:37+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/riteshpatel1884/status/2106667544685752809"
+   },
+   {
+    "id": "2015035147956142351",
+    "text": "ATS-friendly Resume PDF 📄\n\n✔️ Clean format\n✔️ Recruiter-approved\n\nDownload link:https://t.co/0zI3XP5J5R\n\nDon’t let ATS reject you again.",
+    "author": {
+     "id": "1931473663846670336",
+     "name": "Lakshya Shukla",
+     "screenName": "DevByLakshya",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2070991617494790144/CexqIkJB_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 500,
+     "retweets": 66,
+     "replies": 5,
+     "quotes": 3,
+     "views": 36312,
+     "bookmarks": 817
+    },
+    "createdAt": "Sat Jan 24 12:13:11 +0000 2026",
+    "createdAtLocal": "2026-01-24 17:43",
+    "createdAtISO": "2026-01-24T12:13:11+00:00",
+    "media": [],
+    "urls": [
+     "https://drive.google.com/file/d/1Bi7PkrBF5AF1YtETi_d1iaaFyrAWjCpM/view?usp=drivesdk"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/DevByLakshya/status/2015035147956142351"
+   },
+   {
+    "id": "2055953199513628803",
+    "text": "This is a solid resume template you can use.\n\nIt is fully ATS-optimized and includes the exact sections recruiters and hiring managers pay attention to.\n\nEditable template - https://t.co/tQCPcuTtPV\n\nDownload the resume builder app, select “Resume 1,” fill in your details and export it.\n\nIt’ll come out the exact same as the attached sample.\n\nFollow for more. Goodluck ✨",
+    "author": {
+     "id": "1734986618543509505",
+     "name": "Victoria Enebeli 🙂‍↔️",
+     "screenName": "iamveektoria_",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2090147022355456000/Ncdk7d4P_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 271,
+     "retweets": 47,
+     "replies": 7,
+     "quotes": 0,
+     "views": 22645,
+     "bookmarks": 417
+    },
+    "createdAt": "Sun May 17 10:06:55 +0000 2026",
+    "createdAtLocal": "2026-05-17 15:36",
+    "createdAtISO": "2026-05-17T10:06:55+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HIg2iYcXMAAeM0W.jpg",
+      "width": 992,
+      "height": 1381
+     }
+    ],
+    "urls": [
+     "https://apps.apple.com/ng/app/resume-builder/id1047522998"
+    ],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "2055951633465364617",
+     "text": "@iamveektoria_ Do they include the ATS format???",
+     "author": {
+      "screenName": "Micarridecks",
+      "name": "Oghenetega || MicarriDecks"
+     }
+    },
+    "url": "https://x.com/iamveektoria_/status/2055953199513628803"
+   },
+   {
+    "id": "2106967535669420427",
+    "text": "You can be qualified for the job… and still get rejected before a recruiter sees your resume.\n\nThat’s a frustrating reality for many job seekers.\n\nYou spend hours tailoring applications.\nYou match the job description.\nYou have the experience.\n\nAnd then…\n\nNo reply. No interview. Just another rejection email.\n\nI started wondering if my resume was actually hurting my chances.\n\nSo I looked into something I hadn’t paid enough attention to before: ATS optimization.\n\nA resume can look perfectly fine to a human but still have issues with how an Applicant Tracking System reads its:\n\n→ Keywords & skills\n → Structure\n → Formatting\n → ATS readability\n\nThat’s when I tried Kickresume’s ATS Resume Checker.\nIt checks 20+ areas and gives you an ATS score along with specific suggestions on what you can improve.\n\nThe biggest takeaway for me:\n\nDon’t just make your resume look good. Make sure it can actually be read properly by the systems screening it.\n\nBefore sending your next 20 applications, maybe check the resume first. 👇\n\nhttps://t.co/tFNfhvjygk\n\n#ad #Kickresume #ResumeTips #JobSearch #CareerTips",
+    "author": {
+     "id": "2910033014",
+     "name": "Katherine",
+     "screenName": "supressedvoic",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2082712625163669505/yFMXT8ei_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 107,
+     "retweets": 27,
+     "replies": 15,
+     "quotes": 0,
+     "views": 52794,
+     "bookmarks": 11
+    },
+    "createdAt": "Mon Oct 05 04:39:40 +0000 2026",
+    "createdAtLocal": "2026-10-05 10:09",
+    "createdAtISO": "2026-10-05T04:39:40+00:00",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2106967466077495296/vid/avc1/1440x1080/3X8o8b2P5qhjBdyK.mp4?tag=29",
+      "width": 1440,
+      "height": 1080
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/supressedvoic/status/2106967535669420427"
+   },
+   {
+    "id": "2056069551737958757",
+    "text": "2 years ago I thought I was the problem.\n\nI was sending CVs everywhere and barely getting interviews.\n\nSo I kept doing what everyone does:\nrewriting my resume over and over again.\n\nCanva templates.\nEuropass.\nRandom ATS advice from YouTube and TikTok.\n\nNothing changed.\n\nThen a recruiter showed me something that completely changed how I saw job applications:\n\nMost resumes get filtered out before a human ever reads them.\n\nThat sent me down a rabbit hole.\n\nI became obsessed with:\n• ATS systems\n• recruiter behavior\n• resume structure\n• why some people get interviews constantly\n• and why others get ignored\n\nEventually I started helping friends fix their CVs.\n\nThen strangers online.\n\nSo I built the tool I wish I had back then.\n\nResumeLyn shows you what’s actually hurting your applications and helps you optimize your CV for real hiring systems.\n\n+8,000 people already tested it:\nhttps://t.co/B1cau0wgxx\n\nIf you want a discount code, comment “resumelyn” and I’ll send one 👇\n\nAnd if you know someone struggling to find a job, send them this.",
+    "author": {
+     "id": "1524833449588183048",
+     "name": "Axel",
+     "screenName": "madebyax",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2056065261891923968/HpiDHTlY_normal.jpg",
+     "verified": false
+    },
+    "metrics": {
+     "likes": 6,
+     "retweets": 0,
+     "replies": 30,
+     "quotes": 0,
+     "views": 24859,
+     "bookmarks": 3
+    },
+    "createdAt": "Sun May 17 17:49:15 +0000 2026",
+    "createdAtLocal": "2026-05-17 23:19",
+    "createdAtISO": "2026-05-17T17:49:15+00:00",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2056069468812460032/vid/avc1/1906x910/fEY06cP2YrSIeO2e.mp4?tag=27",
+      "width": 1906,
+      "height": 910
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/madebyax/status/2056069551737958757"
+   },
+   {
+    "id": "2022133186793550132",
+    "text": "8 Google Gemini Prompts To Improve Your Resume\n\n​Most resumes end up in the \"no\" pile because they focus on tasks instead of results. If you want to stand out to recruiters and bypass the ATS filters, you need to be more strategic.\n\nTherefore, ​I’ve compiled 8 powerful prompts you can use with Google Gemini to transform your resume :\n\n​1. Spot the Flaws\n​Prompt: Act as a recruiter for [your industry/role]. Review my resume below and highlight weak areas, overused buzzwords, and missing metrics. Be brutally honest.\n\n​2. Rewrite for Impact\n​Prompt: Rewrite this resume to sound more results-driven, quantifiable, and compelling for [target role]. Focus on achievements, not just duties.\n\n​3. ATS Boost\n​Prompt: Update this resume to be fully optimized for Applicant Tracking Systems (ATS) for the role of [specific role/title]. Use industry-specific keywords naturally.\n\n​4. Craft My Hook\n​Prompt: Write a powerful, 3-line professional summary that hooks a recruiter in under 10 seconds. Prioritize impact, clarity, and value.\n\n​5. Upgrade Experience\n​Prompt: Rephrase the experience section to highlight impact, results, and transferable skills using action verbs and quantifiable outcomes.\n\n​6. Format Fix\n​Prompt: Suggest a clean, modern resume format that works for both humans and ATS. No graphics, no columns. Just structured and effective.\n\n​7. Tailor for the Role\n​Prompt: Tailor this resume to fit this specific job description [paste JD]. Highlight matching experience and reword sections to match the language used.\n\n​8. Standout Cover Letter\n​Prompt: Write a compelling cover letter based on this resume and job description. Keep it personal, enthusiastic, and under 200 words.\n\nYour resume is your first impression make it count!\n\n❤️ Like\n🔁 Retweet\n🔖 Bookmark\n\nFollow @sonalshukla3377 for more such posts",
+    "author": {
+     "id": "1921241611402416128",
+     "name": "Sonal Shukla",
+     "screenName": "sonalshukla3377",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1997219049709936640/AcdEn9Yp_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 211,
+     "retweets": 33,
+     "replies": 16,
+     "quotes": 0,
+     "views": 7597,
+     "bookmarks": 135
+    },
+    "createdAt": "Fri Feb 13 02:18:15 +0000 2026",
+    "createdAtLocal": "2026-02-13 07:48",
+    "createdAtISO": "2026-02-13T02:18:15+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HBAPapoa0AA6CBX.jpg",
+      "width": 1639,
+      "height": 2048
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/sonalshukla3377/status/2022133186793550132"
+   },
+   {
+    "id": "2083085306279133288",
+    "text": "Codex Tip! Especially for fresh graduates and working professionals: use ChatGPT or Codex to review your CV.\n\nTry this prompt:\n\nYou're an HR recruiter hiring for the **[position]** role. Review my CV and explain what’s weak, why it matters, and how it could affect my chances of getting an interview.\n\nScore it from 0–100 across content, impact, ATS readability, and overall fit.\n\nAfter the evaluation, provide prioritized recommendations, including examples of how to improve it.",
+    "author": {
+     "id": "448837297",
+     "name": "λL-D1 | AI for Buzzer 🍉",
+     "screenName": "naufaldi",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2096620354483748864/tZ7-Dmj2_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 133,
+     "retweets": 15,
+     "replies": 3,
+     "quotes": 1,
+     "views": 52839,
+     "bookmarks": 144
+    },
+    "createdAt": "Fri Jul 31 07:00:13 +0000 2026",
+    "createdAtLocal": "2026-07-31 12:30",
+    "createdAtISO": "2026-07-31T07:00:13+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HOibC5CbMAAHdok.jpg",
+      "width": 3248,
+      "height": 2000
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/naufaldi/status/2083085306279133288"
+   },
+   {
+    "id": "1918632472083890303",
+    "text": "Meet Aishwarya, one of our talented interns, who built a multi-agent AI system that automates résumé screening 💻\n\nShe created a solution using our @Fetch_ai infrastructure to make hiring faster, fairer, and more accurate.\n\nIt's an AI-driven platform that parses and evaluates résumés using NLP + semantic embeddings, matches skills and context to job descriptions, provides explainable results with 92% accuracy and reduces screening time by 60%!\n\nThat's right - a fully automated, modular pipeline, from upload to feedback, with built-in checks for grammar, ATS compatibility, impact, and more.\n\nThis is just one of many examples how real-world problems in hiring can be solved with a smart AI system. Stay tuned for the next building project 👋\n\n@sana_sheikh81",
+    "author": {
+     "id": "1884615009072009216",
+     "name": "Fetch.ai Innovation Lab",
+     "screenName": "fetch_ai_IL",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1884618694468509697/j3Umwinm_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 114,
+     "retweets": 22,
+     "replies": 0,
+     "quotes": 0,
+     "views": 2468,
+     "bookmarks": 3
+    },
+    "createdAt": "Sat May 03 11:43:22 +0000 2025",
+    "createdAtLocal": "2025-05-03 17:13",
+    "createdAtISO": "2025-05-03T11:43:22+00:00",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/1918625682927599618/vid/avc1/1660x1080/9ppefOj6fel-hM68.mp4?tag=16",
+      "width": 2940,
+      "height": 1912
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/fetch_ai_IL/status/1918632472083890303"
+   },
+   {
+    "id": "2049426050028044444",
+    "text": "SOMEONE JUST BUILT AN OPEN SOURCE AI SYSTEM THAT AUTO-APPLIED TO 700 JOBS AND ACTUALLY GOT RESULTS.\n\nNot a concept. Not a demo. A fully working pipeline anyone can run.\n\nHere is what it does:\n\nScans thousands of job listings automatically across dozens of companies.\n\nReads each listing and tailors your resume to match the exact language and requirements.\n\nGenerates ATS-optimized PDFs so your application clears the algorithm before a human ever sees it.\n\nSubmits the applications automatically without you touching anything.\n\n700 applications in the time it would take a human to manually apply to 10.\n\nThink about what this actually means.\n\nThe job market was already brutal before AI.\n\nHundreds of applicants per role. ATS systems rejecting 75% before a recruiter reads a single name.\n\nThis system does not just apply faster.\n\nIt applies SMARTER.\n\nEvery resume tailored. Every keyword matched. Every application formatted to survive the filter.\n\nThe people running this while their competitors are manually updating their LinkedIn are operating in a completely different category.\n\nOpen source. Free to run. Available right now.\n\nBookmark this before your next job search.\n\nFollow @cyrilXBT for more open source builds that change the game the moment they drop.",
+    "author": {
+     "id": "1373665408193036293",
+     "name": "CyrilXBT",
+     "screenName": "cyrilXBT",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2035229727414534145/aWap3Jbq_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 86,
+     "retweets": 8,
+     "replies": 18,
+     "quotes": 0,
+     "views": 7964,
+     "bookmarks": 96
+    },
+    "createdAt": "Wed Apr 29 09:50:21 +0000 2026",
+    "createdAtLocal": "2026-04-29 15:20",
+    "createdAtISO": "2026-04-29T09:50:21+00:00",
+    "media": [
+     {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2049425997288935425/vid/avc1/1108x720/4vNSGR2Uq8Mbxlcm.mp4?tag=14",
+      "width": 1664,
+      "height": 1080
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/cyrilXBT/status/2049426050028044444"
+   }
+  ]
+ },
+ "d2": {
+  "ok": true,
+  "account": "main",
+  "query": "(resume OR CV) (recruiter OR \"hiring manager\") (\"6 seconds\" OR \"seven seconds\" OR \"skim\" OR \"rejected\") lang:en min_faves:200",
+  "product": "Top",
+  "count": 20,
+  "tweets": [
+   {
+    "id": "2113744776075903461",
+    "text": "Prompt of the day:\n\n\"I'm going to paste my resume.\n\nAct as the hiring manager who rejects 200 resumes a week.\n\nTell me:\n• The 3 reasons you'd reject me in 6 seconds\n• Every line that sounds impressive but means nothing\n• What's missing that would get me an interview\n• How to rewrite my top 3 bullets with real impact and numbers\n\nThen rewrite my resume so it gets past both the recruiter and the ATS.\n\nBe harsh. I'd rather hear it from you than from silence.\"\n\nBookmark it and send it to the friend who's applied to 100 jobs with no reply.",
+    "author": {
+     "id": "1042797252765528064",
+     "name": "Suraj Sharma",
+     "screenName": "suraj_sharma14",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2079192339889938432/WEbyDq4I_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 337,
+     "retweets": 21,
+     "replies": 9,
+     "quotes": 1,
+     "views": 19882,
+     "bookmarks": 575
+    },
+    "createdAt": "Fri Oct 23 21:30:00 +0000 2026",
+    "createdAtLocal": "2026-10-24 03:00",
+    "createdAtISO": "2026-10-23T21:30:00+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/suraj_sharma14/status/2113744776075903461"
+   },
+   {
+    "id": "2041782328822001761",
+    "text": "I just found out why most PhD resumes get rejected before a human ever reads them.\n\nA MIT robotics researcher who went through KAIST, did a postdoc at MIT, and just landed at a big tech company figured it out the hard way. Then he put the whole thing on GitHub.\n\nIt's called Awesome-PhD-CV.\n\nHere's the problem nobody tells you:\n\nThe LaTeX tricks that make academic CVs look beautiful custom fonts, multi-column layouts, fancy glyphs silently break ATS parsers at companies like Google, Meta, Amazon, and Apple. Your resume never reaches a recruiter. It gets killed by a machine before anyone sees your name.\n\nHe built three templates to fix this:\n\n→ Jake's Format: Single-page, plain pdfLaTeX, no custom fonts, no multi-column layout. The only format that actually survives big tech ATS systems. The most popular LaTeX resume template on the internet.\n→ Deedy Format: Two-column, high information density for experienced engineers who know the company accepts it\n→ Awesome-CV: Full multi-page academic CV for faculty applications and postdoc positions. Publication lists, research statements, citation counts, GitHub stars, all included.\n\nThe guideline file alone is worth bookmarking. It explains exactly what breaks ATS parsers and why, which most PhD students only find out after they don't hear back.\n\n100% Opensource. Free forever.\n\nLink in comments.",
+    "author": {
+     "id": "1824076867998994432",
+     "name": "Rimsha Bhardwaj",
+     "screenName": "heyrimsha",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2090372940781228032/IEKqCyX3_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 460,
+     "retweets": 63,
+     "replies": 8,
+     "quotes": 1,
+     "views": 50982,
+     "bookmarks": 731
+    },
+    "createdAt": "Wed Apr 08 07:36:56 +0000 2026",
+    "createdAtLocal": "2026-04-08 13:06",
+    "createdAtISO": "2026-04-08T07:36:56+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HFXeNSJbQAAO69a.jpg",
+      "width": 1200,
+      "height": 1402
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/heyrimsha/status/2041782328822001761"
+   },
+   {
+    "id": "2091544419702874349",
+    "text": "Let me tell you why your application was rejected.\n\nI’ve built several HR/recruitment automation systems before, so I can tell you something is wrong with your resume.\n\nThe system may have already filtered you out because of the following reasons \n\n1. You Resume must be ATS Friendly: Make your resume easy for both software AND humans to understand. If you resume isn’t ATS friendly, it won’t even parse at all even if you have the experience needed \n\n2. When a company creates a role, they define requirements around things like:\n\n→ Years of experience\n→ Specific skills\n→ Tools/software\n→ Industry experience\n→ Education/certifications\n→ Location/work authorization\n→ Seniority\n→ Responsibilities\n\nYour application is then evaluated against those requirements.\n\nIf the role requires 5 years of experience and your CV clearly demonstrates only 1–2 years, that is an automatic rejection.\n\n3. Keywords also \n\nIf the job requires:\n\nPython, SQL, AWS, machine learning and data pipelines\n\nand your CV only says\n\nWorked on technology projects and data analysis.\n\nThe system has very little evidence that you actually meet the requirements.\n\nNa Automated rejection be that.\n\nYour CV has one job\n\nMake it extremely easy for the hiring system AND the recruiter to understand why you are relevant to the role \n\nYour CV should be positioned for the role you’re applying for.\n\n you’re applying for an AI Automation role, your CV should make your automation experience obvious.\n\nIf you’re applying for a Digital Marketing role, your marketing achievements should be impossible to miss.\n\nIf you’re applying for a Data Analyst role, your analytical tools, projects and measurable outcomes should be prominent.\n\nEnd .",
+    "author": {
+     "id": "1630551398831071234",
+     "name": "Jokotoye Emmanuel",
+     "screenName": "AutomationKing0",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2034999306428542976/APG2I9Mx_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 812,
+     "retweets": 50,
+     "replies": 9,
+     "quotes": 2,
+     "views": 255999,
+     "bookmarks": 1288
+    },
+    "createdAt": "Sun Aug 23 15:13:43 +0000 2026",
+    "createdAtLocal": "2026-08-23 20:43",
+    "createdAtISO": "2026-08-23T15:13:43+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "2090527898188825002",
+     "text": "applied for a job at 3am last night and got a rejection letter at 8:19 am so i emailed them and asked for a real person to look at it this time around  https://t.co/oUGGhnYlur",
+     "author": {
+      "screenName": "prn63ss",
+      "name": "Goddess 🎀"
+     }
+    },
+    "url": "https://x.com/AutomationKing0/status/2091544419702874349"
+   },
+   {
+    "id": "2089789426998329355",
+    "text": "You can diagnose where your job search is going wrong depending on what level you consistently get rejected at.\n\n- If you're not getting calls, it's a resume problem.\n- If you're not making it past recruiter calls, it's usually you ended up not having the basic requirements or you're a flight risk\n- If it's the technical screen, you're not talking through your answers enough\n- If it's a manager round, you're not answering questions with depth or not a team fit.\n\nNow this specific situation is pretty common these days. Engineers think they should get an offer just because they solved a problem correctly.\n\nBut they're missing the point. \n\nManagers aren't just looking for the answer, they're looking for how you got there.\n\nTalk through your thought process and solutions more and chances are you'll increase your chances of an offer.",
+    "author": {
+     "id": "1487519950994653185",
+     "name": "The Random Recruiter",
+     "screenName": "randomrecruiter",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1904946196386320384/EywOFeWL_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 483,
+     "retweets": 29,
+     "replies": 34,
+     "quotes": 5,
+     "views": 37540,
+     "bookmarks": 513
+    },
+    "createdAt": "Tue Aug 18 19:00:00 +0000 2026",
+    "createdAtLocal": "2026-08-19 00:30",
+    "createdAtISO": "2026-08-18T19:00:00+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HP_r73fXUAAVI1r.jpg",
+      "width": 1540,
+      "height": 853
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/randomrecruiter/status/2089789426998329355"
+   },
+   {
+    "id": "1953526519726542973",
+    "text": "You Have 7.4 Seconds to Make an Impression\n\n🆘 Recruiters spend an average of just 7.4 seconds on your resume before deciding whether it’s worth their time.*\n\nThat’s not a typo. SEVEN. POINT. FOUR.\n\nThat means you need a resume that works.\n\nHere’s how recruiters actually review your CV:\n\n✅ Skim (1-3 seconds): Does the layout look clean? Is your role/title a match? This is a first-glance test. Fail it, and it’s game over.\n\n✅ Scan (3-15 seconds): They're now hunting for keywords, relevant skills, and clear accomplishments.\n\n✅ Study (15-60 seconds): Only the top 10-20% make it here. These resumes feel tailored to the role and show clear, measurable impact.\n\n🚀 Want to move your resume from “skimmed” to “studied”?\n\nThat’s exactly what https://t.co/CsFi2DPwWf is built for.\n\n📌📌 With AI-powered resume building and hundreds of recruiter-approved templates, Kickresume helps you:\n\n✅ Tailor your resume to any job in minutes\n✅ Eliminate formatting struggles\n✅ Show your best self with impact-focused bullet points\n✅ Learn from real resume samples that actually got people hired\n\nApplying to your first job or your fifth promotion, Kickresume turns your experience into a compelling story that gets attention.\n\n👉 Try it now. No guesswork, no fluff. Just results.\n\nSign up here https://t.co/xRcvufjo3i\n\n🔄 Repost & tag a friend who's job hunting or prepping for their next big opportunity.",
+    "author": {
+     "id": "1017335970",
+     "name": "Omoalhaja",
+     "screenName": "omoalhajaabiola",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2090423584829198336/Gq0xCX2P_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 199,
+     "retweets": 42,
+     "replies": 6,
+     "quotes": 0,
+     "views": 22194,
+     "bookmarks": 404
+    },
+    "createdAt": "Thu Aug 07 18:39:51 +0000 2025",
+    "createdAtLocal": "2025-08-08 00:09",
+    "createdAtISO": "2025-08-07T18:39:51+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/omoalhajaabiola/status/1953526519726542973"
+   },
+   {
+    "id": "2117491553069588858",
+    "text": "Rejected in 60 seconds? Your resume might be the reason. 👀\n\nYou could have the right skills and experience but still get filtered out before a recruiter sees your application.\n\nHere’s how to check your resume and fix what's holding you back. https://t.co/VlEKf4Wzjj",
+    "author": {
+     "id": "2910033014",
+     "name": "Katherine",
+     "screenName": "supressedvoic",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2082712625163669505/yFMXT8ei_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 172,
+     "retweets": 97,
+     "replies": 14,
+     "quotes": 0,
+     "views": 74515,
+     "bookmarks": 15
+    },
+    "createdAt": "Tue Nov 03 05:38:21 +0000 2026",
+    "createdAtLocal": "2026-11-03 11:08",
+    "createdAtISO": "2026-11-03T05:38:21+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWLWp0-a8AAXM1w.jpg",
+      "width": 1536,
+      "height": 1024
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/supressedvoic/status/2117491553069588858"
+   },
+   {
+    "id": "2066583085546885264",
+    "text": "Stop Missing Out on Over $30 to $70 Per Hour Jobs Just Because You Don’t Have Anyone Abroad to Create Outlier Or Handshake accounts for You\n\nI see so many people on this timeline complaining  because platforms like Outlier, Handshakes or DataAnnotation won't let them register directly from Nigeria or other African countries. They get stuck thinking, so the AI money isn't for me… well, you have to stop sitting on your hands and letting that be your excuse.\n\nWhile you are busy obsessing over those specific platforms and giving up, you are completely missing the fact that there are hidden ones that accept us directly…no VPN, no proxies, no need for family in abroad whether US UK or Canada…and they pay just as heavy.\nIf you are ready to stop watching people cash out and actually want to start making some serious dollar payouts every single week from home, you need to look at Mindrift AI.\n\nAnd you don’t even need to have any skill if you are not a techy, just simple AI training tasks like evaluating responses, improving content, and comparing outputs to teach the AI what a good answer looks like\n\nThe best part? This is a highly flexible option for students, freelancers, stay-at-home moms, or anyone looking to build a heavy side hustle. You don’t have to work full time; you can log in for just 2 to 3 hours a day depending on how much money you want to make. Depending on your skills and the project, you can earn anywhere up to $100 per hour for top-tier specialized intelligence.\n\nHere is a Step-by-step Guide:👇👇\n\n1️⃣ The Project Scout: Head over to your browser, search for Mindrift AI, and open the site. Now, instead of just  clicking \"Apply Now\" button at the top, scroll down to the Active Projects section. These high-priority projects change constantly based on client demands, so you need to look at what is actively recruiting right now so your application doesn't go for nothing. If you have a STEM or technical background (Math, Physics, Python), target the Quality Assurance (QA) positions for premium rates upto $80/hr. If you want something beginner-friendly, look for AI Agent Evaluation Analyst or English Writer / Freelance AI Trainer.\n\n2️⃣ The Application: Before you Click apply on your chosen role (let’s say the English Writer gig as an example) hot to view the project overview. \n\nCRUCIAL CV HACK: Before you drag and drop your file, copy the exact job description from Mindrift, take it over to ChatGPT or Grok, and have the AI analyze it. Use the AI to optimize your resume keywords so it perfectly matches what Mindrift is looking for in that job. A messy, generic CV will get you rejected.\n\nMost of these opportunities are project-based and part-time, meaning a contract might run anywhere from 2 weeks to a full year depending on the project scope. Drag and drop a cleanly punctuated, professional resume tailored for data annotation.\n\n3️⃣ Smash the Brand New AI Interview:\nAbout 3 to 4 days after completing your application, you will receive an email update. An AI Recruitment Interview hosted on platforms like Braintrust or Micro One before you even get the main test.  Don’t panic! Check the comment, I have a guide to help you prepare well for the interview \n\nWhen doing this interview with the AI recruiter avatar, keep your conversation smooth, direct, and short. Do not ramble about unnecessary details, because the AI is literally programmed to pick your spoken words and generate deeper follow up questions based on what you say. Keep it brief to keep it simple.\n\n4️⃣ The Gatekeeper Assessment: Once you sail through the conversational AI interview, you will unlock a role-specific test on your dashboard. For writers, you'll be given a few specific prompts to craft original, logical, and fact-checked responses based on strict style guidelines. Complete that, pass a simple quiz on how the platform operates, and you will receive an official invite to their exclusive Discord community where daily workflows are coordinated.\n\nMore👇👇👇👇",
+    "author": {
+     "id": "1219134761979056128",
+     "name": "Mr Affordable",
+     "screenName": "Mutesky01",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2104444675054571520/4lj2TOBn_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 368,
+     "retweets": 70,
+     "replies": 33,
+     "quotes": 3,
+     "views": 32514,
+     "bookmarks": 1031
+    },
+    "createdAt": "Mon Jun 15 18:06:17 +0000 2026",
+    "createdAtLocal": "2026-06-15 23:36",
+    "createdAtISO": "2026-06-15T18:06:17+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/Mutesky01/status/2066583085546885264"
+   },
+   {
+    "id": "1998739479440601491",
+    "text": "I've reviewed 1,000+ resumes as a hiring manager\n\nMost get rejected in 6 seconds\n\nHere's what separates the ones that land interviews:\n\n𝟭. 𝗢𝗻𝗲 𝗽𝗮𝗴𝗲. 𝗣𝗲𝗿𝗶𝗼𝗱.\n\nIf you can't distill 10 years into one page, you don't understand what matters. Senior roles included.\n\n𝟮. 𝗟𝗲𝗮𝗱 𝘄𝗶𝘁𝗵 𝗶𝗺𝗽𝗮𝗰𝘁, 𝗻𝗼𝘁 𝗿𝗲𝘀𝗽𝗼𝗻𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀\n\n❌ Bad: \"Responsible for maintaining authentication service.\"\n✅ Good: \"Cut login failures by 40% by rebuilding authentication with Redis caching.\"\n\nMetrics tell me you understand business outcomes.\n\n𝟯. 𝗦𝘁𝗿𝗼𝗻𝗴 𝘃𝗲𝗿𝗯𝘀 𝗮𝘁 𝘁𝗵𝗲 𝘀𝘁𝗮𝗿𝘁 𝗼𝗳 𝗲𝘃𝗲𝗿𝘆 𝗹𝗶𝗻𝗲\n\nRecruiters scan in an F-pattern. They read the first 2-3 words per bullet.\n\n✅ Use: Built, Led, Reduced, Scaled, Architected\n❌ Avoid: Assisted, Helped, Worked on\n\n𝟰. 𝗞𝗶𝗹𝗹 𝘁𝗵𝗲 𝗯𝘂𝘇𝘇𝘄𝗼𝗿𝗱𝘀\n\n\"Visionary leader driving transformational initiatives with cutting-edge AI solutions\" = noise.\n\nJust say what you did and what changed.\n\n𝟱. 𝗧𝗼𝗽 𝟭/𝟯 𝗴𝗲𝘁𝘀 𝟴𝟬% 𝗼𝗳 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻\n\nPolish your first section obsessively. That's where hiring decisions happen.\n\n𝟲. 𝗧𝗮𝗶𝗹𝗼𝗿 𝗳𝗼𝗿 𝗲𝗮𝗰𝗵 𝗿𝗼𝗹𝗲\n\nOne resume for all jobs = one resume that fits none. Match your bullets to the job description.\n\n𝟳. 𝗡𝗼 𝘀𝗽𝗲𝗹𝗹𝗶𝗻𝗴 𝗲𝗿𝗿𝗼𝗿𝘀\n\nIf you can't proofread when it matters most, I won't trust you with production code.\n\n___\n\n👉 Want the template I give to my coaching clients? Grab it in my Premium Resume Package: https://t.co/i3iHyJas90",
+    "author": {
+     "id": "164725021",
+     "name": "Dr Milan Milanović",
+     "screenName": "milan_milanovic",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1996226159961391104/j1dbBYQe_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 279,
+     "retweets": 52,
+     "replies": 10,
+     "quotes": 0,
+     "views": 27417,
+     "bookmarks": 529
+    },
+    "createdAt": "Wed Dec 10 13:00:01 +0000 2025",
+    "createdAtLocal": "2025-12-10 18:30",
+    "createdAtISO": "2025-12-10T13:00:01+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/G7pQFw1WgAASh5U.png",
+      "width": 1654,
+      "height": 2338
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/milan_milanovic/status/1998739479440601491"
+   },
+   {
+    "id": "2089989455926996997",
+    "text": "Your CV has a red flag you don’t know about.\n\nSomething a recruiter notices in the first 10 seconds and quietly holds against you, without ever telling you why.\n\nOnly 5.5% of rejected candidates get feedback that’s actually useful. You almost never find out what worked against you.\n\nUpload your CV to CLAUDE and run this to find it before they do:",
+    "author": {
+     "id": "1887211124195549184",
+     "name": "HALO | CAREER SPECIALIST",
+     "screenName": "Halosznn_",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1942198863562977280/iLMUwb5n_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 325,
+     "retweets": 40,
+     "replies": 17,
+     "quotes": 2,
+     "views": 33109,
+     "bookmarks": 781
+    },
+    "createdAt": "Wed Aug 19 08:14:51 +0000 2026",
+    "createdAtLocal": "2026-08-19 13:44",
+    "createdAtISO": "2026-08-19T08:14:51+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/Halosznn_/status/2089989455926996997"
+   },
+   {
+    "id": "1769394071976460342",
+    "text": "Here are some of my top resume tips!\n\n✅ If you want to change industries, make sure your resume isn’t industry-specific. Highlight your skills/experience regarding the role, not the industry.\n\n✅ Don't just tell them what you did...tell them how well you did it by qualifying/quantifying how successful your experience is.\n\n✅ If you aren’t getting interviews, it doesn’t mean you don’t have value...it just means the reader doesn’t see it on the resume. You don’t have to change; the presentation does.\n\n✅ When you give context, it allows the reader to see your relevance to the job you're applying to. Companies want value, not keywords.\n\n✅ It’s hard to write objectively about yourself/your value. Ignore the need to be humble. You’ll realize you have more to offer than you thought.\n\n✅ Resumes aren't for you to say, \"Here is my experience.\" Resumes are for you to say, \"See, I have the experience you are looking for.\" Focus on the experience relevant to the role you want, not the role you have.\n\n✅ If you're being rejected for jobs you know you're qualified for, remember: There's a huge difference between \"being qualified\" and \"someone seeing that you're qualified.\"\n\n✅ “Resumes should be one page” - Generalized advice without nuance. Focus on relevant content, not page length. If you’re capping it at 1 page, you’re probably leaving info off that the recruiter is looking for.\n\n✅ When a company posts a job, think of it as a pain point…that’s a problem that the company needs solved. Your resume is a marketing document. Present yourself as the solution to that pain point.\n\n✅ If you want a remote job and have remote experience, make sure you talk about it on the resume. Some companies don’t want to deal with the learning curve, so showing how you’ve successfully worked remotely is key.\n\n✅ Most resumes I review fall short in 1 of 2 ways. They’re either *only* duty-based or accomplishment-based. Balance the 2 approaches so that the reader understands not just what you do (your relevance) but how successfully you’ve done it (your impact).\n\n✅ What’s most “eye-catching” for recruiters on a resume is relevance, not design. You want your resume to be quickly and easily understood, and it’s easier to see your relevance when the resume isn’t cluttered with graphics, columns, or pictures.\n\nGood luck!",
+    "author": {
+     "id": "433350023",
+     "name": "Adam Karpiak",
+     "screenName": "Adam_Karpiak",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1323104104294526977/kiYVzaAR_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 231,
+     "retweets": 48,
+     "replies": 14,
+     "quotes": 7,
+     "views": 61504,
+     "bookmarks": 350
+    },
+    "createdAt": "Sun Mar 17 16:03:15 +0000 2024",
+    "createdAtLocal": "2024-03-17 21:33",
+    "createdAtISO": "2024-03-17T16:03:15+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/Adam_Karpiak/status/1769394071976460342"
+   },
+   {
+    "id": "2029612954161705453",
+    "text": "Recruiter friend just showed me her ATS dashboard from this week\n\n3,847 applications for a single \"Senior Full Stack\" role at a Series B fintech\n\nTheir AI screening tool auto-rejected 3,652 of them in under 6 minutes\n\nRejection reasons: \"insufficient AI/ML keywords\", \"gap in employment history\", \"education mismatch\", \"overqualified\"\n\nThe 195 that made it past the bot went to a human who spent 90 seconds each and cut it to 12\n\nOf those 12, half had their references called before the first interview\n\nThe role pays $140K for what used to be a $200K position and requires \"hands-on experience with LLM integration and prompt optimization\"\n\nSame recruiter told me she's seen 847 applications per opening become normal. Used to be 60-80 pre-2023\n\nMeanwhile the hiring managers are asking for \"AI-native engineers who can ship with 70% less headcount\"\n\nHer placement rate dropped from 23% in 2022 to 4% this quarter\n\nThe most brutal part: she's seeing 15-year veterans with stellar track records getting auto-rejected because they don't have \"Claude API integration\" on their resume\n\nThree different companies told her they'd rather leave roles open for 8 months than hire someone who needs more than 2 weeks of ramp time",
+    "author": {
+     "id": "2027429188400254976",
+     "name": "Kalshi Finance",
+     "screenName": "Kalshi_Finance",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/2053160231014727685/zepWrs-g_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 777,
+     "retweets": 87,
+     "replies": 40,
+     "quotes": 13,
+     "views": 67998,
+     "bookmarks": 357
+    },
+    "createdAt": "Thu Mar 05 17:40:11 +0000 2026",
+    "createdAtLocal": "2026-03-05 23:10",
+    "createdAtISO": "2026-03-05T17:40:11+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/Kalshi_Finance/status/2029612954161705453"
+   },
+   {
+    "id": "1837848573980881260",
+    "text": "Hawk Tua girl went viral when she quoted on her stance regarding resume formats.\n\n“Do not use a fancy resume template with tables, charts, graphs, or columns. They’re hard for the recruiter and HMs to quickly skim & may not parse through an ATS correctly. Just stick to a basic, boring format so it makes it easy for the reader to understand your skills and experience.”\n\nI happen to agree.",
+    "author": {
+     "id": "1487519950994653185",
+     "name": "The Random Recruiter",
+     "screenName": "randomrecruiter",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1904946196386320384/EywOFeWL_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 250,
+     "retweets": 12,
+     "replies": 29,
+     "quotes": 3,
+     "views": 25968,
+     "bookmarks": 39
+    },
+    "createdAt": "Sun Sep 22 13:37:00 +0000 2024",
+    "createdAtLocal": "2024-09-22 19:07",
+    "createdAtISO": "2024-09-22T13:37:00+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GYFZiWmXAAAV79x.jpg",
+      "width": 557,
+      "height": 540
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GYFZiWqXgAEteeA.jpg",
+      "width": 1186,
+      "height": 1538
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/randomrecruiter/status/1837848573980881260"
+   },
+   {
+    "id": "1950178608389009861",
+    "text": "There’s a massive disconnect between job seekers and hiring teams right now.\n\nAnd this post is the perfect example of why.\n\nEvery week I get messages like this:\n\n“I don’t specifically have experience with X, but I’ve done Y and Z. Why am I being rejected?”\n\nLet me break it down for you.\n\nThis isn’t 2020–2022. This isn’t even the 2010s.\n\nWe’re in the hardest tech job market in over a decade.\n\nBack then, if you had something “close enough” to the job description, you got a shot. Companies were desperate. Headcount was flowing. Close enough was good enough.\n\nToday? Not even close.\n\nHiring has slowed. Budgets are tight. Headcount is capped.\n\nSo when a hiring manager asks for React, they don’t want:\n• “React adjacent”\n• “Can pick it up quickly”\n\nThey want React. On your resume. In your current and/or past roles. Period.\n\nAs an agency recruiter, if I submit 3 strong candidates without React, that manager’s not impressed. He’s wondering why I can’t follow instructions and probably ripping up our contract. If I was inhouse, he’d CC my boss and ask wtf I’m doing.\n\nIt’s not about what you could do. It’s about what you’ve already done.\n\nThat’s the game right now.\n\nAnd look, I get it. It feels unfair. It feels narrow minded. But here’s what job seekers don’t always see:\n\n1. Hiring managers are stretched thin. \n\nThey’ve been laid off too. The ones still standing are doing the work of two people. They don’t have time to “take a chance” or “imagine the ramp up.”\n\n2. There’s more talent available now than ever. \n\nGood candidates. Great resumes. With the exact match already baked in. Why would they pick the wildcard?\n\n3. They’re scared of making a bad hire. \n\nIf they get it wrong, they might not get a backfill. They’re not just wasting time. They’re burning one of the few seats they still have.\n\nThis isn’t to discourage you. It’s to prepare you.\n\nBecause in this market, close enough isn’t cutting it anymore.",
+    "author": {
+     "id": "1487519950994653185",
+     "name": "The Random Recruiter",
+     "screenName": "randomrecruiter",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1904946196386320384/EywOFeWL_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 488,
+     "retweets": 31,
+     "replies": 80,
+     "quotes": 11,
+     "views": 51024,
+     "bookmarks": 201
+    },
+    "createdAt": "Tue Jul 29 12:56:27 +0000 2025",
+    "createdAtLocal": "2025-07-29 18:26",
+    "createdAtISO": "2025-07-29T12:56:27+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/GxBtGQmXMAAVWiK.jpg",
+      "width": 1152,
+      "height": 2048
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/randomrecruiter/status/1950178608389009861"
+   },
+   {
+    "id": "2026643341446955136",
+    "text": "Most people bomb interviews because they prep for the wrong things.\n\nThey'll skim generic listicles from 2019, practice \"tell me about yourself\" in the shower, then wonder why they can't make it past the first round.\n\nHere's how to fix that with AI:\n\n1: FEED IT THE JOB DESCRIPTION\n\nCopy the entire JD into your favorite LLM and ask something like:\n\n\"Based on this job description, give me 15-20 questions a hiring manager would likely ask. Include technical, behavioral, scenario based, and functional questions.\"\n\nYou'll get a tailored question set built from the actual language and priorities of that role. \n\n2: GO DEEP BY CATEGORY\n\nDon't stop at one pass, keep digging deeper:\n• Technical: Ask for 10 questions on each specific skill mentioned \n• Behavioral: Request STAR format prompts for leadership, conflict, failure \n• Scenario based: Get \"what would you do if\" questions for that exact role \n• Domain/industry: Test real expertise, not surface knowledge\n\nTakes 15 minutes. You'll have 50-80 targeted questions. \n\n3: RUN IT ON YOUR RESUME\n\nHiring managers read your resume before the interview. They spot gaps, transitions, mismatches.\n\nUpload your resume and ask:\n\n\"Generate 15-20 questions a hiring manager would ask me. Focus on career transitions, gaps, achievements, and misalignments with typical roles in [industry].\"\n\nThen go harder:\n\n\"What are the weakest parts of this resume for a [role] position? Where would a skeptical hiring manager push back?\"\n\nPrepare for questions you're afraid of, not just the ones you want.\n\n4: SIMULATE THE CONVERSATION\n\nAsk the AI to run a mock interview. Give it the JD and your resume. Tell it to be tough and to follow up on vague answers.\n\nAI won't coddle you like your friend. It'll tell you when your answer missed the point and make you try again.\n\nAsk it to rate your answers 1-10 and explain what was missing. 30 minutes of this beats 95% of candidates.\n\nThis is literally what I have my candidates do in IRL. It's worked out pretty well the past couple of years. \n\nYou have a tool that simulates the hiring manager's brain, generates custom questions, stress tests your resume, and runs mock interviews on demand.",
+    "author": {
+     "id": "1487519950994653185",
+     "name": "The Random Recruiter",
+     "screenName": "randomrecruiter",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1904946196386320384/EywOFeWL_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 269,
+     "retweets": 20,
+     "replies": 9,
+     "quotes": 3,
+     "views": 24880,
+     "bookmarks": 508
+    },
+    "createdAt": "Wed Feb 25 13:00:00 +0000 2026",
+    "createdAtLocal": "2026-02-25 18:30",
+    "createdAtISO": "2026-02-25T13:00:00+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HCAI7XcXYAIkiyb.jpg",
+      "width": 225,
+      "height": 225
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/randomrecruiter/status/2026643341446955136"
+   },
+   {
+    "id": "1940360383136682480",
+    "text": "When I worked for an HR agency, I’d call people whose CVs needed work and fix them together over the phone. If I couldn’t reach someone, I’d keep calling for three days straight until I got hold of them. Some even cried out of gratitude. It doesn’t cost anything to not be a poes.",
+    "author": {
+     "id": "3359399662",
+     "name": "S U N R I S E ✨",
+     "screenName": "sheabutterhun",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1836265453922209792/goU41XXO_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 34018,
+     "retweets": 5329,
+     "replies": 219,
+     "quotes": 131,
+     "views": 1297218,
+     "bookmarks": 1524
+    },
+    "createdAt": "Wed Jul 02 10:42:20 +0000 2025",
+    "createdAtLocal": "2025-07-02 16:12",
+    "createdAtISO": "2025-07-02T10:42:20+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "quotedTweet": {
+     "id": "1940034251602190445",
+     "text": "‘Find attached my CV’\nYall will still remain unemployed nina",
+     "author": {
+      "screenName": "Inkosana_",
+      "name": "Inkosana ka baba"
+     }
+    },
+    "url": "https://x.com/sheabutterhun/status/1940360383136682480"
+   },
+   {
+    "id": "1940658609689711033",
+    "text": "I forgot to mention that there was another person I couldn’t get a hold of over the phone, so I searched for them on Facebook. 😂",
+    "author": {
+     "id": "3359399662",
+     "name": "S U N R I S E ✨",
+     "screenName": "sheabutterhun",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1836265453922209792/goU41XXO_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 1818,
+     "retweets": 64,
+     "replies": 33,
+     "quotes": 3,
+     "views": 57660,
+     "bookmarks": 23
+    },
+    "createdAt": "Thu Jul 03 06:27:22 +0000 2025",
+    "createdAtLocal": "2025-07-03 11:57",
+    "createdAtISO": "2025-07-03T06:27:22+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/sheabutterhun/status/1940658609689711033"
+   },
+   {
+    "id": "1940991442866130965",
+    "text": "👇🏾Here’s an important piece of advice for you: \n\nMany companies and recruitment agencies use Applicant Tracking Systems (ATS) to screen CVs before a human recruiter ever sees them. These systems automatically filter out CVs that don’t meet certain criteria, so it’s important to ensure your CV is ATS-friendly. Use keywords from the Job Description and tailor your CV for every application. Carefully read the job ad and include specific keywords and phrases it mentions. Keep the layout simple and clean. Avoid templates with columns, images, graphics, or text boxes, ATS systems can struggle to read these. Stick to a traditional format. CVs that use overly designed templates, scanned images, or non-standard file types are often rejected or misread by ATS systems. So again, keep it clean and simple. Submitting an ATS-optimized CV greatly increases the chances of it being picked and shortlisted for an interview. Good luck.",
+    "author": {
+     "id": "3359399662",
+     "name": "S U N R I S E ✨",
+     "screenName": "sheabutterhun",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1836265453922209792/goU41XXO_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 431,
+     "retweets": 83,
+     "replies": 6,
+     "quotes": 2,
+     "views": 30936,
+     "bookmarks": 710
+    },
+    "createdAt": "Fri Jul 04 04:29:56 +0000 2025",
+    "createdAtLocal": "2025-07-04 09:59",
+    "createdAtISO": "2025-07-04T04:29:56+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/sheabutterhun/status/1940991442866130965"
+   },
+   {
+    "id": "2005897351316033557",
+    "text": "Things to Remove from your CV in 2026\n\n1. Career Objective: Avoid starting your CV with a generic career objective that focuses on what you seek rather than highlighting your value to the role. You can include an objective if you are doing a career pivot or if you are a fresh graduate.\n\n2. Personal Information: Omit details like home address, ID number, dependents, health info, date of birth, marital status, and religion. Adding this information on a CV may pose a concern for discrimination during the recruitment process.\n\n3. Photo: Unless appearance is crucial for the job like the hospitality industry, exclude photos to prevent bias and keep the focus on your skills and experience. Some countries may require photos so you need to also do your research.\n\n4. Additional Documents: Don't combine certificates, ID copies, etc., with your CV. Keep your CV as a standalone file. Combining the documents may disadvantage you especially in this era of using bots during initial screening.\n\n5. Buzzwords: Steer clear of overused terms like \"hard-working\" and \"motivated\" to avoid blending in with other candidates. Instead include action verbs that tallies with the impact you want to bring out on your CV.\n\n6. Graphics: This may make your CV clumsy or too beautiful but lacking proper value based content. Also some ATS systems may struggle with graphics, so skip logos, charts, and tables that could hinder initial scanning.\n\n7. Unnecessary Fluff: Remove cover pages, titles like \"Curriculum Vitae of...\", and anything that doesn't contribute to a concise, impactful CV. Remember a Recruiter has 6 six to skim through your CV in order to make a decision so you need to make it short and straight to the point.\n\n8. Long Paragraphs: Break information into bullet points for readability. Keep introductory summaries and responsibilities brief. Also, don’t make the bullets too long.\n\n9. Life Story: Your CV isn't a Wikipedia page. Focus on a clear structure and a succinct Unique Value Proposition, resembling a website's landing page.\n\n10. Work Email Address: Using your current employer's email is unprofessional. Opt for a personal email to maintain a polished image.\n\nNeed help ? Email to cv@oyk.co.ke with subject ‘ Revamp’ to get a job winning CV .",
+    "author": {
+     "id": "362373842",
+     "name": "Simons",
+     "screenName": "Simon_Ingari",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1714886337910931456/Ve2fBb_s_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 263,
+     "retweets": 57,
+     "replies": 3,
+     "quotes": 1,
+     "views": 36310,
+     "bookmarks": 303
+    },
+    "createdAt": "Tue Dec 30 07:02:50 +0000 2025",
+    "createdAtLocal": "2025-12-30 12:32",
+    "createdAtISO": "2025-12-30T07:02:50+00:00",
+    "media": [],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/Simon_Ingari/status/2005897351316033557"
+   },
+   {
+    "id": "2044445649182060902",
+    "text": "Meet Jessica, Sr. Technical Recruiter at AWS, who rejected your resume because you didn't have the optimized amount of buzzwords https://t.co/zoflZl13xg",
+    "author": {
+     "id": "1487519950994653185",
+     "name": "The Random Recruiter",
+     "screenName": "randomrecruiter",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1904946196386320384/EywOFeWL_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 1069,
+     "retweets": 32,
+     "replies": 14,
+     "quotes": 5,
+     "views": 28754,
+     "bookmarks": 38
+    },
+    "createdAt": "Wed Apr 15 16:00:01 +0000 2026",
+    "createdAtLocal": "2026-04-15 21:30",
+    "createdAtISO": "2026-04-15T16:00:01+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HF8Rmr-WQAA0G8W.jpg",
+      "width": 1236,
+      "height": 817
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/randomrecruiter/status/2044445649182060902"
+   },
+   {
+    "id": "2041839172428681694",
+    "text": "🚀 IS YOUR CV SILENTLY REJECTING YOU BEFORE A RECRUITER EVEN SEES IT?\n\nHere’s a hard truth many job seekers don’t realize…\n\nMost CVs never reach the recruiter’s desk.\n\nWhy? \n\nBecause before a human even reads your CV, it first passes through an Applicant Tracking System (ATS), the software companies use to filter thousands of applications.\n\nIf your CV is not ATS-friendly, it gets automatically rejected, no matter how qualified you are.\n\nThat means:\n❌ Your CV lacks the right keywords for the job\n❌ Your format is not recruiter-friendly\n❌ Your achievements are not properly positioned\n❌ Your application is filtered out instantly\n\nAnd just like that… your opportunity is gone.\n\nBut the good news?\n\nThis is exactly what we fix.\n\nAt MedicalNigeria, we specialize in transforming ordinary CVs into powerful job-winning documents.\n\nOur Professional Career Writing Services Include:\n\n✅ ATS-Optimized CV/Resume Writing & Revamp\n✅ Highly Converting Cover Letters that get recruiters interested\n✅ Statement of Purpose (SOP) for admissions and scholarships\n✅ Visa Application Letters\n✅ Professional Reference Letters\n✅ LinkedIn Profile Optimization and more.\n\nSince 2017, we have helped hundreds of professionals and graduates stand out and secure opportunities faster.\n\nYour CV should open doors, not quietly close them.\n\nLet us help you present your skills, experience, and achievements in a way recruiters cannot ignore.\n\nGet your CV professionally revamped today!\n\nChat us directly on WhatsApp:\nhttps://t.co/c7BzAyLdMF to get started.\n\nYour dream job might be waiting... but your CV must speak the right language first.",
+    "author": {
+     "id": "1252264586201518083",
+     "name": "Àgbà John Doe",
+     "screenName": "jon_d_doe",
+     "profileImageUrl": "https://pbs.twimg.com/profile_images/1754213935362768896/lQyqvNbm_normal.jpg",
+     "verified": true
+    },
+    "metrics": {
+     "likes": 223,
+     "retweets": 33,
+     "replies": 4,
+     "quotes": 1,
+     "views": 8365,
+     "bookmarks": 16
+    },
+    "createdAt": "Wed Apr 08 11:22:48 +0000 2026",
+    "createdAtLocal": "2026-04-08 16:52",
+    "createdAtISO": "2026-04-08T11:22:48+00:00",
+    "media": [
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HFYR59Da8AQLwrS.jpg",
+      "width": 1080,
+      "height": 1080
+     },
+     {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HFYR5-UW0AAmRds.jpg",
+      "width": 904,
+      "height": 1280
+     }
+    ],
+    "urls": [],
+    "isRetweet": false,
+    "retweetedBy": null,
+    "lang": "en",
+    "score": null,
+    "url": "https://x.com/jon_d_doe/status/2041839172428681694"
+   }
+  ]
+ }
+}
