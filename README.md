@@ -38,6 +38,23 @@ from first principles and primary material:
 | A specific constraint (country, role, gap, career change) | `docs/10-variants.md` |
 | Curiosity about the evidence | `research/` and `docs/12-evidence.md` |
 
+## Tools
+
+Four small programs, no dependencies beyond Python and poppler.
+
+| Tool | What it does |
+|---|---|
+| `tools/parse_check.py` | Shows what a text parser sees in your PDF: text layer, order, contact fields, headings |
+| `tools/ats_sim.py` | Simulates field extraction: roles, dates, summed tenure, degree lines |
+| `tools/resume_lint.py` | Catches weak verbs, buzzwords, passive voice, missing numbers, tense mixing |
+| `tools/lint_docs.py` | Enforces this repo's own style rules on its prose |
+
+```bash
+python3 tools/parse_check.py resume.pdf
+python3 tools/ats_sim.py resume.pdf
+python3 tools/resume_lint.py resume.pdf
+```
+
 ## Repo map
 
 ```

@@ -22,6 +22,21 @@ python3 tools/resume_lint.py my-resume.pdf
 
 Fix every ERROR. Read every WARN. Ignore INFO that does not apply to you.
 
+## 2b. The field test (1 minute)
+
+```bash
+python3 tools/ats_sim.py my-resume.pdf
+```
+
+This shows the fields a parser would produce: name, email, links, sections,
+roles, summed tenure, degree lines. Check three things:
+
+- The tenure number matches reality. If it does not, your dates are being read
+  wrong, and a years-of-experience filter will drop you.
+- Every role was found. A missing role means the date line is not in a shape the
+  parser recognises.
+- The degree lines contain the words a knockout expects.
+
 ## 3. The read aloud test (3 minutes)
 
 Read the whole thing out loud. Every place you stumble is a place a recruiter
