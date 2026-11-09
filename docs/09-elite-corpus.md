@@ -142,6 +142,37 @@ a prompt injection. It is the only document in the sample written for a parser
 first. It is also a reminder that hidden text is now a known technique and
 therefore a known signal.
 
+## What repeats in founder and operator documents
+
+From 13 documents for 13 of 14 named people (V1):
+
+| Pattern | Count |
+|---|---|
+| No skills section | 13 of 13 |
+| No dedicated education section | 13 of 13 |
+| Education appears only as a clause or a final sentence | 4 of 13 |
+| Employment dates given | 1 of 13 |
+| Founder or co-founder language | 7 of 13 |
+| Founder language with stage, headcount, funding or tenure | 0 of 7 |
+| Contact email in the document | 2 of 13 |
+| Under 600 words | 12 of 13 |
+| Median length | 322 words |
+
+**The genre is not a CV.** These documents are one-screen about pages for a
+reader who already knows the name. Chronology is carried by phrases ("Before
+founding", "Before that", "most recently") rather than dates. Overlapping roles
+are stacked as verbs, not drawn as a ladder.
+
+**Failure is published.** One company labels 20 projects "Failed". One founder
+writes "briefly at Yahoo". One operator files a bank job under "honorable
+mentions". This is the opposite of the resume instinct to hide anything that did
+not work, and it is only available to people who are not being compared to a
+stack of applicants.
+
+**The lesson for everyone else:** a founder document works because of the
+audience, not the format. If you send that document to a recruiter, you are
+sending an about page to someone whose job is comparison.
+
 ## The surprising absences
 
 - **No photo** in 13 of 13 academic CVs and, from the broader sample, almost

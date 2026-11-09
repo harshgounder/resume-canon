@@ -476,7 +476,7 @@ excluded from the counts.
 | Founder or co-founder language | 7/13 | Collison, Masad, Lavingia, Zhuo, Cagan, Spool, Fried. Rauch says CEO; Friedman says "started two companies". |
 | Direct email | 2/13 | Collison and Fried. Cagan has an obfuscated address. The rest route to a contact page, X, or LinkedIn. |
 | Any bulleted list | 6/13 | Career achievement bullets: 1/13 (Rauch). The rest are links or personal facts. |
-| Concurrent roles shown without hierarchy | 7/13 | Collison, Rauch, Friedman, Cagan, Spool, Aronowitz, Orosz. |
+| Multiple roles or identities, no hierarchy | 7/13 | Collison, Rauch, Friedman, Cagan, Spool, Aronowitz, Orosz. |
 | Named failure or short stint | 3/13 | Levels (20 failed projects), Masad ("briefly at Yahoo"), Orosz ("honorable mentions"). |
 | Page metaphor, page count, or PDF | 0/13 | All HTML. No "page 1 of 2", no print layout. |
 
