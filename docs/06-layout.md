@@ -180,15 +180,52 @@ invisible table you built to line up dates.
 
 ## Accessibility
 
-- Contrast 4.5:1 normal, 3:1 large.
-- Tagged PDF carries reading order for screen readers. Untagged PDFs read the
-  content stream, which for a two-column page is usually wrong.
+**Format beats design on the measured evidence.** In WebAIM's screen reader
+survey 11 (July to August 2026, n=1,780), 85.6 percent of respondents said PDFs
+are very or somewhat likely to pose accessibility issues, against 31.1 percent
+for Word. PDF trouble rose from 75.1 percent in 2019 while Word stayed flat.
+Advanced screen reader users reported more PDF trouble (86.2 percent) than
+beginners (72.4 percent), so skill does not rescue a bad PDF.
+
+Practical read: if the employer accepts DOCX and accessibility matters, DOCX is
+the better container. If the employer accepts only PDF, the PDF has to be built
+properly.
+
+**Contrast, measured with the WCAG formula:**
+
+| Colour | Ratio on white | Verdict |
+|---|---|---|
+| #777777 | 4.48:1 | fails 4.5:1 |
+| #767676 | 4.54:1 | passes |
+| #999999 | 2.85:1 | fails even the 3:1 large-text floor |
+
+Dates and locations set in light grey are where resumes fail silently. Test in
+greyscale and check the hex.
+
+**Tagging.** Tagged PDF carries reading order for screen readers. Untagged PDFs
+read the content stream, which for a two-column page is usually wrong.
+
 - Word's "Save as PDF" adds tags in Microsoft 365; "Print to PDF" strips them.
-  That one menu item is the most common way a Word user ships an untagged file.
+- LibreOffice exports tagged by default, but leaves the document Title empty and
+  can set content copying to not allowed. Those are cheap PDF/UA failures.
 - LaTeX needs an explicit DocumentMetadata line since the 2025 release.
-- **Tagged is not parseable.** A tagged, accessible PDF can still extract its
-  table cells out of order. Screen readers and text parsers are different
-  consumers, and a resume has to satisfy the dumber one.
+- **Tagged is not parseable.** A tagged, accessible PDF can still extract table
+  cells out of order. Screen readers and text parsers are different consumers,
+  and a resume has to satisfy the dumber one.
+
+**Conformance is not a checkbox.** The Matterhorn Protocol has 31 checkpoints and
+136 failure conditions, 87 software-testable and 47 requiring a human. A checker
+pass is not conformance.
+
+**Dyslexia-friendly, on the evidence:** size 12 to 14pt, line spacing 1.5, 60 to
+70 characters per line, no italics, no all caps (British Dyslexia Association,
+2023). Font choice has weak evidence: a 2020 study with 170 children found no
+letterform benefit, and OpenDyslexic was no better than Arial. WCAG 1.4.12 does
+not apply to PDF, so spacing has to be set at export.
+
+**Headings matter twice.** 67.8 percent of screen reader users navigate by
+headings, and parsers key on the same labels. A clear section heading is an
+accessibility feature and a parse feature at the same time.
 
 ## Print against screen
 

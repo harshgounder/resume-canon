@@ -21,6 +21,7 @@ specific problem.
 | 13 | [Failures](13-failures.md) | The catalogue of ways CVs die | v1 |
 | 14 | [FAQ](14-faq.md) | The questions that keep coming back | v1 |
 | 15 | [Agentic applications](15-agentic-applications.md) | What happens when applying is free | v1 |
+| 16 | [History](16-history.md) | Which conventions are fossils and which carry weight | v1 |
 
 ## Conventions
 
