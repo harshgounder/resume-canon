@@ -18,6 +18,9 @@ jobs:
       - name: House style across all prose
         run: python3 tools/lint_docs.py .
 
+      - name: Internal links resolve
+        run: python3 tools/check_internal_links.py .
+
       - name: Linter catches a bad resume
         run: |
           if python3 tools/resume_lint.py tools/fixtures/bad-resume.md; then
