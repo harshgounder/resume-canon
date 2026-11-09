@@ -130,6 +130,21 @@ Statuses:
 | 79 | Structured interviews probe consistently | Validity 0.42 against 0.19 | V1/V2 | Established |
 | 80 | Functional resumes hide gaps successfully | They remove the dated records filters read | V2 | Unsupported |
 
+## Law and bias
+
+| # | Rule | Evidence | Grade | Status |
+|---|---|---|---|---|
+| 81 | NYC Local Law 144 is meaningfully enforced | Two complaints in two years, one issue in 32 reviews, 75 percent of 311 calls misrouted | V1 | Unsupported |
+| 82 | EU AI Act employment obligations start 2 December 2027 | 2026 Omnibus deferral | V1 | Established |
+| 83 | EU emotion recognition ban applies now | Article 5(1)(f), in force since 2 February 2025 | V1 | Established |
+| 84 | Indian law grants an automated decision right | DPDP Act 2023 sections 11 to 14 grant access, correction, erasure, grievance, nomination only | V1 | Unsupported |
+| 85 | Colorado's AI Act is in force | SB 24-205 repealed; SB 26-189 effective 1 January 2027 | V1 | Established |
+| 86 | Name bias is an industry-wide constant | 2.1 percentage point penalty, significant at 23 of 108 firms, top quintile responsible for half | V1 | Established |
+| 87 | Prestigious schools pass the screen | Null across 2,400 applications in three countries | V1 | Unsupported |
+| 88 | Polish removes the name penalty | No, across 13,162 responses in five countries | V1 | Unsupported |
+| 89 | Refusing salary history is protected where banned | State and city bans | V1 | Established |
+| 90 | Photo, DOB and address are removable where optional | Market convention plus bias evidence | V2 | Convention |
+
 ## How to read this table
 
 If you are writing advice, cite a row. If you are disputing a row, bring a

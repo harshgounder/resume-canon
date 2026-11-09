@@ -38,7 +38,7 @@ That is the economic content of "quantify your impact": a number with a named
 denominator is expensive to fake because a reader can check it, and an
 adjective is cheap talk. Arrow made the same point about education as a filter
 rather than a production function
-([Arrow, Journal of Public Economics 2(3), 1973](https://doi.org/10.1016/0047-2727(73)90013-3)),
+([Arrow, Journal of Public Economics 2(3), 1973](https://doi.org/10.1016/0047-2727%2873%2990013-3)),
 and Stiglitz formalised screening as an equilibrium in which the return to a
 signal is partly a return to being sorted
 ([Stiglitz, American Economic Review 65(3), 1975](https://www.jstor.org/stable/1804834)).
@@ -133,7 +133,7 @@ Burning Glass and Harvard's 2017 report found postings asking for a bachelor's
 degree in occupations where most incumbents did not hold one. In the report's
 example occupation, 67 percent of postings required a bachelor's or higher
 while 16 percent of incumbent workers held one, a 51 point gap
-([Dismissed by Degrees, 2017](https://www.hbs.edu/managing-the-future-of-work/Documents/dismissed-by-degrees.pdf)).
+([Dismissed by Degrees, 2017](https://www.hbs.edu/ris/Publication%20Files/dismissed-by-degrees_707b3f0e-a772-40b7-8f77-aed4a16016cc.pdf)).
 The same report found that in 12 of the 15 occupations with the largest gap, a
 degree requirement added days to filling the role, including 12 extra days for
 first-line supervisors of mechanics, installers, and repairers.
@@ -143,7 +143,7 @@ the share of vacancies requiring a bachelor's rose by more than 10 percentage
 points, and it reversed after 2017. Between 2017 and 2019, employers reduced
 degree requirements for 46 percent of middle-skill occupations and 31 percent
 of high-skill occupations, based on 51 million postings
-([The Emerging Degree Reset, 2022](https://www.hbs.edu/managing-the-future-of-work/Documents/research/emerging_degree_reset_020922.pdf)).
+([The Emerging Degree Reset, 2022](https://static1.squarespace.com/static/6197797102be715f55c0e0a1/t/6202bda7f1ceee7b0e9b7e2f/1644346798760/The+Emerging+Degree+Reset+%2822.02%29Final.pdf)).
 The authors estimated that 1.4 million additional jobs could open to workers
 without degrees over five years.
 
@@ -152,7 +152,7 @@ But the formal reset did not change hiring much. A 2024 follow-up tracked
 produced a 3.5 percent increase in non-degreed workers in those roles, and it
 attributed actual hiring change to 37 percent of the firms that removed the
 requirement
-([Skills-Based Hiring: The Long Road from Pronouncements to Practice, 2024](https://www.aei.org/wp-content/uploads/2024/12/Skills-Based-Hiring-From-Pronouncements-to-Practice-Burning-Glass-Institute-HBS-Project-on-Managing-the-FOW-EMBARGOED-UNTIL-FEB-14-24.02.13.pdf)).
+([Skills-Based Hiring: The Long Road from Pronouncements to Practice, 2024](https://static1.squarespace.com/static/6197797102be715f55c0e0a1/t/65cc355c4935cb001349a4cd/1707881822922/Skills-Based+Hiring+02122024+vF.pdf)).
 
 The lesson for the document is uncomfortable. The requirement on the posting is
 a filter, and removing the words from the posting does not remove the filter
@@ -821,7 +821,7 @@ believing yourself. That is the value.
 Primary and platform data
 
 - Spence, M. (1973). Job Market Signaling. Quarterly Journal of Economics 87(3), 355-374. https://doi.org/10.2307/1882010
-- Arrow, K. (1973). Higher Education as a Filter. Journal of Public Economics 2(3), 193-216. https://doi.org/10.1016/0047-2727(73)90013-3
+- Arrow, K. (1973). Higher Education as a Filter. Journal of Public Economics 2(3), 193-216. https://doi.org/10.1016/0047-2727%2873%2990013-3
 - Stiglitz, J. (1975). The Theory of Screening, Education, and the Distribution of Income. American Economic Review 65(3), 283-300. https://www.jstor.org/stable/1804834
 - Phelps, E. (1972). The Statistical Theory of Racism and Sexism. American Economic Review 62(4), 659-661. https://www.jstor.org/stable/1806107
 - Schmidt, F. and Hunter, J. (1998). The Validity and Utility of Selection Methods in Personnel Psychology. Psychological Bulletin 124(2), 262-274. https://psico.elearning.unipd.it/pluginfile.php/200220/mod_folder/content/0/SchmidtHunter_1998.pdf
@@ -834,9 +834,9 @@ Primary and platform data
 - Jobvite. 2018 Recruiting Benchmark Report. https://www.jobvite.com/wp-content/uploads/2020/08/2018-Recruiting-Benchmark-Report.pdf
 - New York Fed. Do Informal Referrals Lead to Better Matches? Staff Report 568, 2013. https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr568.pdf
 - Ladders. Eye-Tracking Study, 2018. https://www.theladders.com/static/images/basicSite/pdfs/TheLadders-EyeTracking-StudyC2.pdf
-- Burning Glass and Harvard Business School. Dismissed by Degrees, 2017. https://www.hbs.edu/managing-the-future-of-work/Documents/dismissed-by-degrees.pdf
-- Burning Glass Institute and Harvard Business School. The Emerging Degree Reset, 2022. https://www.hbs.edu/managing-the-future-of-work/Documents/research/emerging_degree_reset_020922.pdf
-- Burning Glass Institute and Harvard Business School. Skills-Based Hiring: The Long Road from Pronouncements to Practice, 2024. https://www.aei.org/wp-content/uploads/2024/12/Skills-Based-Hiring-From-Pronouncements-to-Practice-Burning-Glass-Institute-HBS-Project-on-Managing-the-FOW-EMBARGOED-UNTIL-FEB-14-24.02.13.pdf
+- Burning Glass and Harvard Business School. Dismissed by Degrees, 2017. https://www.hbs.edu/ris/Publication%20Files/dismissed-by-degrees_707b3f0e-a772-40b7-8f77-aed4a16016cc.pdf
+- Burning Glass Institute and Harvard Business School. The Emerging Degree Reset, 2022. https://static1.squarespace.com/static/6197797102be715f55c0e0a1/t/6202bda7f1ceee7b0e9b7e2f/1644346798760/The+Emerging+Degree+Reset+%2822.02%29Final.pdf
+- Burning Glass Institute and Harvard Business School. Skills-Based Hiring: The Long Road from Pronouncements to Practice, 2024. https://static1.squarespace.com/static/6197797102be715f55c0e0a1/t/65cc355c4935cb001349a4cd/1707881822922/Skills-Based+Hiring+02122024+vF.pdf
 - Australian Government, Department of the Prime Minister and Cabinet. Unconscious bias in Australian Public Service shortlisting, 2017. https://www.pmc.gov.au/beta/projects/unconscious-bias-australian-public-service-shortlisting-processes
 - Canada Public Service Commission. Anonymized Recruitment Pilot Project, final report, 2018. https://www.canada.ca/en/public-service-commission/services/publications/Name-blind-recruitment-pilot-project.html
 - Congressional Research Service. Ghost Job Postings, April 2025. https://www.congress.gov/crs_external_products/IF/PDF/IF12977/IF12977.2.pdf
