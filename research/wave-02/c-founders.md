@@ -473,7 +473,7 @@ excluded from the counts.
 | Employment dates | 1/13 | Only Friedman gives a range: GitHub, 2018 to 2021. |
 | Under 600 words | 12/13 | Median 322 words. Levels is the outlier at 4,394, mostly a project table. |
 | First person | 8/13 | Third person: Cagan, Spool, Aronowitz. Label only: Lavingia, Zhuo. |
-| Founder or co-founder as self-description | 7/13 | Collison, Masad, Lavingia, Zhuo, Cagan, Spool, Fried. Rauch says CEO; Friedman says "started two companies". |
+| Founder or co-founder language | 7/13 | Collison, Masad, Lavingia, Zhuo, Cagan, Spool, Fried. Rauch says CEO; Friedman says "started two companies". |
 | Direct email | 2/13 | Collison and Fried. Cagan has an obfuscated address. The rest route to a contact page, X, or LinkedIn. |
 | Any bulleted list | 6/13 | Career achievement bullets: 1/13 (Rauch). The rest are links or personal facts. |
 | Concurrent roles shown without hierarchy | 7/13 | Collison, Rauch, Friedman, Cagan, Spool, Aronowitz, Orosz. |

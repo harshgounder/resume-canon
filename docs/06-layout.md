@@ -125,8 +125,15 @@ Drop them. Every one is a parse risk with no upside:
 looks wrong at resume measure.
 
 **Dates.** Put them on the same line as the title, separated by a pipe or a tab.
-A right-aligned date via a table cell loses its pairing on extraction. A date via
-`\hfill` usually survives, but "usually" is the problem.
+
+This is demonstrated, not asserted. In the layout lane's fixture, a date set with
+`\hfill` beside a title, in a document that also had a two-column block,
+extracted six lines away from its title. Layout mode kept it beside the title;
+raw extraction did not. The same document read correctly in one tool and wrongly
+in another, which is exactly why the safe pattern is one text run, pipe
+separated, same line.
+
+A date in a table cell is worse: the pairing is lost outright.
 
 ## One column or two
 
